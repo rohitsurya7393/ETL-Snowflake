@@ -30,7 +30,7 @@ The pipeline is fully orchestrated using **Apache Airflow**.
 
 ## 🏗️ Architecture
 
-<img width="1682" height="806" alt="image" src="https://github.com/user-attachments/assets/bb4c6b53-cb8f-443e-a8c8-8c925e03a444" />
+<img width="1690" height="808" alt="image" src="https://github.com/user-attachments/assets/aa360939-a9b5-418b-a0ef-14676cb1e3e1" />
 
 
 ---
@@ -86,7 +86,7 @@ The pipeline is fully orchestrated using **Apache Airflow**.
 ## 📊 Airflow DAG
 
 
-<img width="2438" height="878" alt="image" src="https://github.com/user-attachments/assets/b7dcf96b-d065-45a1-b930-dc5ad367c6cc" />
+<img width="2466" height="608" alt="image" src="https://github.com/user-attachments/assets/a8f03b48-e94b-48a9-97b2-aa5cef898c3a" />
 
 
 ---
