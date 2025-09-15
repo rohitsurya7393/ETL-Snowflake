@@ -86,7 +86,7 @@ The pipeline is fully orchestrated using **Apache Airflow**.
 ## 📊 Airflow DAG
 
 
-<img width="2438" height="878" alt="image" src="https://github.com/user-attachments/assets/b7dcf96b-d065-45a1-b930-dc5ad367c6cc" />
+<img width="2466" height="608" alt="image" src="https://github.com/user-attachments/assets/a8f03b48-e94b-48a9-97b2-aa5cef898c3a" />
 
 
 ---
