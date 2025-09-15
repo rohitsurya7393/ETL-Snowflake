@@ -1,0 +1,1001 @@
+transaction_id,timestamp,customer_id,customer_name,product_name,product_category,quantity,price,total_amount,payment_method,store_location
+a6eb04cd-e392-4f57-bb63-f12b44798b0d,2025-09-15 11:15:49.623087,d359bb49-c91a-49bd-bfad-c1c5d9bc7d54,Jenny Herman,charge,Groceries,7,184.91,1294.37,Online Payment,East Heidi
+d9c8cfa0-8d74-4ab2-a90f-4aac2cbc37b5,2025-09-15 11:15:49.623278,ec6a1a17-77b6-4a9a-b8b8-e4f3d428077d,Michael Smith,bill,Electronics,5,66.85,334.25,Online Payment,Williamhaven
+f61de13b-df97-4d05-a2e5-08d8ba30f277,2025-09-15 11:15:49.623396,4d909129-fad5-46a9-a726-d42b41e620a6,Isaiah Jimenez,responsibility,Beauty,9,99.66,896.94,Online Payment,New Steven
+628f4186-fa5e-4857-b819-d23029d85bc0,2025-09-15 11:15:49.623495,bd043654-ed18-4992-83c9-ad18e7e211c5,Nathan Valdez,walk,Electronics,6,160.26,961.56,Cash,West Gail
+7c452732-1090-4fe7-89db-fa108a60d7fc,2025-09-15 11:15:49.623608,a735e850-48a0-4e68-90b3-3af7eac6d6dd,Steven Robbins,government,Beauty,4,445.7,1782.8,Debit Card,Jenkinsville
+977d4fc1-f0d9-4281-9add-79000a07ff2a,2025-09-15 11:15:49.623719,c79e0b90-b749-4cd2-8207-69526cbdd771,Mr. Alejandro Henry MD,agent,Groceries,2,78.59,157.18,Cash,New Lori
+e82dbba5-e1c6-4ef4-8656-7cf50f7cae09,2025-09-15 11:15:49.623820,94ebea6f-9c20-49e3-beb2-601dae012b30,Glen Reyes,ball,Home Goods,6,311.76,1870.56,Cash,Brandyfort
+8d1cdad4-6293-4680-b71c-b1065dec4910,2025-09-15 11:15:49.623915,10e1e1dc-e110-4dd1-90cb-77a470911f0e,Joann Goodman,test,Apparel,9,342.78,3085.02,Credit Card,Carterville
+e280ee33-3c0a-46eb-941b-f4ed87e9d209,2025-09-15 11:15:49.624029,f71f9dbd-021f-4c5e-b717-3f94c23ad35b,Angela Wilson,agreement,Home Goods,1,478.99,478.99,Online Payment,East Mariochester
+f04cf775-67a1-4678-bb39-c2a439e33cfc,2025-09-15 11:15:49.624126,d15c26d0-4f4b-4b9a-89fd-4b0d1c662c78,Joan Taylor,ground,Groceries,9,45.73,411.57,Cash,Lake Zachary
+e6a71ca6-765e-4a00-8cbd-f97303009f7e,2025-09-15 11:15:49.624221,231c286a-0fc3-4ab8-8ff5-90aced949419,Catherine Clark,court,Home Goods,2,317.24,634.48,Cash,North Randallfort
+c37db334-e2ed-49f2-b71f-f1a400e090a6,2025-09-15 11:15:49.624318,5187d589-95a7-4fe7-a994-a0d0d8b110a9,Jeffrey Daniels,ground,Electronics,2,487.89,975.78,Debit Card,North Tylerport
+e759527d-17b4-41dc-b9ad-ef820ff4b7f5,2025-09-15 11:15:49.624414,6e950d8c-90aa-4eb2-9629-baf536001fb9,Jennifer Levy,they,Apparel,5,296.4,1482.0,Debit Card,East Ashley
+96d4b99c-9d20-4509-b62b-b3f4498f583c,2025-09-15 11:15:49.624508,b7fac883-5395-4a48-a773-bcf79d3ed55a,Anthony Barker,various,Home Goods,1,296.51,296.51,Cash,East Michael
+86de22ba-38f2-4ce0-b70a-6e7852f1325f,2025-09-15 11:15:49.624630,c7060c67-ce96-445c-9ae7-881dd16f533e,Elizabeth Petersen,anything,Groceries,7,63.3,443.1,Debit Card,New Madisonland
+182e1d01-a98d-47fe-8e8f-1ae3028d0139,2025-09-15 11:15:49.624731,e0fb1958-a052-4023-977e-a85fecc976ad,Lisa Zuniga,fire,Home Goods,5,26.74,133.7,Debit Card,East Charlesville
+12e82b47-5d2d-468f-8ed4-1b697fa8e827,2025-09-15 11:15:49.624827,4711f541-76d6-4092-86b4-2cff4c458ceb,Troy Bailey,pay,Apparel,1,155.58,155.58,Credit Card,East Matthew
+1c7e0874-d97f-465a-b4f8-2dd6e3dbc98e,2025-09-15 11:15:49.624920,fb70268d-3d7e-423b-89b5-0a9402555d73,Timothy Meyer,on,Beauty,5,404.1,2020.5,Cash,Williamsside
+bd941004-ce55-46ea-ba4e-76dc0ff70e18,2025-09-15 11:15:49.625024,70236059-1073-45de-ab0c-f3e689f9c0ef,Corey Delacruz,whether,Beauty,4,242.02,968.08,Credit Card,New Wendy
+4b8a6e54-c8b7-4e89-a9da-e9e461a10934,2025-09-15 11:15:49.625117,51940109-b6c3-4bb9-b5d8-11fe46fe5f4b,Kevin Collins,very,Beauty,8,254.18,2033.44,Credit Card,Samuelside
+9a8330fd-0896-4952-8a72-0ad84594e644,2025-09-15 11:15:49.625210,a0d9ead4-f4df-4c41-84bd-3d48bcd9a4f9,Heather Rodriguez,far,Groceries,10,346.23,3462.3,Cash,Lake Rileyberg
+33ba44fa-211b-49c8-816f-2237ba89929e,2025-09-15 11:15:49.625305,efc478ff-3822-4ee7-b17f-7eaa9ef086bd,Emily Waller,term,Beauty,1,479.12,479.12,Cash,Jessicafort
+d932ec43-a366-4067-b7ae-c6f6e89c067c,2025-09-15 11:15:49.625399,3e430fd7-60cf-4799-9d4c-bdab76deef19,Mr. Michael Price DDS,likely,Home Goods,8,217.19,1737.52,Credit Card,Port Manuelberg
+2da96208-8418-4d50-862d-ab782fe93644,2025-09-15 11:15:49.625498,2368d140-0ebb-48d7-a44e-5a48ba0b5f13,Lindsey Reyes,after,Apparel,1,112.43,112.43,Cash,Port Abigailmouth
+95fc12d3-0370-4f55-8359-68652c463761,2025-09-15 11:15:49.625599,51e49ff3-3c47-40c1-8a22-63952aa9c957,Richard Russell,member,Apparel,4,31.38,125.52,Cash,New Sandyburgh
+4444936b-ff06-442a-bdde-881d69be11ed,2025-09-15 11:15:49.625694,63ef602d-cf5f-4b49-94d1-e4b2d5b9976b,Stephanie Smith,PM,Electronics,9,70.29,632.61,Online Payment,Roseton
+2a8021ad-26dc-403d-b2e3-72feb4c0f3c2,2025-09-15 11:15:49.625788,c1127974-a887-4e76-b2e2-2de69cd4224a,Renee Gordon,responsibility,Home Goods,8,425.26,3402.08,Credit Card,Port Karen
+b455c1ff-8ca6-4e1a-b84c-54d682b79b4b,2025-09-15 11:15:49.625882,e08a1c67-62fc-4d7d-bfe1-544f28b5e746,Christian Burns,draw,Home Goods,1,346.86,346.86,Cash,Sandrastad
+1a5a564b-aa60-4242-aefc-d0a9a6d35092,2025-09-15 11:15:49.625975,a65fe745-faeb-48fa-80df-8355e944cb2e,Morgan Moore,cover,Electronics,5,406.0,2030.0,Online Payment,Hamptonview
+8d8e9f82-8017-4679-b906-81c31a0e76c5,2025-09-15 11:15:49.626081,b6fc2bd4-1d9b-40a0-80ac-30a7c5b3ea61,Gerald English,kind,Apparel,8,233.52,1868.16,Credit Card,Brianborough
+9dc16507-d64a-4103-aecd-abd52ce99b56,2025-09-15 11:15:49.626174,b73ee172-3371-4ad5-9449-2c8fb50925b8,Jesus Lee,everything,Beauty,7,243.69,1705.83,Debit Card,West Edward
+4cd1831d-e385-494b-adae-04b1b7e32609,2025-09-15 11:15:49.626266,42c5f9f0-1e80-4f65-9f1c-9303a80454fd,Jared Blake,particularly,Beauty,4,29.33,117.32,Credit Card,New Brandonburgh
+28381160-f177-4520-a601-f63d5aa23e84,2025-09-15 11:15:49.626360,165b38ea-1ef4-47d9-8389-d55f8da93e0e,Sara Mata,wrong,Home Goods,3,33.54,100.62,Online Payment,Port Christinabury
+4606e828-41fe-492d-b228-d71a2135a656,2025-09-15 11:15:49.626455,cca5b7f0-c85b-46b2-b277-7ade90b7b8b4,Larry Pope,thing,Beauty,1,446.18,446.18,Credit Card,East Jessicaport
+528139f4-13fa-4b78-bfa4-a79c0fba7b38,2025-09-15 11:15:49.626550,a05f24bc-f07c-4da7-b04d-e884348618ee,Stephanie Willis,involve,Apparel,10,151.53,1515.3,Debit Card,Kelleychester
+43758e1a-377a-4636-a64e-153b66b0efda,2025-09-15 11:15:49.626660,474503d8-4bad-4658-99ac-65022070b19e,Katie Alexander,give,Apparel,3,403.76,1211.28,Cash,Scottfort
+69b2fe0f-3baf-4488-a962-fd45117e4443,2025-09-15 11:15:49.626754,08c721d0-2a30-4ba5-9bc4-8b06c0b0ecaf,Brandon Gonzalez,agreement,Apparel,3,47.84,143.52,Debit Card,South Stephanie
+73dcf915-3661-4a0c-8d4a-b5a2873a3055,2025-09-15 11:15:49.626847,2c59522b-4edb-45ed-ad52-da0ac0f70602,Katie Harmon,off,Beauty,1,430.01,430.01,Online Payment,South Reneeville
+c319d0b3-a162-4901-a2d3-9f5553a07dc0,2025-09-15 11:15:49.626942,bd8c1571-ed83-4bf7-92db-aa0ea8660e2d,Ms. Audrey Moreno,physical,Apparel,8,309.31,2474.48,Debit Card,North Steven
+0f96dd81-5513-4505-a2de-ab47988cdd54,2025-09-15 11:15:49.627039,1189d3c7-fb26-44a8-8adf-f899435261a3,Sandra Barber,exactly,Electronics,6,153.16,918.96,Credit Card,Antoniobury
+a6774e1b-5c86-42f9-a066-5819d4972852,2025-09-15 11:15:49.627133,b672f8b0-2faf-4c9a-be3f-79e79632170a,Tony Davies,explain,Apparel,10,453.53,4535.3,Online Payment,Kristinemouth
+d04c2f7a-74a8-425d-bbf5-d1523eb04a1a,2025-09-15 11:15:49.627232,a04f69d4-7db8-45c8-bdcc-629e4778dcce,Richard Wood,mother,Electronics,8,340.7,2725.6,Online Payment,Port Gloriaburgh
+11fa2093-3f35-4808-9e93-bbf60998f085,2025-09-15 11:15:49.627336,362602a3-3a36-44ef-9ec3-d579b018728b,Katherine Carson,ten,Apparel,3,276.21,828.63,Cash,Port Anthony
+27f31e2f-d198-4ad2-8d98-a916720d3aee,2025-09-15 11:15:49.627430,c4b47852-d8ad-4343-8f73-4d404b6b3c21,Bryce Knight,may,Home Goods,7,382.03,2674.21,Cash,Grahamport
+40251769-02f4-45ad-87c6-e69611d82210,2025-09-15 11:15:49.627548,1f861914-5fdb-45e8-bf01-9a8d79da4931,Holly Galloway,lawyer,Apparel,3,323.8,971.4,Credit Card,Kristinbury
+2faa2d1b-d59f-4c24-a0ec-4a06a3777f3b,2025-09-15 11:15:49.627654,b0e6dd0d-659b-4344-9466-d3150f0ae1db,Scott Schultz,suffer,Electronics,5,166.8,834.0,Debit Card,Johaven
+0ec99396-457c-4d31-8f85-b976830b164f,2025-09-15 11:15:49.627758,b0b1ce6c-f1a0-4c65-8bf2-d5b206632759,Stephanie Williams,process,Apparel,8,84.29,674.32,Credit Card,Jamesshire
+5e7f74a4-1e95-44e5-a0fd-a0f0aef79e0f,2025-09-15 11:15:49.627857,bdf04429-41c5-4416-882c-bfaedbf940cb,Kevin Poole,win,Beauty,6,403.58,2421.48,Credit Card,Johnsonborough
+a21e19f8-d2de-4d19-9ac7-505ea46fe8fb,2025-09-15 11:15:49.627971,690a0c3b-edc5-4340-9d64-cbaaac103024,Katrina Jones,behavior,Apparel,6,35.86,215.16,Credit Card,Thompsonbury
+5339597b-73ae-44ca-af57-5fabac6698b1,2025-09-15 11:15:49.628089,fb2f2e7a-629d-4b8d-8102-2c7f9118662f,Thomas Simon,plan,Groceries,5,424.4,2122.0,Debit Card,Castillostad
+7510a11c-649d-4867-9dc7-a2d031cf9411,2025-09-15 11:15:49.628207,f1b19752-8e62-4833-9d8f-f07de12bf433,Susan Morales,child,Beauty,8,200.51,1604.08,Online Payment,Josephborough
+5a664312-c86c-4c32-a8ce-9c134c26fdbe,2025-09-15 11:15:49.628305,256494d9-c499-489c-a3d7-a74a8d277fcc,Roberto Chaney,mission,Groceries,9,108.77,978.93,Online Payment,South Austin
+1db176dd-b510-41d8-99f8-646e73d1e1c8,2025-09-15 11:15:49.628401,51dbcb50-ff35-4dfe-815d-53daf85ec966,John Coleman,poor,Groceries,4,104.49,417.96,Credit Card,North Sethmouth
+4794db97-b031-46d5-a23c-fbb341b53f67,2025-09-15 11:15:49.628506,ac646f20-454c-4f80-87bc-3c5037d7a5db,Richard Wilson,control,Home Goods,8,230.04,1840.32,Cash,Lindseyburgh
+7d8c287b-8514-4b7b-8eea-d961e0396f9e,2025-09-15 11:15:49.628609,452b7d12-22e0-4554-b2fe-ec1f8d74bb2f,Shawn Lee,cover,Electronics,7,336.35,2354.45,Online Payment,Cassidyberg
+0c237263-6e4e-43d3-a374-2a908880c1d3,2025-09-15 11:15:49.628705,42bd0f65-9798-478e-8931-d5d75a5e3459,David Fox,none,Electronics,3,369.01,1107.03,Debit Card,New Maryview
+c4228c62-f7cb-46e1-9ddd-194083b15bc9,2025-09-15 11:15:49.628804,5caf37d2-e3b5-415e-9839-ee7a1e32e7c4,Kyle Johnson,situation,Apparel,8,191.83,1534.64,Debit Card,Peckview
+c7c58723-2497-4fc9-9ee0-c1ce7d7224a8,2025-09-15 11:15:49.628929,455e0969-d8c8-44bb-ad75-279e13274998,Norman Walton,hair,Beauty,5,456.56,2282.8,Cash,Christianfurt
+14a7b727-6934-4390-8d3e-6005727897c2,2025-09-15 11:15:49.629025,f21da003-4827-4568-84ec-8d8f888e4fd6,Ms. Karla Villegas,woman,Beauty,2,88.89,177.78,Cash,Port Sherri
+ef361b18-ac9d-4d72-bc2e-5aaa8eb5d984,2025-09-15 11:15:49.629126,59ae533f-b903-47dd-b8ff-25416557f2f9,Shelley Martinez,rise,Home Goods,5,118.3,591.5,Credit Card,South Barbara
+f5aece89-2d3e-482a-8954-a7a5a8942170,2025-09-15 11:15:49.629234,7c60486c-832d-4dab-bad5-15489b9560fb,Charles Gibson,full,Apparel,2,63.6,127.2,Cash,Debraville
+5fc7147b-62e2-42a4-a85d-6772a9c3122b,2025-09-15 11:15:49.629330,1d6e4121-a0c4-484f-8acf-ef42cc491239,Elizabeth Heath,question,Home Goods,1,195.02,195.02,Online Payment,North Jenniferstad
+5aa6c25c-7df7-45e3-814e-e9a4116b22b2,2025-09-15 11:15:49.629425,1ac6588f-607d-45de-830e-38e21a6758e7,Karen Richards,political,Electronics,5,101.74,508.7,Cash,New Joseph
+41165d04-5bf9-4cc7-85c3-c5842d8ad9bb,2025-09-15 11:15:49.629523,036314c7-e7e9-4925-80ad-64bbfafb504a,Christopher Bell,simple,Home Goods,7,225.25,1576.75,Credit Card,Port Lisaberg
+cdd4a8d6-2206-4256-a526-c24132c7f614,2025-09-15 11:15:49.629628,d4a05139-671e-4f5f-830f-be0e910d553b,Emily Gonzalez,watch,Beauty,8,426.63,3413.04,Cash,Lake Ericstad
+e424c6ac-eb1e-43e4-afc7-879177698643,2025-09-15 11:15:49.629742,7191f6a5-e8a9-4b7b-b70b-346a22854e70,Cynthia Castro,including,Apparel,3,302.97,908.91,Online Payment,Williamfort
+b2e8ab42-ba59-412a-9394-e1d896e0de1a,2025-09-15 11:15:49.629837,8ecced22-cfa6-41ef-9df3-168955b6dfce,Charles Evans,spring,Groceries,5,335.54,1677.7,Credit Card,Lake Tammy
+496d9f97-917b-4018-ac8c-eecc2c13ef5c,2025-09-15 11:15:49.629931,f063750c-508d-48c0-a2ab-370f45e94476,Amy Hughes,drive,Home Goods,5,48.2,241.0,Cash,Port Kayla
+f39e8468-1027-4620-904d-152ed71f9eb1,2025-09-15 11:15:49.630025,141117d2-6006-4f03-8afb-ac5f83b2c2ec,Kimberly Jenkins,strategy,Apparel,7,381.81,2672.67,Credit Card,Julieton
+df343e22-37ff-4ae0-9030-94aa0dc11519,2025-09-15 11:15:49.630120,42915aec-9417-4c49-b0a7-71a709f9c13f,Brian Baldwin,industry,Apparel,2,19.84,39.68,Online Payment,Perkinsville
+ffbb9b69-a19a-4fd3-b127-d48f0655c208,2025-09-15 11:15:49.630223,522dfdb6-8b3f-4ac6-a80a-ef9e6801bf2e,Kristin Flowers,Republican,Electronics,7,202.42,1416.94,Online Payment,South Alexis
+56b7e4cd-2b17-4bc9-b99c-8ebdc383a24a,2025-09-15 11:15:49.630317,1c0d545c-7c35-4613-a9f5-399ae936ab0a,Jessica Stone,mission,Electronics,2,223.19,446.38,Online Payment,Hallshire
+53eab259-8829-4220-bb8a-cab816196ce5,2025-09-15 11:15:49.630422,5d53756f-1dd4-4e22-9136-32e0311f6710,Sara White,anything,Groceries,10,66.67,666.7,Debit Card,West Matthew
+3dc5255f-cf82-4e90-ba92-2d303de977fc,2025-09-15 11:15:49.630516,06ce977b-5ac7-4210-9a79-5535e317b3df,Belinda Cannon,ever,Groceries,4,376.42,1505.68,Cash,Thomaston
+a3f651e6-476a-4d8f-8f8e-7fb1cc81bfc2,2025-09-15 11:15:49.630615,0752db33-f041-4b24-a012-e692d9854141,Cynthia Clark,white,Electronics,6,262.53,1575.18,Cash,Daisyborough
+ea7f49a1-9e7a-4d61-a9eb-19e01b436cc8,2025-09-15 11:15:49.630709,7604e098-35e7-4029-aba0-da584ca9d535,Eric Williams,state,Apparel,4,348.37,1393.48,Online Payment,Laurenview
+4a8e7dc3-23d0-4ecb-aa4e-be5e164f3cbe,2025-09-15 11:15:49.630802,5f36ded4-40d3-453b-b2c1-9a1d5c9cd97a,Kyle Rodriguez,write,Groceries,1,333.56,333.56,Debit Card,Kellyshire
+5b85646d-4f58-4d59-989b-d60521c174e9,2025-09-15 11:15:49.630906,a2348739-a554-4bee-9ae3-19e8c5714e7d,Stephanie Sanford,bit,Electronics,2,33.34,66.68,Debit Card,Hillborough
+8f54f437-cd3f-4bc2-9297-5a07a494c5f3,2025-09-15 11:15:49.631011,260bdb84-5376-4d76-9a1c-c9bb4416ecdb,Denise Maldonado,record,Electronics,6,449.79,2698.74,Credit Card,Christopherton
+133eaf33-b862-4670-9dcc-27cf84216515,2025-09-15 11:15:49.631106,ae5d0fbf-655e-4824-9070-07bae392a784,Sherry Hart,project,Home Goods,3,56.85,170.55,Cash,Port Joseph
+70efbd73-e9a8-4230-8144-a5d895a03e3b,2025-09-15 11:15:49.631200,78d4b83f-26a6-4eb0-a533-806e80c1d1c1,Thomas Morris,model,Groceries,6,147.29,883.74,Online Payment,Juliefort
+465a3e30-cece-49ff-9d80-8888377555ee,2025-09-15 11:15:49.631292,ff086caa-ea3d-41d1-a7f3-b41037bb6728,David Howell,he,Groceries,4,345.9,1383.6,Debit Card,North Tammy
+dcdf0bcc-9f40-49f1-9716-f77a9caac7ce,2025-09-15 11:15:49.631385,259f02a9-ad11-49e5-967a-91255c6e972b,Wendy Zavala,during,Apparel,8,209.57,1676.56,Cash,Peterton
+eaeb8d5d-995c-443f-89c5-a5f7300d0efe,2025-09-15 11:15:49.631479,ad17d732-5b53-40d6-ad3e-8c006a9c54cd,Latoya Leblanc,step,Apparel,6,140.33,841.98,Online Payment,Laurenport
+026bfeef-e0fa-4ba9-81ff-6ef3ae8b5b9a,2025-09-15 11:15:49.631573,e29c8702-ccef-47bf-8b03-05a8154d5174,Jonathan Hicks,management,Apparel,8,301.36,2410.88,Cash,Pittstown
+216278a6-f378-418e-801d-fb805b6070ee,2025-09-15 11:15:49.631683,ebf8a030-12f9-46da-b61c-1c6d0cf28953,Russell Cruz,issue,Apparel,10,236.99,2369.9,Online Payment,Herrerafort
+8f4df6f5-0767-44a4-a355-21f8374f6c15,2025-09-15 11:15:49.631787,3c8a489a-ef5b-4612-a457-f9690050f942,William Parker,husband,Beauty,3,285.24,855.72,Debit Card,West John
+7caf8300-fa2c-48f4-89a0-591cad70989a,2025-09-15 11:15:49.631880,dd6077e0-a900-4d9d-802b-2f3a58624c96,Jacob Rodriguez,nothing,Beauty,10,175.05,1750.5,Debit Card,Lake Julieland
+a301e019-a156-4f65-9114-4c6e1f777832,2025-09-15 11:15:49.631974,b4faaad9-a2e1-48d0-81eb-11bf9472f119,Stephanie Ross,reason,Apparel,8,480.91,3847.28,Cash,Port Charles
+ab81ef1f-1b75-4699-9719-f147a600c661,2025-09-15 11:15:49.632070,ce273c31-2642-426d-a6a2-a3002d6da33f,Jeffrey Garcia,between,Apparel,4,87.29,349.16,Online Payment,South Stephenview
+d21d9453-d679-4b5c-87ab-90cd17efdff5,2025-09-15 11:15:49.632182,6e51c098-0e0d-4c5c-873d-f43bd8265a2f,Lori Garcia DVM,information,Groceries,5,8.05,40.25,Credit Card,Murphyfurt
+b476c1c9-f3c4-4902-93a9-e907ec6e1fd4,2025-09-15 11:15:49.632297,e77c5cc3-55f5-45b8-8f36-47da19e04172,Cassandra Flores,century,Electronics,8,464.59,3716.72,Online Payment,East Cynthia
+91eec81a-c41d-4fa1-8017-f76eb554ec6f,2025-09-15 11:15:49.632413,d5f4b9c3-c922-4657-93b7-f059ac720588,Justin Williams,agent,Apparel,7,41.11,287.77,Credit Card,North Carlosstad
+6c0c4f1e-561a-4d99-9cac-3f59fd7591ed,2025-09-15 11:15:49.632517,3af8ef1b-22cd-4fb2-8cb1-7a451988ded7,Christopher Jones,newspaper,Groceries,6,274.97,1649.82,Cash,Parksside
+a0409b29-43c7-41cb-a6e8-2e33ff52fb94,2025-09-15 11:15:49.632634,4cf96dbd-3cf3-4c53-87cf-bed956f2af4b,Dustin Foster,type,Home Goods,10,287.48,2874.8,Cash,East Jamie
+8350eb3a-af8f-4474-844d-dd257cb65ad5,2025-09-15 11:15:49.632727,13b115ed-82d6-4077-bda0-d7ece86f96a2,Heather Long,agree,Home Goods,4,422.16,1688.64,Online Payment,South Patriciafurt
+fc746fa1-f02d-462e-834d-7996aedc3415,2025-09-15 11:15:49.632822,3f10eff6-be41-490c-b1a7-53e5f2a928e3,Nancy Thompson,no,Home Goods,9,422.88,3805.92,Cash,Connieside
+a8deb270-8ffd-404f-960e-bf7dfdfbbf40,2025-09-15 11:15:49.632916,43cdbcc3-78e0-4dcc-aab9-3e5bcfd726b8,Thomas Garcia,maybe,Apparel,9,45.68,411.12,Debit Card,Lake Jasonhaven
+f3a39161-feac-44c1-80fd-a393b8a0f9c2,2025-09-15 11:15:49.633010,980da1b4-0122-43db-9cde-c9a63b48e1c8,Christine Moore,evening,Groceries,6,57.45,344.7,Cash,North Brian
+d1117c05-bbe3-43aa-9594-c0574444324a,2025-09-15 11:15:49.633104,277105dd-8460-48e4-87f2-f5a5c08efa94,Shawn Perez,even,Beauty,5,36.46,182.3,Credit Card,Lemouth
+3f1cca67-4610-48f4-98f7-2c63a7bf4952,2025-09-15 11:15:49.633208,cd07bc3a-4355-46a3-aff0-380919de4333,Joy Johnson,serve,Groceries,1,495.54,495.54,Cash,South Philipberg
+389894ae-9aa5-44b6-b945-29da505fe4fe,2025-09-15 11:15:49.633304,571364cd-f5ce-4ca2-8f93-dc1fc42ed5af,Monica Nguyen,table,Groceries,5,344.56,1722.8,Online Payment,Kennethburgh
+091f7561-0aaf-4e63-a7cd-a2a6d41c91d2,2025-09-15 11:15:49.633401,868ae21d-962c-48d3-8be0-aef7ed20f52b,Amber Frazier,offer,Apparel,7,175.3,1227.1,Online Payment,South Laurahaven
+199e5cb8-c316-44d4-bacd-ead60a13faf4,2025-09-15 11:15:49.633496,cdc2b52e-94e6-4b2d-b0a0-a9dbb117e830,Kristen Griffith,air,Apparel,10,218.55,2185.5,Online Payment,Morristown
+ec9acd17-37bb-41d0-9d3d-a525b5e586aa,2025-09-15 11:15:49.633607,fe79305b-9ec8-4a64-a02c-c459ec4756bf,Brandon Jackson,appear,Apparel,7,281.58,1971.06,Debit Card,North Alexander
+d3cfddbf-d76b-48d3-9fd9-4fe8bbeed482,2025-09-15 11:15:49.633699,e2f12ab3-99bd-4fe2-9d73-d8a120192221,Shannon Smith,section,Beauty,1,116.25,116.25,Credit Card,Port Madison
+de3a7fc4-ba4a-4b26-a68a-fc91867099ba,2025-09-15 11:15:49.633793,0d899a71-8efc-4bdb-81a6-3f95eb965d67,Alexander Blackburn,face,Home Goods,2,302.57,605.14,Online Payment,Melaniechester
+bcc726eb-c667-41c7-9bec-14b7534d80c6,2025-09-15 11:15:49.633892,3ad1a390-4b87-4a97-ae07-9e0347895919,Brandi Baker,rule,Beauty,8,84.33,674.64,Debit Card,Martinmouth
+e4328ba0-9f4e-4fd7-9233-b226013346be,2025-09-15 11:15:49.634004,aca69e3e-205f-4c93-8740-f3806e4ef8ba,Tiffany White,provide,Electronics,2,421.36,842.72,Cash,East Casey
+c4b7fc34-77fa-4583-96eb-248611a184c0,2025-09-15 11:15:49.634097,a03175aa-9f9d-46ce-bb44-b0630eebb741,Pamela Berg,north,Beauty,5,26.61,133.05,Credit Card,Mooreshire
+14f38756-9108-40c4-b8ba-7013fecfbfa8,2025-09-15 11:15:49.634202,26f51eff-f199-4e51-b766-ed1e6f94b955,Robert Ballard,yet,Home Goods,1,290.81,290.81,Debit Card,Jasonside
+318b0389-b930-424f-8e1f-fccf1e84e1c5,2025-09-15 11:15:49.634295,c9c2b289-2b7e-4386-9df6-2632848ddcca,Daniel Williams,may,Groceries,3,85.1,255.3,Debit Card,Ashleybury
+58629fce-3570-4f1f-b9bc-00768c4d131b,2025-09-15 11:15:49.634388,3cd2be2c-3198-4227-a8e5-14dac454fc1c,Amy Waters,against,Beauty,10,499.74,4997.4,Cash,Bethanytown
+64d3838a-17cc-4987-ac51-c044ea086b62,2025-09-15 11:15:49.634481,ff072c44-7f75-40ce-9c1b-171154157264,Daniel Robbins,out,Electronics,6,14.43,86.58,Debit Card,Michaelchester
+21060b25-5757-43b6-9bd7-8586be134edb,2025-09-15 11:15:49.634574,e3d9c5fd-9764-4b25-a27d-bf29c8db8465,Mary Dixon MD,site,Groceries,3,62.2,186.6,Cash,Port Carolport
+52a09763-bebd-48b0-8c10-c8010a7fa76d,2025-09-15 11:15:49.634677,557038c4-c82a-4ca5-b69b-3ce0b7ecd5bb,Noah Wilson,husband,Beauty,4,109.38,437.52,Debit Card,Port Amanda
+3ee80545-4f67-472b-89a8-346efc716366,2025-09-15 11:15:49.634770,ecff8a6a-ba54-4825-a6e2-fd10329358d9,Karen Chan,space,Groceries,7,426.15,2983.05,Cash,Amyfurt
+f7412c33-ac9b-4767-93fb-a5b96192bbc0,2025-09-15 11:15:49.634864,0cf1479d-72d2-4242-8783-d1b60bf0480b,Lori Ramsey,modern,Apparel,4,35.59,142.36,Debit Card,Michaelchester
+d569cdef-9d67-4ed1-a655-8bf52564cd80,2025-09-15 11:15:49.634958,28926294-fb14-4901-9ec3-0a0189f39822,Darryl Erickson,surface,Groceries,10,158.39,1583.9,Debit Card,South Taylorland
+91d6707e-d84d-4cf5-a2aa-413aae536cf6,2025-09-15 11:15:49.635052,16f2ae71-5484-475b-bb4c-78ce35863081,Jennifer Jensen,pull,Electronics,3,437.15,1311.45,Cash,New Nicolemouth
+e665d98e-ee0b-48ec-b774-fc4f9d519655,2025-09-15 11:15:49.635148,633d1a6e-81c6-476a-b434-9a4d67dad766,Erin Brown,party,Apparel,7,327.87,2295.09,Debit Card,Langside
+5361ab34-900d-447a-8276-dfc25b5a49d0,2025-09-15 11:15:49.635253,0c0fe567-c0f6-4d94-8cf6-54fd5eb37b8f,Barbara Smith,newspaper,Groceries,6,25.07,150.42,Cash,Curtismouth
+88da0210-43e7-4c15-8815-fd59ba5f807a,2025-09-15 11:15:49.635347,3a168266-f9ad-4180-aed6-73715fcbb695,Lisa Jones,end,Groceries,10,140.77,1407.7,Credit Card,Ryanfort
+00a26da8-077e-4cc0-ad66-9004b4141082,2025-09-15 11:15:49.635440,1e915cf1-c68b-4805-b22e-7b3feebd7ec9,Robert Harris,body,Groceries,8,166.67,1333.36,Debit Card,North Ryanbury
+8d55d75c-5ec0-4951-a1aa-1eb99bd503ca,2025-09-15 11:15:49.635535,f5b81ff4-2dfb-46b3-af0e-a1c6f545ca1a,Paul Chandler,have,Home Goods,1,143.38,143.38,Debit Card,Brendabury
+79f0222f-dc79-412b-823b-13fb76f6aaea,2025-09-15 11:15:49.635633,72c551b3-9413-4f95-b883-737d9ebf48c5,Kyle Gray,network,Beauty,7,460.63,3224.41,Online Payment,Lake Cynthiaview
+47c1c69e-3c49-47ff-b010-88ddc89d5fa2,2025-09-15 11:15:49.635727,ba03d38d-5b32-4d41-8763-86a241e020fe,Janet Burns,those,Home Goods,4,218.23,872.92,Cash,South Jenniferburgh
+0771274b-9337-4f80-a431-5b46ef9b4874,2025-09-15 11:15:49.635822,a27bb98f-4bb4-4326-8812-45568fda530a,Kevin Dillon,last,Apparel,7,255.86,1791.02,Debit Card,South Sarahbury
+484c9431-de5c-4f5e-8fe2-73a8c2ceb470,2025-09-15 11:15:49.635916,7b5e3d94-9d23-47d6-a402-af4a8cb0c7b0,Jacob Alexander,reduce,Home Goods,3,88.09,264.27,Credit Card,North Annettebury
+23df513d-4f0f-47be-af40-6c63d3fa87c5,2025-09-15 11:15:49.636010,351f645d-72b7-492d-9f46-0f173b35a501,John Guzman,field,Apparel,5,462.41,2312.05,Cash,Alexandraville
+a86af6be-0127-47b1-a7b5-acf5c9b0c2c6,2025-09-15 11:15:49.636103,b7b00fd2-4d6d-47ca-bb5d-9753471fa9d6,Heidi Smith,majority,Apparel,8,294.17,2353.36,Debit Card,North Kimberly
+b35cd838-2b4a-48f0-b4d7-7a219a4314c5,2025-09-15 11:15:49.636197,653d1014-6f8c-4837-93dd-d566c25e0db5,Alyssa Ford,nation,Apparel,10,316.35,3163.5,Credit Card,New Christopher
+440be8a6-cffd-4a7f-a862-e2de6d88beed,2025-09-15 11:15:49.636291,733072df-91c0-4d9c-a5fd-80ea3fa8b050,Mrs. Julia Wright MD,find,Beauty,4,390.32,1561.28,Cash,South Colton
+2c843d9e-7086-4bc3-83e2-3c61c6fe7c0a,2025-09-15 11:15:49.636389,57537a57-1451-4d94-9a1d-5e64ffcdf233,Barbara Martin,bad,Groceries,5,313.9,1569.5,Credit Card,Barbarashire
+1b3d1c60-2828-45df-853c-85d82225d2f5,2025-09-15 11:15:49.636483,cea4d58f-b3aa-413a-82a4-4ffee1f104c1,Sabrina Vasquez,simple,Home Goods,9,223.1,2007.9,Credit Card,Medinastad
+e8dc82f3-d04f-4992-985d-bfb36530e9f0,2025-09-15 11:15:49.636593,51a3f59a-4a48-4152-8a49-5c98121d0f98,Joseph Young,specific,Electronics,8,370.47,2963.76,Online Payment,Robertsfurt
+7458e57a-21ac-4c42-8a32-648ee5305e70,2025-09-15 11:15:49.636697,734471df-a054-4675-8c80-96f47d9717ee,Terri Roman,no,Apparel,7,487.18,3410.26,Credit Card,New Eileenfurt
+a82d9cfb-b75f-4f07-b139-ec35b82d6cfb,2025-09-15 11:15:49.636791,6ed32a34-d091-49dc-8f67-25bb52c31f69,Denise Monroe,believe,Electronics,10,294.0,2940.0,Online Payment,Lake Blake
+cb72bc74-24b6-4e7a-87ff-36eb89279c98,2025-09-15 11:15:49.636885,e950225d-ad82-4cc4-aef7-c3ecd30c61d4,Edgar Wade,everything,Electronics,6,128.98,773.88,Cash,Port Meghan
+982e4830-414c-4cfb-a476-7a060a8b83b1,2025-09-15 11:15:49.636978,ff08a1d0-0910-4544-8fb1-18bf5e58f8b0,Alice Nguyen,arm,Beauty,9,230.55,2074.95,Cash,South Courtneyfurt
+73774768-9262-4f84-a92d-cbb2864b1905,2025-09-15 11:15:49.637073,bfcee0d9-4b2f-4121-8dd9-7ba903418b9f,Sean Bailey,war,Home Goods,7,450.34,3152.38,Credit Card,Joyceside
+b77b0dc4-0ffe-4e41-9574-feab04be8dbf,2025-09-15 11:15:49.637177,ab8c97ed-9482-4c4e-9066-0e405a1f9b4d,Zachary Hansen,anything,Groceries,9,269.74,2427.66,Cash,Port Chasehaven
+2f2c35a5-b07f-4b14-9da5-981d60098e6f,2025-09-15 11:15:49.637270,79ba6f6c-4bf7-4482-a7a1-a9f184b3dc63,Rachel Blankenship,seat,Home Goods,5,15.24,76.2,Online Payment,Port Ericburgh
+f1e4f6b1-b1b2-423a-87ca-4b7807e32cd4,2025-09-15 11:15:49.637365,1781e650-e083-4159-90bf-d2b51177271c,Philip Casey,true,Electronics,9,179.04,1611.36,Online Payment,New Anthony
+0dd72683-ec02-4d84-b963-5370f7cf4720,2025-09-15 11:15:49.637458,bb5742af-f441-4a74-b5bf-b3464001679b,Sean Morris,week,Apparel,4,13.13,52.52,Cash,Scottton
+9daec0f7-aaea-4563-a010-3addd44ccad9,2025-09-15 11:15:49.637551,96963786-6af6-494e-b740-193a4c644f9e,Catherine Robinson,game,Electronics,7,419.78,2938.46,Debit Card,East Joshua
+3a43e44f-536d-4c29-9a45-7018d790a9c0,2025-09-15 11:15:49.637649,2938e2a0-5da4-44f0-b35b-cd1be3ed255d,Christina Johnston,because,Electronics,1,47.78,47.78,Debit Card,North Michelle
+3da3d721-4230-4016-916c-55085777f118,2025-09-15 11:15:49.637743,c1741e77-8b0f-4fcf-ad7c-35836a20e8e3,David Jones,alone,Beauty,4,192.89,771.56,Online Payment,West Marktown
+9371d98a-ff1f-4eb5-bd17-36ae3825db37,2025-09-15 11:15:49.637836,5e739701-b08e-4344-be57-de55f5a2e30b,Latoya Schmidt,newspaper,Apparel,10,217.36,2173.6,Debit Card,Port Oscar
+d402c7f9-01bf-4b8a-99b2-66f63a41be6c,2025-09-15 11:15:49.637938,da1e36c9-bd54-45d0-9a2a-9d74c6d5240d,Richard Cisneros,discuss,Electronics,2,268.34,536.68,Cash,South Kellyfurt
+c77d8005-f0ef-4d1a-bb0a-037f44f35c7f,2025-09-15 11:15:49.638042,bd97c370-af05-408b-8c38-06424e4dc529,Matthew Velasquez,billion,Groceries,5,142.74,713.7,Debit Card,West George
+b4d79826-161a-46f0-a61e-5314b11d9fab,2025-09-15 11:15:49.638147,e41a8484-5da1-444b-90bc-cbbed4376693,Raymond Bryan,despite,Home Goods,5,228.37,1141.85,Cash,Jessebury
+6d6ec12c-7fc2-4f18-872d-0b153ea83280,2025-09-15 11:15:49.638249,761f5d2e-0e7c-40bb-b8ba-c12b2466d3f4,Julia Francis,wind,Groceries,3,481.04,1443.12,Debit Card,North Brent
+ee5c0550-919a-4823-8767-cff61ec2a6a7,2025-09-15 11:15:49.638361,39d25394-5fd0-41c6-abce-fb2516166ac3,Travis Horne,positive,Home Goods,5,404.23,2021.15,Debit Card,Port Darius
+8c566333-88ba-4a20-bdeb-f4db410c5e96,2025-09-15 11:15:49.638471,4c96c126-ee0d-4c91-8b84-04fafb057875,Jorge Bernard,generation,Beauty,5,355.71,1778.55,Cash,Stephaniemouth
+0ac3a235-de78-4d64-aef5-70f989c054c0,2025-09-15 11:15:49.638566,8b062f0c-a68b-4d74-b217-acbc6f9edc98,Jessica Matthews,direction,Apparel,10,432.55,4325.5,Debit Card,South Jesse
+69364d9c-c762-4897-b68e-d55bb29af529,2025-09-15 11:15:49.638676,e3050489-a25e-4ede-b2c1-1e1f358e1a34,Jennifer Miller,ahead,Electronics,1,153.8,153.8,Credit Card,North Andrewchester
+53c914ec-0032-499f-a400-2bd8ff4bcd47,2025-09-15 11:15:49.638771,a65d6322-a892-4fc3-9b3a-c8e3c7b3b824,Caroline Perez,doctor,Electronics,6,250.13,1500.78,Credit Card,South Josephstad
+923b291e-7636-42ed-b53c-951ba7073b21,2025-09-15 11:15:49.638866,d7b1177f-99d0-4489-ada4-5281b9617005,James Smith,big,Groceries,4,111.36,445.44,Cash,North Samuel
+c80b6693-2aea-47bd-b8d3-128250f969c6,2025-09-15 11:15:49.638964,8edf64ca-aee8-42c8-9d5d-112fbb63912e,Wyatt Yates,responsibility,Electronics,4,127.77,511.08,Cash,Lisaport
+f3bdd36a-a763-40bc-abb8-a8446139d328,2025-09-15 11:15:49.639074,e3b73f17-6842-4346-9859-b2fac64b26c0,Kayla Hall,sound,Electronics,8,477.25,3818.0,Online Payment,North Taylor
+1b575686-6383-4251-b51e-0367b2b28fc5,2025-09-15 11:15:49.639197,88a12763-65df-4d8b-ab5e-9fc0294c98cd,John Johnston,red,Home Goods,1,341.4,341.4,Debit Card,New Victorshire
+8850d789-3b48-4339-a357-126135c2b61d,2025-09-15 11:15:49.639291,c631324a-7cd4-48fd-bd90-ddd93d2ea732,Andrew Hall,buy,Groceries,3,109.9,329.7,Online Payment,Allenfurt
+dec70d20-5a45-4cc7-aa72-a8c6becec9d4,2025-09-15 11:15:49.639395,39d89a57-0da9-4477-b636-ab7ee420796f,Rachel Hamilton,pull,Electronics,3,369.78,1109.34,Credit Card,Carolberg
+e28f3924-8e10-4eb7-88a6-36f3ab309ad6,2025-09-15 11:15:49.639489,c6d77fd9-7670-4cbb-a987-1b2556d1e829,Mary Owens,who,Home Goods,9,309.63,2786.67,Online Payment,New John
+5e955b81-2d5d-45cd-94e4-8eef1df27617,2025-09-15 11:15:49.639595,2b9f0503-c14b-43c5-bedc-26a109aeb385,Jamie Henson,thus,Apparel,9,470.89,4238.01,Debit Card,Gloriashire
+62eeff85-a5be-4120-a801-68268fc648c7,2025-09-15 11:15:49.639696,ce8d5290-6568-47f7-83a2-bfb9628b4955,Tony Ward,ten,Home Goods,1,382.44,382.44,Credit Card,Orozcochester
+21b398c0-ff8f-416a-a49f-99745f6a5e75,2025-09-15 11:15:49.639799,0f3093b8-6638-4f72-b5d4-3021d57d9d2a,Matthew Patton,Republican,Apparel,4,101.0,404.0,Cash,Port Heather
+6a736898-b775-4742-951a-b17b7b2a546a,2025-09-15 11:15:49.639892,32889138-ac92-43f0-95db-714c107771ca,Daniel Jackson,window,Home Goods,6,240.66,1443.96,Cash,East Nathanielfort
+e7fe917c-9ccf-46ac-88a4-760fd093779f,2025-09-15 11:15:49.639987,8cad1cc8-95ad-4915-aae9-f39a36260f62,Christine Simpson,tell,Beauty,3,7.01,21.03,Credit Card,Deckerburgh
+498f71e3-79e6-4fa0-b65a-97d4f3a3b9b9,2025-09-15 11:15:49.640092,e5b00042-a220-4913-b87a-ad367c89e927,Sheila Torres,set,Groceries,10,288.8,2888.0,Credit Card,Khanbury
+11430513-b3f9-4816-b70f-30a0554384a1,2025-09-15 11:15:49.640197,972c5483-a547-47d7-992f-06b82e76850f,Lori Sellers,show,Home Goods,6,371.83,2230.98,Online Payment,Thompsontown
+d0ae5a69-181e-4d27-abfb-fa1f969363aa,2025-09-15 11:15:49.640302,7d8f9df9-2237-4865-be01-939cacecf750,Teresa Stone,visit,Groceries,1,322.23,322.23,Cash,Priceton
+ebdef9ee-4ee6-4f72-8b8e-0fe4dca3edbf,2025-09-15 11:15:49.640408,e1145385-c9e6-455b-9c37-157ec143bf7b,Daniel Rodriguez,population,Beauty,3,21.6,64.8,Online Payment,Jenniferchester
+51e25568-a084-4196-bf3e-f2ce17286649,2025-09-15 11:15:49.640500,1f3bfb66-5039-4705-95d4-c8a083ee8add,Robin Sullivan,gas,Apparel,3,349.22,1047.66,Online Payment,Romanland
+6d2c6d9a-7581-42bf-833b-bd7fd5a45441,2025-09-15 11:15:49.640611,4ee9cdc5-25aa-462e-8aa0-a2829abf36a8,Amy Medina,writer,Home Goods,10,455.05,4550.5,Credit Card,Caseyport
+1669cf4d-fa87-475c-b533-54617b03e4c0,2025-09-15 11:15:49.640717,7d9d8691-a6c2-4aa1-bd81-ad87b582d5d4,Tony Tucker,so,Home Goods,9,440.43,3963.87,Online Payment,South George
+9ed4c19d-cac8-419a-a60a-cb11be89c425,2025-09-15 11:15:49.640809,17b8a614-5577-49aa-be37-91824a94b0a9,Danielle Vincent,stop,Apparel,6,456.12,2736.72,Cash,Port Corey
+ededbb86-fcce-4785-9311-105b88e95c73,2025-09-15 11:15:49.640903,6fe996f1-d608-45b5-9a3d-21e461d70c55,Howard Baird,similar,Groceries,9,240.56,2165.04,Credit Card,West Dominic
+914ea86e-6623-455e-8211-6cc111219743,2025-09-15 11:15:49.640996,deda921e-f2fe-453e-bbc6-29e5bca702b7,Robert Boone,purpose,Beauty,3,159.83,479.49,Cash,Nancyfurt
+97da1fcf-3fce-4c08-9171-fb8aaf8429c5,2025-09-15 11:15:49.641089,c5f571b5-43ff-4026-b64a-ec33aba99205,Kyle Hudson,source,Electronics,6,101.51,609.06,Online Payment,Floreston
+06505c55-d9c9-43b3-ac85-77a207ca9da5,2025-09-15 11:15:49.641193,75291af5-3f1f-4817-aa44-2a280bda4d13,Joshua Sharp,wide,Electronics,6,428.29,2569.74,Online Payment,West Timothychester
+184694c4-daea-475e-ab4d-40079cc5cfa0,2025-09-15 11:15:49.641287,04d274da-1e21-481e-8b2f-2f40d275f8a7,Brittany Carter,beat,Apparel,9,347.9,3131.1,Debit Card,Allenside
+6be19209-f951-42f5-80e3-7efe494fd7e4,2025-09-15 11:15:49.641392,2833bd77-74cb-4aea-a4c6-c8e3e26cac61,Lisa Jones,argue,Beauty,2,349.9,699.8,Debit Card,Lunaborough
+ed104065-5e85-49ad-8bc1-89776c8d1975,2025-09-15 11:15:49.641498,d8e553c2-6a5f-4557-a5ae-208ae68094bf,Taylor Mckenzie,central,Home Goods,1,348.38,348.38,Debit Card,New Jackview
+3154c20d-8c95-4c5d-90f3-4453e8fbb1e2,2025-09-15 11:15:49.641598,06a81b13-92a3-4d95-ab49-f859271e90cf,Maria Rodriguez,deal,Electronics,3,134.68,404.04,Credit Card,Port Michaelchester
+620957d0-1986-496e-a1cc-0f33b9bb0585,2025-09-15 11:15:49.641693,b5e8a8fd-8543-4bfc-b443-2e8817819d50,Bridget Cruz,couple,Electronics,4,354.28,1417.12,Cash,Port Brittanyton
+54327912-eb89-495c-9fa0-0d9960f686ce,2025-09-15 11:15:49.641788,e6c79089-4bd3-4df3-a470-7d2e44658bca,Christopher Matthews,yourself,Beauty,6,456.76,2740.56,Cash,New Dannymouth
+d224124c-da43-4a54-8a08-17cf688d3871,2025-09-15 11:15:49.641882,6a8f59da-09ee-4821-96b7-b64e651bfddb,Jill Jones,here,Electronics,10,346.03,3460.3,Cash,West Monica
+cd1ce4d5-f946-4020-9b6d-9356f87b8bef,2025-09-15 11:15:49.641976,6f1c841a-6f85-4688-8ca8-4289f06f1677,Eugene Hamilton,know,Home Goods,5,321.51,1607.55,Credit Card,West Kevin
+1436245d-1566-49cb-8422-45a0d8a8d556,2025-09-15 11:15:49.642074,ef441624-40fc-4ff9-b18e-3a9fe93a75b2,Carlos Kelly,make,Apparel,1,234.81,234.81,Debit Card,West Brian
+0fce8ea9-247f-4446-b0e8-b027a05b17ce,2025-09-15 11:15:49.642187,a2317efb-b370-4eb2-b258-f75542e6d843,Jacob Humphrey,nation,Beauty,9,241.47,2173.23,Cash,East Danielle
+87a8a659-9c96-429b-ba27-9821d612555b,2025-09-15 11:15:49.642282,b0655660-7505-421d-9256-396b8d736af5,Jessica Brown,admit,Beauty,1,466.79,466.79,Online Payment,Port Carlamouth
+0125aaf3-b23f-4f38-b425-4cf8df8591a1,2025-09-15 11:15:49.642377,78ac6f66-f982-4994-ba3c-5738e0402a72,Michael Dixon,why,Home Goods,1,344.15,344.15,Debit Card,Port Heatherhaven
+99df5743-971d-428c-918a-d043bf2fd245,2025-09-15 11:15:49.642471,cee5ea04-c519-43a6-a76b-208b9e474e7b,Rebecca Harris,opportunity,Electronics,4,211.48,845.92,Online Payment,South Stephanie
+04bab624-2ecb-45b1-8530-e99853edd474,2025-09-15 11:15:49.642564,8f8e0092-8bfe-4432-a0be-67d94ad89c6f,Jamie Adams,never,Beauty,7,339.34,2375.38,Credit Card,South Deborahtown
+2415eee7-0c6c-4e95-a1cd-7d3db219d0b7,2025-09-15 11:15:49.642685,604c0e6a-2694-4191-983e-9f8a32e334c6,Casey Smith,safe,Home Goods,8,322.61,2580.88,Online Payment,Nelsonchester
+3a5a1e89-62c3-41c0-83b8-5bc56d517493,2025-09-15 11:15:49.642803,3297e0c0-1163-48fd-a3da-3385466c0e6f,Paul Allen,occur,Groceries,6,404.28,2425.68,Cash,Michaelburgh
+35df9ba3-e713-47ee-a839-1379d85e3c99,2025-09-15 11:15:49.642896,44e7eda8-d22e-4522-a797-1ec401ab7b02,Michael Reynolds,difference,Home Goods,10,371.29,3712.9,Debit Card,Catherinestad
+6add1e1b-ca46-4901-8a6f-bf50f33f5d9c,2025-09-15 11:15:49.642989,ae44e73f-418b-4492-ae04-c93b36beaba7,Brad Holden,myself,Electronics,5,494.65,2473.25,Debit Card,Coreyburgh
+3a8755ce-5728-4321-9ed3-2ef4619f5b8a,2025-09-15 11:15:49.643082,484a13a5-f994-432d-ba34-092e12e5f738,Allison Young PhD,old,Electronics,10,46.08,460.8,Debit Card,South Terrifort
+7edce783-7a57-4741-8677-60d269f5977d,2025-09-15 11:15:49.643185,5e19cc02-3a4e-40a4-96f7-d7546cd923cc,Anthony Henderson,design,Electronics,6,114.25,685.5,Cash,Port Jill
+00e9860f-f695-4707-b827-81a5a5443f7f,2025-09-15 11:15:49.643282,8918095f-16b2-4943-bc1b-8634c620f27e,Jeremy Harmon,employee,Home Goods,7,257.85,1804.95,Debit Card,West Traceyborough
+b0b39cf2-8ff2-4248-884f-c570f64eee84,2025-09-15 11:15:49.643390,40cbaca5-3c92-459f-8998-323e5eaa2908,Jared Morales,travel,Electronics,7,26.0,182.0,Cash,Lake Tina
+3e8e1f0b-8c59-4dd9-bfd3-09454e4edbbf,2025-09-15 11:15:49.643488,e924c007-e691-4409-b6e0-fb7c0badf7ae,Shelly Thomas,much,Groceries,2,416.97,833.94,Cash,West Melissamouth
+07b8432c-7467-4753-afe1-47e54589f193,2025-09-15 11:15:49.643598,7556aceb-f096-4340-8add-d3d0fd19b4a3,Rachel Barton,east,Beauty,10,104.95,1049.5,Credit Card,South Shelleyview
+44fd6afa-4261-47a1-a872-453b5b81ba97,2025-09-15 11:15:49.643710,beaae25a-bee1-421e-bbf4-646ba97842c7,Julia Palmer,seat,Apparel,3,264.69,794.07,Online Payment,Hernandezfurt
+c740beb9-366c-4672-b080-416a6dcf50b5,2025-09-15 11:15:49.643819,819bbde9-0a64-4979-bc70-3b0661d103b3,Devon Rodriguez,Mr,Home Goods,4,245.81,983.24,Debit Card,Krausetown
+3734adbe-a7f4-48c7-9742-bab994871d1e,2025-09-15 11:15:49.643934,dce1c7c0-8cb5-40da-9021-80068b97c38b,Casey Cross,fill,Home Goods,8,67.15,537.2,Cash,Lake Williammouth
+992b979d-3762-4ff5-97ce-5185438df440,2025-09-15 11:15:49.644040,63d31e88-80cb-457c-b7ff-67192c5ca4a4,Daniel Franklin,talk,Beauty,7,293.02,2051.14,Online Payment,North Josephstad
+36743996-7945-4419-ad31-379f8ff8df2f,2025-09-15 11:15:49.644139,74bfed41-e0dd-4d67-8fb1-19c7cde818a5,Roy Hill,at,Electronics,8,299.29,2394.32,Cash,Clarkbury
+25f246ff-f6ea-46d2-88db-82dd3811b6f3,2025-09-15 11:15:49.644246,9e27b27b-9e3f-4ee1-93d3-fcf97cab07e9,Lori Morgan,hospital,Electronics,1,149.65,149.65,Credit Card,South Meganbury
+9d7dff02-f231-4429-b61d-f341c690040a,2025-09-15 11:15:49.644344,1e464960-6440-4142-b9e9-eba13ddec02a,James Johnson,forget,Apparel,4,364.62,1458.48,Credit Card,North Coreyshire
+b457cbd0-06e7-466f-9486-ba12e614f0f2,2025-09-15 11:15:49.644440,8ec86432-23f2-4361-bff5-e61bf51d0018,Andrea Arellano,fight,Beauty,5,304.35,1521.75,Cash,Johnstad
+20391a54-ec38-4f40-961a-ddb4daf27d3a,2025-09-15 11:15:49.644534,3d07ac32-567f-47f2-b6ea-8b81a75b1fc3,Kevin Massey,might,Groceries,2,223.73,447.46,Online Payment,Millsmouth
+337a63ee-824e-48cc-a3d4-fc18a1dd8357,2025-09-15 11:15:49.644644,ce96612d-c736-4837-9cff-fd1a2e26fabd,Lindsey White,key,Groceries,8,405.04,3240.32,Credit Card,East Manuelshire
+29d6716e-2056-4b62-8d74-02efbcee89db,2025-09-15 11:15:49.644740,8d3ca467-4576-42c9-9706-729093612993,Emily Guzman,phone,Apparel,5,14.01,70.05,Credit Card,New Kristychester
+0f9c71cf-e521-4067-af8e-87675cb5555e,2025-09-15 11:15:49.644835,2daebb36-3bb3-4cf8-a547-717c0cf959e3,Dana Green,road,Electronics,2,209.71,419.42,Debit Card,South Jared
+e61761af-63d2-44ed-a639-d537e9027ccf,2025-09-15 11:15:49.644928,a031c739-e204-43f8-b10f-d0ff6740f98b,Brian Koch,hit,Beauty,6,146.22,877.32,Debit Card,South Annaville
+e7f41504-3ac7-4db8-b2d7-2111fbb32cbe,2025-09-15 11:15:49.645022,dcdf39b2-69be-4994-938b-3af844327adf,Barry Franklin,begin,Electronics,6,84.53,507.18,Cash,New Anthonyport
+a8af1be9-c119-41ba-99ed-74286c967d7d,2025-09-15 11:15:49.645116,0c425313-82d4-482e-8cb3-f24792841b12,Ethan Jones,political,Home Goods,1,224.0,224.0,Credit Card,Mccoyborough
+3a098dd5-47bd-4561-a2c2-b0d0a4367ccd,2025-09-15 11:15:49.645221,312f78d7-7840-4a78-81f8-fbefbfb18027,Heather Vasquez,media,Electronics,1,199.32,199.32,Cash,East Alanfort
+9f42d435-32db-4ceb-93fa-cfecc43bfce4,2025-09-15 11:15:49.645316,a8ebae7d-bb7f-4bff-956a-6a29d8d06ae5,Joseph Oconnell,word,Groceries,9,330.04,2970.36,Online Payment,West Bonnieton
+f3972798-8eb7-4b91-aae3-add69c1c53b7,2025-09-15 11:15:49.645410,88b9a827-798c-4fec-911b-158660f033d9,Gloria Serrano,ago,Electronics,4,466.89,1867.56,Credit Card,Port Tinahaven
+48964c99-b81f-4549-ae9c-ac6d7fe7adbf,2025-09-15 11:15:49.645505,7bf58fe7-465f-4b57-ae67-63b6469414df,David Maddox DDS,check,Electronics,10,346.9,3469.0,Debit Card,Anthonyhaven
+deafdea8-c4bd-4c59-9cb2-c1028cee0727,2025-09-15 11:15:49.645606,ee2b39bb-1970-4d12-8625-e1b82e3623fa,Veronica Wall,project,Apparel,7,185.77,1300.39,Credit Card,Matthewmouth
+9f772652-ab27-4ad9-a2a4-6d5d64c43498,2025-09-15 11:15:49.645701,b67e23b0-3115-4e13-ad56-b65a107bfe3a,Samuel Stanton,drive,Beauty,7,454.58,3182.06,Debit Card,East Denise
+a9e86c84-c6d4-49ef-8e6c-2f1d49aaf10b,2025-09-15 11:15:49.645794,bf836608-a908-4f34-9240-522825dd5e78,Carla Tate,help,Electronics,9,342.09,3078.81,Cash,Annmouth
+5bd45c78-675c-46fa-8d99-07e2e19aa8a3,2025-09-15 11:15:49.645888,4468d554-b390-46cc-a800-e61c92165dad,Terry Rodriguez,perform,Groceries,2,100.35,200.7,Credit Card,Tamaraburgh
+7c8bfc2d-999f-4643-b9b0-357c9acf5318,2025-09-15 11:15:49.645981,65bca7cf-d3d9-450b-a11a-eee0806a55b6,Lance Baldwin,off,Home Goods,2,106.74,213.48,Online Payment,South Gloria
+2aab6166-2839-4994-8394-b04377fa2db0,2025-09-15 11:15:49.646073,a89147b8-53c4-42d2-aba5-23b43053b4da,Allison Smith,really,Electronics,10,391.2,3912.0,Debit Card,Kimberlytown
+da446773-7bb4-4abf-93b4-a8ecf50ba3d2,2025-09-15 11:15:49.646168,40cc2f89-37c7-4081-91a1-3e758bf471d0,Dillon Hernandez,consumer,Electronics,10,51.48,514.8,Cash,Port Marissamouth
+02f7eac4-4983-4241-9a0e-36228b21bb17,2025-09-15 11:15:49.646269,d018ed7a-2307-440b-bff7-fb8f5e6a71fb,Emily Dalton,coach,Groceries,7,414.62,2902.34,Cash,Maddoxview
+de43725d-93c9-4f7d-9772-e235ba614d9e,2025-09-15 11:15:49.646375,a3395476-6950-4c09-8555-6a8a6e01b940,Heather Jackson,to,Apparel,9,53.58,482.22,Debit Card,West Amyville
+60407b68-3710-4653-b784-91a8d8b96509,2025-09-15 11:15:49.646470,292dc3dc-066f-4e5b-818b-071f45787490,Jerry Kelly,perform,Electronics,8,116.39,931.12,Cash,North Robert
+c25e67f8-0846-47d7-96e2-782362f58e02,2025-09-15 11:15:49.646563,d0ae6c89-5084-49f4-8b8a-021f4bb3b928,Tracy Blankenship,ten,Groceries,8,97.52,780.16,Debit Card,East Aprilton
+6f1d53f8-01f5-49dd-8790-b120fb395dbe,2025-09-15 11:15:49.646664,486f7c5f-3229-4b61-96b3-edb23bbd941a,Valerie Booker,water,Groceries,10,405.39,4053.9,Debit Card,East Laura
+bc3fa010-5cb0-4968-8fba-fcaaa5fbb138,2025-09-15 11:15:49.646758,26ad7a97-f4cc-4866-9f82-4120d1b55337,Glenn Flores,future,Home Goods,4,491.45,1965.8,Credit Card,Jamesborough
+b2ef5f7b-9594-4597-81c8-94920becefc1,2025-09-15 11:15:49.646852,d732f673-ffde-488b-92a1-63c50f5b90df,Mark Rodriguez,PM,Beauty,3,181.0,543.0,Cash,Allenborough
+57dce393-9ee0-440c-b599-867718e5408c,2025-09-15 11:15:49.646957,2770e294-963e-4627-9866-cacc08178e6d,Elaine Michael,left,Home Goods,3,423.42,1270.26,Cash,New Patricialand
+12c22a39-f9e8-47cd-b8cd-69f52b1992fb,2025-09-15 11:15:49.647052,d4801973-30f7-44dd-82fc-2c196efc0805,Tracy Lucas,politics,Apparel,7,195.73,1370.11,Cash,Daviesstad
+c054f9b6-09b0-4929-b232-3a6c65ca9ba5,2025-09-15 11:15:49.647158,549f470a-b8c4-42df-81d5-2c5bfef338c1,John Dennis,building,Apparel,2,151.82,303.64,Cash,Kennethtown
+dced397a-5086-4fa7-8366-978bc27ffb55,2025-09-15 11:15:49.647254,240d3060-240f-43ec-8bd9-0978650b088a,Wanda Miranda,cold,Beauty,5,12.15,60.75,Cash,Lake Megan
+76640b56-ac1b-4064-919d-ecfa4b2be1cd,2025-09-15 11:15:49.647353,f2d04b35-aaf2-4838-b2cc-9d85aab7bef3,Jay Gonzalez,break,Home Goods,9,213.74,1923.66,Debit Card,East Micheleborough
+9735149e-f4b7-4c58-85e1-a4d6d9bc81aa,2025-09-15 11:15:49.647448,2f4c1ef0-880c-43c4-935b-47e37c036b03,Natalie Abbott,without,Apparel,4,235.19,940.76,Credit Card,South Tina
+792b220d-56b9-44e2-b21f-57a7865c362a,2025-09-15 11:15:49.647542,68678276-e336-404e-9de3-b31df1729901,Kenneth Alvarez,after,Groceries,4,361.67,1446.68,Credit Card,Greeneburgh
+adc68a26-7046-4bff-a20a-b4dfb624ee67,2025-09-15 11:15:49.647652,d92a5ebd-a4f3-4eb2-8e93-52d85e0a0624,Alexandria Cook,imagine,Home Goods,3,328.97,986.91,Online Payment,New Michelleton
+b31c809d-3844-43e0-8889-fda0721e7764,2025-09-15 11:15:49.647747,fd7dc76e-32b5-4095-acce-96a21ca76386,Ricardo Morgan,economy,Electronics,1,480.08,480.08,Cash,Jamesfort
+1413e2d1-034e-4422-9c2b-45cbeb8b9b37,2025-09-15 11:15:49.647841,0ce5d9b0-ec58-4e3f-bd36-d2e03e6b48d1,James Curtis,share,Home Goods,4,98.97,395.88,Debit Card,Christopherbury
+c8040ab3-2bb2-4b01-90c4-b6a3026df397,2025-09-15 11:15:49.647934,d5d49f14-ebb5-4719-a9a9-ebb6bb222bdd,Daniel Suarez,stock,Home Goods,6,489.99,2939.94,Credit Card,Jeffreyshire
+3d0c77f2-12ca-4115-93a7-351b930215f8,2025-09-15 11:15:49.648027,1f1e3ebb-7677-4031-a497-ff9f37e09be1,Kevin Chandler,class,Beauty,3,316.15,948.45,Debit Card,East David
+4b8ec4df-35c2-49e9-8cfe-47a242fe64d6,2025-09-15 11:15:49.648121,f68cdc31-03e4-4fb3-a972-796e51acf4e4,Dennis Wiggins,fire,Apparel,1,133.27,133.27,Credit Card,West Philipberg
+9deb9517-7544-4dff-a27d-3383cf61ae9e,2025-09-15 11:15:49.648215,ee7339d9-0ba0-441f-9ada-76f7b0d046ca,Crystal Huffman,course,Electronics,8,379.27,3034.16,Online Payment,Randyside
+73949fca-fc9c-4799-ac3a-2dd95ca8c9ca,2025-09-15 11:15:49.648309,e5fcac96-c374-436a-bbe3-4f35a5bcce6b,Larry Mcpherson,position,Groceries,3,379.56,1138.68,Online Payment,Anthonyville
+d9433e39-b531-4b37-baa3-587ded29af98,2025-09-15 11:15:49.648413,de8283db-e986-490a-a513-6e12a243d9f4,David Bates,head,Groceries,10,201.23,2012.3,Cash,Espinozamouth
+95ddf513-9d3c-45d6-9cbd-4b39ffed7a67,2025-09-15 11:15:49.648521,fc1d0279-ae5d-477b-8daf-5d5339546730,Laura Williams,above,Apparel,6,487.42,2924.52,Credit Card,Josephview
+94cca6f1-29b6-4a32-bb21-407bea45b918,2025-09-15 11:15:49.648628,c7e2e060-e5d4-46f8-b3da-18dbae9e224f,Scott Morales,firm,Apparel,5,339.65,1698.25,Credit Card,Port Jaredmouth
+82313d7f-85c0-4eaa-b06c-5a51ecb57ae3,2025-09-15 11:15:49.648723,736dfdae-5fbd-4543-9c4a-77a1b1762898,Bonnie Brown,such,Electronics,4,158.51,634.04,Debit Card,Lake Craig
+a51fdae5-e6a5-40f6-9c5c-02f0f399fdaa,2025-09-15 11:15:49.648823,18a962ba-7c8f-4ce1-b9d4-75a0c60a448e,Taylor Banks,window,Groceries,3,31.77,95.31,Online Payment,Bethanybury
+2be46b2c-e19a-495f-9d62-f329f79b0166,2025-09-15 11:15:49.648935,69f3a062-0612-4b2d-ad21-1edb5ceac5a7,Shannon Spencer,over,Groceries,10,225.43,2254.3,Cash,Lake Margaret
+f4be2649-198c-47ca-99de-76ada82e1323,2025-09-15 11:15:49.649033,d00b14b7-389e-4df3-be23-1b71cae8339e,Sheila Wolf,available,Home Goods,3,381.91,1145.73,Cash,Kristinamouth
+5c41a714-fc55-4909-b82e-76d97251cb42,2025-09-15 11:15:49.649141,6b638ce6-eec2-4e85-a370-3df34b7eaeda,Makayla Martin,research,Home Goods,7,90.74,635.18,Online Payment,South Cynthiabury
+84897ff6-5fdb-4daa-ab55-076d327390d7,2025-09-15 11:15:49.649238,2d75b1a5-ca1c-46e4-9ddc-a472b42e144e,Angela Wright,government,Groceries,8,38.61,308.88,Credit Card,Letown
+6e0de15b-17dd-4edd-8ab0-2af9fe0732a8,2025-09-15 11:15:49.649354,6afdb0e8-51c3-41ba-9d03-0c8903eab72c,Tyler Ballard,player,Apparel,2,289.92,579.84,Online Payment,South Robertchester
+eaf069b7-6dba-4ee7-a0bf-9aaa74e5e529,2025-09-15 11:15:49.649457,26f6a645-16dc-4d9d-b253-5ed4289b9ec7,Amanda Brown,activity,Electronics,6,179.83,1078.98,Online Payment,East Lauraside
+73c9cd39-4fd7-4794-953f-a701254d40b2,2025-09-15 11:15:49.649553,64233ec4-2760-4528-918b-062631ddd710,Emily Klein,let,Apparel,8,354.77,2838.16,Debit Card,West Dorisview
+e567cf06-73a4-4bd9-a5ba-5c7c20287d81,2025-09-15 11:15:49.649654,88a45009-a7a7-4595-a0dd-2233c480506e,Krystal Hanson,attack,Home Goods,7,274.66,1922.62,Online Payment,Powersberg
+51ea8810-01a8-46d2-830a-9f7ae57c9e19,2025-09-15 11:15:49.649760,0c391b8c-ad81-4901-a617-2fe4ccc20620,Charles Mayo,all,Groceries,10,210.05,2100.5,Credit Card,North Seanmouth
+2e2d1921-76aa-45ae-a2a5-0621ba588791,2025-09-15 11:15:49.649855,dea4fb64-b5fa-4ffb-b53d-e36284177906,Nicolas Castro,write,Groceries,3,401.95,1205.85,Cash,Stevensburgh
+18d7aa18-2a29-4950-ae05-320451e3be39,2025-09-15 11:15:49.649959,ac6c3bc6-2500-403d-b7f2-3513c90502db,Courtney Smith,able,Electronics,5,178.4,892.0,Credit Card,Autumnfort
+6fe23243-489b-4f47-b217-772601d7035a,2025-09-15 11:15:49.650054,4958774f-8ee2-43c2-8f15-1a944f161697,Stephanie Carpenter,represent,Beauty,5,44.08,220.4,Debit Card,Nicholasview
+9ed1db3e-fda9-4e81-a407-707a779c626c,2025-09-15 11:15:49.650150,59083d8e-4bf4-47da-831f-1deb444c3fd9,Dawn Moss,threat,Apparel,9,13.87,124.83,Cash,Lake Nathantown
+a91dd8e3-cce4-4593-8dbc-c7643d7ea0bc,2025-09-15 11:15:49.650245,5601808f-0342-46bf-aacc-47b5035097b6,Jonathan Jackson,collection,Home Goods,6,194.49,1166.94,Online Payment,Vegastad
+0ee550be-5d1b-4baf-81fa-533acf8e774a,2025-09-15 11:15:49.650350,45d728e7-0157-49f0-8c07-34d136293662,Robert Becker,PM,Beauty,10,492.83,4928.3,Debit Card,West Judyside
+f690a134-83c4-4745-93e0-e90a13ae248c,2025-09-15 11:15:49.650444,35e5a43d-2371-4bf6-973c-3f5b3c09f431,Shannon Baker,well,Groceries,10,443.78,4437.8,Credit Card,South Brookeport
+1fcd6650-4a4c-4d45-9007-81a72fcaab60,2025-09-15 11:15:49.650539,faa74ea0-d599-4939-aec5-690d41fd4762,Kelly Bailey,Republican,Electronics,7,133.01,931.07,Debit Card,Wileyville
+b62e90f3-e62c-4d00-98b6-e9bb618c709d,2025-09-15 11:15:49.650650,22e49747-0b62-4ff2-9c8b-e9f7ae7ca651,Robert Frazier,actually,Groceries,4,14.64,58.56,Online Payment,East Nicole
+560589b6-b6ce-4f9e-9c8e-ec24099da47b,2025-09-15 11:15:49.650743,0192dd2d-fe6c-4fae-ae65-5ba74374dd87,Amanda Collier,herself,Groceries,10,268.14,2681.4,Credit Card,Sheriside
+ad4d87cd-8210-4434-90ec-61f30f28457e,2025-09-15 11:15:49.650837,9001cd8f-52c7-45c9-b640-2fc072352814,Christopher Perez,game,Beauty,2,404.03,808.06,Credit Card,South Scottside
+25726760-5b1e-4009-9465-68788ee24c89,2025-09-15 11:15:49.650930,d054dc35-e406-4aab-bb7b-06f5f0fd428f,Michael Harrington,public,Electronics,5,256.95,1284.75,Credit Card,Moorestad
+2f0f0347-3ea5-4bc5-adbf-649cd1db90d7,2025-09-15 11:15:49.651035,d3f7e67c-f802-41ee-b1f7-82bb7cac4731,John Myers PhD,board,Electronics,1,318.14,318.14,Debit Card,West Robert
+9a192849-fa9e-4c1d-a613-35fb05f78193,2025-09-15 11:15:49.651131,e87a8c7c-2125-47a6-b80f-65fef5ff1a9c,Bill Caldwell,much,Apparel,2,311.33,622.66,Cash,East Tracy
+1101045f-6282-46da-8736-e3dd8d651703,2025-09-15 11:15:49.651224,c2385765-328f-44a8-8b6f-86a4e53c3b37,Candace Madden,expect,Groceries,7,391.22,2738.54,Online Payment,Port Christopherville
+feb34bfd-5db4-489e-8036-47023cb1d9a9,2025-09-15 11:15:49.651319,f6b8da0d-c102-4514-874b-9db7c4bb7757,Paul Marshall,go,Beauty,3,239.56,718.68,Cash,West Jamesmouth
+037f9607-60cd-4ab9-91b8-774d3f4b9702,2025-09-15 11:15:49.651413,23628396-595e-44b0-9ab8-c0391145f60f,Veronica Perry,current,Beauty,2,350.41,700.82,Cash,Bryanhaven
+87a507b6-83bf-433f-a2f5-c5c0785a3a1d,2025-09-15 11:15:49.651507,002cbd47-dcb0-4a5f-8267-619311ff38a8,Juan Robinson,allow,Electronics,2,73.46,146.92,Cash,North Lindsay
+25dd0b21-660d-4112-9bc4-b94e83ef84e4,2025-09-15 11:15:49.651605,6836ace5-77bf-4fd1-99d6-1af7014fe17e,Robert Nichols,item,Electronics,8,308.02,2464.16,Cash,Kirbyburgh
+288c376e-3144-45d3-af42-df3fcb1ccfb3,2025-09-15 11:15:49.651727,41ece692-82c6-48c1-afcb-1c3affbffc67,William Johns,foreign,Groceries,9,440.18,3961.62,Online Payment,West Christine
+160f1ed3-e276-4430-9379-0d6483b98bec,2025-09-15 11:15:49.651820,edd3a86f-6815-43b2-b303-38866f91416f,Joe Peterson,get,Apparel,10,93.51,935.1,Cash,North Todd
+8e724e49-39dd-46fd-98cf-04e4a6b3d685,2025-09-15 11:15:49.651913,67185452-4a9f-4362-ba34-550c6c220f5a,Alyssa Sanchez,new,Groceries,4,470.37,1881.48,Cash,Trevinoberg
+e8f659b5-7594-4b2f-8f83-2a1f47f6fb3b,2025-09-15 11:15:49.652019,269726cb-9f64-47c1-8396-d00c4c6e60d5,Meghan Lewis,per,Groceries,5,161.74,808.7,Debit Card,Cherylchester
+f56d8d54-9c37-4cc6-aefb-e6bbb65aef7e,2025-09-15 11:15:49.652113,80efa854-1e80-451e-950f-ef2d874266c6,James Daniel,bed,Home Goods,2,287.84,575.68,Credit Card,Dorseyside
+28935ebd-5979-408e-bfb1-a22da6280307,2025-09-15 11:15:49.652217,3f974bd7-7024-4756-9f67-a8e96c817ee1,Sharon Barrera,news,Home Goods,4,53.23,212.92,Credit Card,Woodsland
+5a5173e9-0b7d-4276-a139-c0828d217304,2025-09-15 11:15:49.652323,06139650-32d9-4249-9390-fff604717e00,Samuel Byrd,trade,Beauty,10,293.22,2932.2,Online Payment,North Jessica
+79913bca-2c38-42b8-ae27-e1c331461bc9,2025-09-15 11:15:49.652415,9d788fd4-e113-4e51-8c7a-4223072b4811,Alicia Perez,vote,Beauty,3,475.14,1425.42,Debit Card,Port Tylerberg
+ad9f98ae-6831-476d-bb74-c761ff08e303,2025-09-15 11:15:49.652510,e82bdae6-ba02-4a6c-a86e-4afed6ca48c1,Timothy Davis,message,Electronics,3,476.73,1430.19,Online Payment,East Jessica
+342df56c-8edb-40d1-bba4-3f6ca936a7b3,2025-09-15 11:15:49.652608,21ded779-cef6-466a-9499-8dfa030765de,Eric Kaiser,never,Groceries,1,134.8,134.8,Debit Card,South Tinamouth
+e6b7d4e6-ddb2-404c-a85a-d4c687f06f19,2025-09-15 11:15:49.652703,d411982e-ba1b-4fde-96dc-2c8034cee8db,John Griffith,poor,Electronics,1,252.16,252.16,Debit Card,Port Russellville
+4d55e7f2-66a5-47e5-a324-6fcf93583b1c,2025-09-15 11:15:49.652796,fd97fe90-6349-474a-95e7-f1570c1469b4,Doris Black,beyond,Groceries,8,255.31,2042.48,Cash,North Feliciamouth
+8aa21004-ea7e-4129-9f47-0da38007f3eb,2025-09-15 11:15:49.652891,a50460c9-3d58-4b2d-9ee2-83a11c1af103,Monica Vang,miss,Electronics,9,98.12,883.08,Debit Card,Port Kristin
+6d799d6e-c112-4fd6-b3ff-c95f30e984ee,2025-09-15 11:15:49.652985,408e9657-7448-4d69-b49d-ede3d0bb73d6,Mike Williamson,force,Electronics,8,188.68,1509.44,Credit Card,New Brettton
+1833706c-228e-4d51-b27c-4c84c2dfc4b3,2025-09-15 11:15:49.653079,01e9c7f5-4690-4126-959b-02dcbbaa7e87,Alexis Pope,next,Electronics,9,82.77,744.93,Credit Card,Anneberg
+3fab2e37-1047-4703-8c73-8c493678fde4,2025-09-15 11:15:49.653173,8a318df6-4fb6-4549-ac14-c127256dae24,William Wade,as,Apparel,2,136.16,272.32,Credit Card,Port Malik
+20857ef3-4906-4ac9-891b-6487fd289306,2025-09-15 11:15:49.653266,ff51329d-e8f7-4238-b33e-97d070bdc214,Tyler Price,own,Home Goods,1,276.39,276.39,Online Payment,Lake Peter
+619fe2fc-e966-4334-8199-c8016bc260d2,2025-09-15 11:15:49.653361,bd21dba4-5109-43f8-92d2-b825c2c4c76e,Taylor Reeves,pattern,Electronics,2,398.41,796.82,Online Payment,West Elizabethhaven
+fd158bee-8996-4c38-bb47-cc96ef2b6bdc,2025-09-15 11:15:49.653457,f179e042-67fa-40c7-ba18-064132094296,Barry Barker,next,Beauty,3,173.7,521.1,Debit Card,Lake Veronica
+e6e3f303-5c4b-4620-b24f-0e420c10216a,2025-09-15 11:15:49.653549,72786f7f-22ab-4c10-80b7-445f7b8321fa,Brian Schmidt,scene,Groceries,5,234.7,1173.5,Cash,Mariahaven
+6528c5a9-2c17-4629-84f0-063a0236d219,2025-09-15 11:15:49.653648,4ee7a470-3467-46a9-8c61-2df973135a23,Steve Branch,use,Beauty,8,354.14,2833.12,Online Payment,Jamiemouth
+6ad97ee8-b5a4-4e78-907e-7d1fff637ccc,2025-09-15 11:15:49.653740,add153d1-4650-43ab-b107-9a3ab657e954,Susan Brown,amount,Apparel,9,117.75,1059.75,Credit Card,South James
+6cc8be63-61c6-4b18-822b-37756416f94c,2025-09-15 11:15:49.653834,6d11fc1f-9c00-4d79-a980-41a981a5404b,Joshua Walters,space,Home Goods,9,409.31,3683.79,Cash,New Anthony
+7bbe1122-8a30-4339-b5f0-fdbad1f348cf,2025-09-15 11:15:49.653927,c018af57-3f59-4d4e-9ac4-c36ffc0fe728,Charlene Gates,every,Groceries,3,227.61,682.83,Cash,New Gregoryville
+b19ef70a-aa40-4d03-ac1a-9daaa87c2214,2025-09-15 11:15:49.654023,95b1f290-f66d-419b-87d0-7d7e1b0d1c84,Thomas Burke,white,Beauty,6,8.38,50.28,Credit Card,North Tammyshire
+f4a91ef5-b072-421c-9aa2-ae6e491ccc06,2025-09-15 11:15:49.654118,4f80bc1a-e557-4fd5-8ea5-7a8dced6fc97,Laura Lopez,enter,Electronics,3,48.02,144.06,Credit Card,Carlosbury
+665acb95-4f83-4166-8fcb-f4ac3fe90c9b,2025-09-15 11:15:49.654213,1e76ca27-5ac8-46e7-b13b-45096d5a51d1,Debra Rivers,well,Electronics,2,218.3,436.6,Cash,Taylorfurt
+13e87a85-b7bc-4fd2-b726-3ea14e0b4b88,2025-09-15 11:15:49.654319,c839505b-3f55-48f5-aa1e-debff2a50725,Amanda Howe,edge,Home Goods,5,287.26,1436.3,Cash,Port Phillip
+4c639bec-a9a0-4aa3-ae2c-ebb24d9c142f,2025-09-15 11:15:49.654413,66a93191-b098-44a0-830f-7d672c7bc846,Stephanie Hendricks,case,Apparel,3,384.54,1153.62,Online Payment,Arnoldfurt
+48896047-18bb-4cf8-b4a3-cbfb08ef10cc,2025-09-15 11:15:49.654531,53aef668-b85a-4448-a393-b4b66a92d434,George Hall,option,Groceries,2,7.74,15.48,Online Payment,Garciamouth
+e14a83e1-208e-4938-9529-7573fb2f3664,2025-09-15 11:15:49.654654,fd518f2b-4c53-47b1-af9e-32a8a1af6b07,Thomas Stark,save,Home Goods,1,255.23,255.23,Online Payment,Brownhaven
+ae9d4c67-bed2-4a44-b85a-3cc76ed40680,2025-09-15 11:15:49.654758,d2381509-10f3-4cfd-a0fd-2a81cb64186f,Pamela Jones,garden,Apparel,3,432.4,1297.2,Cash,Carterbury
+68bd6640-782c-4cb4-9980-b186a35f23ca,2025-09-15 11:15:49.654863,7019bf22-88bf-4829-8bd4-284739b2f070,Robert Haas,life,Home Goods,7,36.22,253.54,Credit Card,South Lance
+f5097e7e-a0d3-43c9-977b-1d9be413cd91,2025-09-15 11:15:49.654957,925a0336-cf49-4309-a337-c0b6e706c5e4,Cynthia Allison,perhaps,Electronics,6,80.54,483.24,Online Payment,Margaretberg
+d35c093e-630b-4f2d-9bfb-1df0952fd16b,2025-09-15 11:15:49.655051,89872afb-d0c0-48c3-9a52-b9056cf5e2c0,Dennis Hanson,plan,Beauty,4,287.94,1151.76,Cash,Martinezville
+c4484b3a-0a8b-4257-b830-3b3f7def37db,2025-09-15 11:15:49.655155,948b3d59-9797-4f60-b9f4-5745c9c7e062,Melissa Howard,well,Groceries,7,492.69,3448.83,Debit Card,Williammouth
+3c8ce302-9563-4e05-aa35-5f2dd0955342,2025-09-15 11:15:49.655249,8e83e7f9-606c-4c24-888c-8747a0f91d92,Kayla Baker,among,Beauty,4,67.7,270.8,Online Payment,Joshuaville
+c62bf1f1-0c01-4e42-9b52-45762d4d8078,2025-09-15 11:15:49.655343,9c2b5485-4308-4147-aa7b-a01eea1d1c82,Amy Stuart,spend,Home Goods,7,167.64,1173.48,Online Payment,West Ericfort
+c5da507f-767a-4dc8-8fcd-accfebd850d2,2025-09-15 11:15:49.655438,d8eb547a-198b-4260-8c37-fc1e7a3fd1b5,Jeanette Morales,its,Groceries,4,111.06,444.24,Debit Card,Josephmouth
+f1d0c303-cd87-4f4c-b86d-659e7a3843b3,2025-09-15 11:15:49.655532,bc385e94-2c79-49d3-a659-0c5cfe28d0b1,Michelle Reeves,public,Electronics,10,340.47,3404.7,Credit Card,Osbornton
+bc4f0921-531e-4720-87f0-5f3b1f818593,2025-09-15 11:15:49.655643,e12fee3c-7654-4db7-b21a-7c30469e00c0,Joseph Greene,father,Electronics,7,342.52,2397.64,Online Payment,Clayhaven
+f1e22e42-6466-4b9a-b096-49f7dbc5b950,2025-09-15 11:15:49.655747,9f0b1853-150c-4a7e-a42e-946230702e68,Hannah Dorsey,along,Beauty,7,445.84,3120.88,Cash,Adrianton
+e1b76424-ae06-4d6c-8add-42de613926a5,2025-09-15 11:15:49.655841,ee366d00-8cc6-4e84-ad1b-e4ef9fd2cd26,Timothy Norris,technology,Electronics,7,162.58,1138.06,Credit Card,Tapiaberg
+9c5b4f79-3674-4e58-ac3e-3952c7029343,2025-09-15 11:15:49.655946,816f6676-f6b2-4dab-a3b5-eca063fa77d8,Colton Fisher,rock,Beauty,4,414.39,1657.56,Online Payment,Dianamouth
+dfcd0fe9-ed88-4b6e-a2c7-e07c42012c08,2025-09-15 11:15:49.656039,dc3ff0b7-1f68-4734-84ce-bc606c99c949,Tanya West,allow,Electronics,6,14.48,86.88,Cash,Brownfurt
+92d7892c-5560-48a8-84b3-681f058fd61a,2025-09-15 11:15:49.656144,792ce60c-3c43-40bf-94e2-6995f5f878aa,Brandon Hudson,second,Groceries,5,36.57,182.85,Credit Card,East Renee
+1bc119ed-fe59-4e70-a64d-49bba7ff0f02,2025-09-15 11:15:49.656237,76deb3e0-e475-4815-8cab-f1b0acf8ae08,Aaron Kelly,Republican,Groceries,9,479.65,4316.85,Debit Card,Lake Saratown
+c17489c7-4e64-4dc8-8bcc-fdaa4d0aaae2,2025-09-15 11:15:49.656331,ee84ab5f-2e19-4794-90da-89afd02ecfde,Brandon Daniels,point,Apparel,8,259.95,2079.6,Debit Card,Juliabury
+b7f8d6fe-fbd0-4aa3-b827-7aab9272626d,2025-09-15 11:15:49.656425,5cc4adbd-fb1f-4992-8d83-18c4ac00b567,Charles Kennedy,a,Electronics,1,471.65,471.65,Cash,New Anthony
+044639ff-ffc0-4361-8a0d-91cd1da26d9f,2025-09-15 11:15:49.656517,1cd6907e-9395-418d-b720-ec30cf39677a,Andrea Harrison,language,Apparel,6,262.98,1577.88,Credit Card,South Kelly
+826e676a-b54a-4d09-835d-0332349eebf7,2025-09-15 11:15:49.656617,8b97d335-df0d-451b-a699-6067e60d377e,Mary Glover,beat,Home Goods,9,54.39,489.51,Debit Card,Port Madison
+6da79dde-69e4-4e6b-a54a-c93518bd7ef5,2025-09-15 11:15:49.656711,cf562269-dad9-4cb8-a599-eb8c5273959e,Harry Medina,family,Beauty,10,422.08,4220.8,Credit Card,Lake Maureen
+1b20aff1-662a-45bc-b821-7ab1192b4487,2025-09-15 11:15:49.656804,36a576ad-8b12-45d2-9412-e329e04f6b50,Leah Rose MD,cell,Groceries,2,115.7,231.4,Cash,North Susan
+88a65974-3986-4571-a7c4-03ee62b15425,2025-09-15 11:15:49.656901,2247d80d-538f-43b7-9aa9-91e44d41e516,Jimmy Moran,road,Home Goods,6,279.9,1679.4,Credit Card,Sanderston
+6727e26f-97da-4b58-a583-a91e6a7bc2bb,2025-09-15 11:15:49.657005,c5b23a90-b95a-4cf6-917b-c5d557351d0b,Jessica Davis,member,Apparel,9,436.17,3925.53,Credit Card,East Mikaylashire
+ba5445f1-ba67-4a0d-ab1b-179659aefec2,2025-09-15 11:15:49.657101,ee7799f9-84ec-41bb-b7b3-1ca7be71faac,Stephanie Carpenter,thus,Beauty,3,352.94,1058.82,Credit Card,Lewisside
+9e952124-9834-4da9-bfd9-e14db1440dae,2025-09-15 11:15:49.657206,6b034942-a9a9-4668-be77-3662340f7991,Kristin Reyes,everyone,Electronics,6,225.45,1352.7,Online Payment,Johnsonstad
+bb66c1b8-83e9-48c8-8ca0-759be2619bee,2025-09-15 11:15:49.657312,369f3a15-359a-4099-ad11-bba76d144313,Nicole Sanchez,home,Apparel,5,112.71,563.55,Credit Card,Leeland
+caead1a4-94a1-435d-8888-0c49072ef6fd,2025-09-15 11:15:49.657406,2002b72f-6595-4b25-b42f-e248ddf2b2ed,Martin Bartlett,standard,Beauty,4,342.06,1368.24,Cash,Averyhaven
+a3051f51-82ba-4247-9d18-5192d5596e5d,2025-09-15 11:15:49.657510,54f7ffeb-200e-4c4b-8ec0-c23cb50ff427,David Gould,yard,Beauty,3,403.58,1210.74,Credit Card,Edwardmouth
+7aba8753-1e41-4406-be48-4f05350fc2e0,2025-09-15 11:15:49.657608,f4fd5842-bfd0-4e69-9521-20aa4015f328,Sandra Gardner,could,Apparel,4,329.23,1316.92,Cash,East Jesus
+6dbd798c-cc78-40c5-ad4a-deb31206aea3,2025-09-15 11:15:49.657702,aeccf67e-f765-44b2-af1b-6ead8a70dbd1,Andrea Miller,ball,Electronics,3,70.23,210.69,Online Payment,North Patrick
+92d188ff-be60-44e1-b982-2045c5f7a4a5,2025-09-15 11:15:49.657796,7aad7ad4-047d-42ce-a2a3-25ec0edf9177,Melanie Craig,sister,Electronics,6,308.72,1852.32,Credit Card,Schroederborough
+7187a19c-fe18-4521-bd55-76910d0a2826,2025-09-15 11:15:49.657902,0a8d9727-5ab0-4b3e-8dc9-1f27c2525249,Barbara Koch,bring,Beauty,10,492.73,4927.3,Credit Card,Lake Nicholaschester
+49c3c893-730a-4166-a580-9148b587b5ef,2025-09-15 11:15:49.657997,dff54ca3-c0b2-47b5-b38f-f114e9e6d7b7,Mary Osborne,every,Apparel,6,12.73,76.38,Online Payment,Samuelhaven
+ce36a5bf-848c-4c94-824d-eda2c0e271ac,2025-09-15 11:15:49.658091,0aa6088a-eaca-4ac2-95ae-9d501ec89d5f,Michael Johnson,week,Apparel,3,141.88,425.64,Credit Card,Alisonstad
+dc044c4a-207c-46fd-a2e3-13c71235ce1c,2025-09-15 11:15:49.658185,5cc90827-0b6d-4de5-9baf-7f9cd8265e48,Amanda Irwin,hard,Beauty,2,357.81,715.62,Credit Card,Ryanmouth
+0234b2a3-caa7-41e8-9489-11cfda48502e,2025-09-15 11:15:49.658279,3ea37299-e261-45c0-9cf6-e641eebf3d9b,Alan Edwards,political,Electronics,10,53.97,539.7,Debit Card,Craigberg
+87c6933f-7dab-4e0f-8fe8-9a35ef529247,2025-09-15 11:15:49.658371,c0e36fea-d3f3-496a-b6d8-f55b23b58306,Mary Rhodes,clear,Groceries,3,345.0,1035.0,Cash,Williamschester
+0c359724-c0be-4176-9b5e-82ccfe4dbb77,2025-09-15 11:15:49.658477,a603a2da-5fd3-44d9-9baa-2a476456d28e,Todd Whitehead Jr.,may,Groceries,6,282.98,1697.88,Credit Card,Loganmouth
+83884928-bfed-4b29-964d-2061ed92d29e,2025-09-15 11:15:49.658588,fe615151-5426-4016-a0e7-1ae77f70164d,David Allen,training,Groceries,10,61.4,614.0,Credit Card,West Jessemouth
+32a3f791-a107-4377-b85c-8ecb3b806ae0,2025-09-15 11:15:49.658683,e51e83f4-1999-4974-8db9-f9e81f0e1cbf,Emily Williams,recently,Apparel,4,214.25,857.0,Online Payment,North Kaitlyn
+633a0449-a4f4-4c14-aacd-91f19b012cd8,2025-09-15 11:15:49.658777,f2e29500-99bc-46d1-9903-54124de1a801,Randy Henderson,news,Home Goods,8,312.09,2496.72,Cash,New Ryan
+0155af47-92cb-4431-9d03-7ce418a5fa45,2025-09-15 11:15:49.658870,67ad452b-45c9-4efc-9f5e-dfaa5920d7fa,Stacy Price,human,Groceries,5,309.96,1549.8,Debit Card,Tamarashire
+3541f71e-fe2f-42b7-89d4-94f325acc674,2025-09-15 11:15:49.658964,9c45ee30-a91d-4512-bd0a-762d32b1f7d5,Holly Gibson,clear,Apparel,5,154.84,774.2,Cash,Jeffreyton
+2f180902-0a02-4303-a317-229fcf8ae48d,2025-09-15 11:15:49.659058,1e8f863d-1eb3-43b3-bd65-57836328e11a,Andrew Berry,memory,Groceries,3,330.96,992.88,Credit Card,Erinchester
+fd41347f-ab64-4947-8c76-0f57b658c0ce,2025-09-15 11:15:49.659151,a3fb70b3-8fcd-4fa4-8247-071ce351878a,Michael Baker,success,Electronics,9,94.27,848.43,Online Payment,New Miguelton
+65f5f52f-9dc5-4e7a-9196-f52b327f8123,2025-09-15 11:15:49.659244,0ccff082-bff8-4b25-87b0-5f3d8416499a,Alice Keller,hold,Apparel,2,340.77,681.54,Online Payment,Jillhaven
+47163e83-0c46-4da2-8758-7a0798f906d8,2025-09-15 11:15:49.659338,5e46c8ac-98d7-4729-a42a-1eb8d95881d3,Kevin Lindsey,mouth,Groceries,10,405.84,4058.4,Cash,North Charles
+4e173f8c-f23d-44d8-934b-bd3fd51901c4,2025-09-15 11:15:49.659431,d60c439a-d85a-4774-8b33-66357eae5849,Darin Campos,particular,Apparel,9,85.98,773.82,Debit Card,Armstrongmouth
+7c27ef5e-8a24-42a0-abab-5a92bd77ef62,2025-09-15 11:15:49.659535,e3cbce24-3efe-4133-b3a2-165d85332934,Mason Rocha MD,represent,Beauty,8,486.8,3894.4,Online Payment,North John
+c439052b-efc9-41fb-a1c6-510867c0290d,2025-09-15 11:15:49.659635,5341c1ab-2d10-4c15-8225-1fb35b167b37,Emily Schwartz,woman,Groceries,5,389.67,1948.35,Credit Card,Berrytown
+99fd8aed-4e10-48a8-9237-e4ff7781a03c,2025-09-15 11:15:49.659740,ea54724b-3df2-49b1-9257-e0f5e23a321b,Jennifer Hunter,choose,Groceries,6,66.06,396.36,Credit Card,Nicoleside
+8081ab3b-3cb0-44d2-9871-4fe2b9c2f982,2025-09-15 11:15:49.659834,aafdbe2b-1904-47f9-8661-b907cffe5390,David Rodriguez,mind,Home Goods,9,274.59,2471.31,Cash,West Amymouth
+c3f6269b-55e5-41d8-8f2a-8b004168a068,2025-09-15 11:15:49.659932,d410903f-e20b-48a0-9a1a-37b0b8faa9dd,Peter Jimenez,only,Groceries,3,29.21,87.63,Cash,Lake Kennethshire
+3d7dd5e3-73dd-456a-94d4-3e97416e9d83,2025-09-15 11:15:49.660037,fbc41209-2b84-4bf4-9fe9-b499a845d336,Kenneth Wilkerson,someone,Electronics,8,453.67,3629.36,Debit Card,Karenstad
+e157bbe5-5550-40f2-8c03-d94ac0eb71c5,2025-09-15 11:15:49.660131,06553b45-0a65-4a8c-85bb-a7b6427696d1,Christian Palmer,impact,Groceries,7,215.02,1505.14,Credit Card,Port Johnview
+2f20125f-e90e-469a-ad84-454a96a4f310,2025-09-15 11:15:49.660225,b7ee46d2-eb92-440b-a710-6e2cac94ce3d,Leah Huynh,American,Beauty,2,499.57,999.14,Credit Card,Petersenbury
+83a2f349-446b-4974-b913-2f3a897acde8,2025-09-15 11:15:49.660330,7446ad0b-ed78-4096-91ba-5a5eed174fa7,Michele Zhang,left,Apparel,2,105.79,211.58,Credit Card,Lake Stevenborough
+5903fbe1-f50a-4271-8980-4849f0bcc4cb,2025-09-15 11:15:49.660425,6ee9ae1a-2e49-408c-ad1b-f623402785b1,Sandy Clark,push,Electronics,6,181.78,1090.68,Credit Card,Sosaside
+eac3c4d8-cc53-4c7d-98ac-64731b9e8d8d,2025-09-15 11:15:49.660530,1698dee6-4ade-43ed-baf7-ffd2d824ad61,Jermaine Parker,answer,Home Goods,1,295.1,295.1,Cash,Oneillburgh
+7d928ef0-0bf0-43a7-b12a-356d92c70897,2025-09-15 11:15:49.660640,5dd5b016-7110-41fd-9cc0-da37e71d6d96,Andrew Moore,half,Electronics,1,232.74,232.74,Debit Card,Riggsmouth
+2c28b7ef-2633-4adb-9c77-49cacd5bac87,2025-09-15 11:15:49.660744,ee1bc8af-677f-4062-8e6e-af1a62ba8e9b,Ashley Hernandez,cold,Home Goods,10,388.25,3882.5,Credit Card,North Karen
+779f1ee1-0e56-4d8a-8ee2-719f5a607823,2025-09-15 11:15:49.660838,c1fca1cc-5421-4b2d-bd12-65cad51a258c,Adriana Martin,option,Beauty,9,125.06,1125.54,Debit Card,Caldwellberg
+4f6a0a22-5b63-4a10-b245-287f1dcf7dd3,2025-09-15 11:15:49.660943,3f1460b1-584d-47d1-8598-f70371d6d686,Marcus Smith,throughout,Apparel,6,370.84,2225.04,Credit Card,Port David
+b72c0ad1-c2af-4cda-9e30-c5cb11103ff8,2025-09-15 11:15:49.661036,c65e00d2-f598-4902-82cc-d0420c4c2981,William Spencer,key,Apparel,1,497.32,497.32,Debit Card,Johnsonville
+9f17e985-3ab5-4a8e-ae7a-9cbcd3272a5d,2025-09-15 11:15:49.661141,677d81f2-6b4d-4570-b840-f70a7648f58c,Wayne Harper,environment,Electronics,5,487.25,2436.25,Cash,Thompsonborough
+b9247789-c78b-4ec0-b538-aca8f86c4850,2025-09-15 11:15:49.661245,1fd61f61-c061-4771-9d76-6fcc53b01aa7,Jim Maldonado,sing,Home Goods,3,267.68,803.04,Debit Card,East Jason
+ef596c3a-e7e1-4aad-aea0-1da01dfb142d,2025-09-15 11:15:49.661337,9bb9c0c4-20f0-410e-b585-ea113f63b5f7,Brian Simpson,argue,Home Goods,1,190.14,190.14,Debit Card,South Jeffreyville
+7e98e724-5522-48dc-b76d-5dc3aa13b45e,2025-09-15 11:15:49.661431,a1111258-fe10-45dc-899a-4fd6a75df0eb,Keith Gibson,whether,Groceries,3,425.15,1275.45,Credit Card,East Amanda
+a3347e46-727e-4c95-bfae-a431f74af238,2025-09-15 11:15:49.661524,1ded5cd7-0a00-4221-8a5c-abef12cec0cb,Rachel Madden,new,Electronics,9,453.45,4081.05,Debit Card,West Michaelview
+d9189903-37cf-4863-8524-6004556a9334,2025-09-15 11:15:49.661625,1b9f9c11-9328-4c84-ab66-5b038cea3daf,Janice Bowman,would,Beauty,3,486.11,1458.33,Debit Card,Lake Joshuaville
+2765468a-2a90-4c60-b436-6377455379d7,2025-09-15 11:15:49.661720,af5a1487-1ba8-44d2-b5c0-c7156344a1e4,Kristy White,positive,Groceries,2,188.78,377.56,Debit Card,Deanchester
+c505ac93-d170-41df-bf4f-2709d929c03d,2025-09-15 11:15:49.661826,1addace0-276d-43b5-af11-61bfa3e6c7ce,Katherine Duke,drive,Electronics,6,22.74,136.44,Online Payment,East Charles
+86817fc9-328b-41d4-b88d-c86b0ce3f1f0,2025-09-15 11:15:49.661922,4c03297f-66b0-49fe-90f7-bdbf55e68ce2,Bobby Kirk,part,Home Goods,8,345.43,2763.44,Online Payment,Lake Stephanieville
+3bf7bf3f-b310-4dff-8176-56f940b7e574,2025-09-15 11:15:49.662017,179314a6-ba85-4ac2-9b64-09bb7e21d5a7,Stephanie Perkins,machine,Apparel,10,412.96,4129.6,Online Payment,Simonburgh
+5d1644be-4e41-4cbd-a857-8276a6621e1e,2025-09-15 11:15:49.662122,fddf9657-864d-49ff-9b9c-becf5b976b2e,Jason Johnson,dark,Apparel,7,155.66,1089.62,Credit Card,Port Michael
+9b3f7881-7fc6-4ebb-a053-d14eabae28c1,2025-09-15 11:15:49.662215,33026f52-05fd-4324-a879-e630d4eac113,Kathryn Beck,enter,Home Goods,2,277.32,554.64,Credit Card,Lake Jason
+92474554-d874-49a4-862c-2f686541d079,2025-09-15 11:15:49.662310,688b3232-40af-4739-951c-c22466c479f5,Benjamin Villa,boy,Apparel,6,170.81,1024.86,Debit Card,East Michaelland
+d2c8ca28-85af-4b33-942b-b44d2907ed5c,2025-09-15 11:15:49.662403,4838da5d-fdcb-4cf4-b2a4-2824baf46f67,David Mccoy,so,Apparel,7,279.63,1957.41,Online Payment,Whiteheadburgh
+c41c6778-3ea1-49d5-966c-0b6eae14c070,2025-09-15 11:15:49.662508,4634a121-8491-4f02-ae34-253a5e9499b4,Anna Gonzalez,single,Beauty,10,10.43,104.3,Online Payment,Katherineborough
+26abb61d-c797-4f2b-88f8-5fa8b10b05a4,2025-09-15 11:15:49.662608,809cdb8a-ce30-4240-a483-1ff81b7d94bc,Jason Vasquez,eye,Groceries,5,451.63,2258.15,Cash,Lake Michaelchester
+f42848db-41c5-4f4b-b5ae-6ec420d59c68,2025-09-15 11:15:49.662703,2122a42a-08ba-42ff-a58c-2db1c15e6c70,Phillip Webb,memory,Groceries,7,183.24,1282.68,Cash,Jasonport
+38075ada-edea-4057-8073-4764aca5c90f,2025-09-15 11:15:49.662796,afb6182d-50ab-4a16-ad39-ade92d4d9c4f,Brian Estrada,benefit,Beauty,6,346.95,2081.7,Online Payment,Sandraland
+c9b5f2fb-d854-46de-b612-8dbd126c91d5,2025-09-15 11:15:49.662888,afe28ca8-a6dc-4744-b750-46703dc23bac,Emma Spence,already,Electronics,7,259.93,1819.51,Cash,Port Patriciabury
+c3354c8d-d12b-4508-afc5-7f15fff677b8,2025-09-15 11:15:49.662984,0abe1002-8314-4667-a611-58b8045754c7,Daniel Rush,Mr,Electronics,4,135.13,540.52,Cash,Sarahfurt
+5a67b788-5f73-4258-887e-ac1006956fcb,2025-09-15 11:15:49.663078,dd833f49-def7-4e04-b94d-d210eebad5f6,Teresa Hunter,compare,Home Goods,1,244.37,244.37,Debit Card,Avilastad
+1872cabe-7589-4e91-8761-353325673090,2025-09-15 11:15:49.663183,023f0ee6-b4b8-4870-8481-fb62e6499d16,Elizabeth Figueroa,serious,Beauty,10,106.5,1065.0,Online Payment,Port Michelle
+ca36153c-8873-45dc-953b-ca537257c17e,2025-09-15 11:15:49.663278,8051da33-e3fe-4cff-9964-7208085079a9,Kyle Rivas,memory,Apparel,8,300.4,2403.2,Debit Card,Port Matthew
+1aaddbe2-e0bb-4a6d-b739-481ca4252266,2025-09-15 11:15:49.663373,4764667f-d54b-4edd-8d54-16778e3cd653,Dr. Maria Gay,can,Apparel,7,323.31,2263.17,Online Payment,South Rachel
+101f7117-1bfc-4470-90ab-1ce745f258bc,2025-09-15 11:15:49.663470,67e619d0-9e0b-4371-bb1f-3e6341308d74,Jeffrey Lee,network,Home Goods,2,78.93,157.86,Credit Card,Loriport
+f26a24b5-c9a1-49c9-9912-672ff0faa3b1,2025-09-15 11:15:49.663563,aba24cc0-dfc8-436d-a938-6c1256353b1e,Lance Johnson,use,Apparel,2,92.83,185.66,Credit Card,Lake Danielstad
+c8fa2d3c-0733-4a83-967b-6d688ee7fc8e,2025-09-15 11:15:49.663661,f0a01c3f-3494-41fe-b852-5303b5daed46,Christopher Weber,act,Home Goods,3,347.93,1043.79,Cash,Cervantesland
+88852feb-3d65-428e-b5be-ca729ca17f89,2025-09-15 11:15:49.663766,0ff8ef85-2f81-45af-8cec-2c8611ca23e6,Joan Weiss,item,Beauty,5,481.07,2405.35,Online Payment,West Timothy
+a67b4693-2616-4cb7-9a75-91fb37dfc3d1,2025-09-15 11:15:49.663859,f4349dee-d923-4979-8472-84327e80ca5a,Ashley Price,may,Groceries,8,487.86,3902.88,Cash,South Jonathon
+be87a62a-6614-4b71-b3af-00148c950310,2025-09-15 11:15:49.663953,d2f6f0a2-dc03-4eb3-988d-d7dd1d888695,Patrick Hayden,job,Apparel,9,22.43,201.87,Cash,Port Thomas
+14275a9f-e663-4b83-b6ab-6d4b5cce6b86,2025-09-15 11:15:49.664046,0de07da8-2cb7-4a72-afdc-a112df95d2d7,Madison Everett,major,Beauty,5,8.54,42.7,Credit Card,North Bryanhaven
+51a94c21-da66-45a9-bf3e-8e1ca111c36b,2025-09-15 11:15:49.664141,82a9efbf-f44a-444c-9ed4-1150a618362f,Christopher Moss,enjoy,Home Goods,9,144.92,1304.28,Online Payment,Bennettfort
+66947c7e-8ba5-493c-86dd-45ac818346fa,2025-09-15 11:15:49.664246,d92da21c-9e68-4419-82bd-104825767bce,Mrs. Jenny King,after,Home Goods,2,307.02,614.04,Online Payment,North Kevinchester
+b7842af3-1d4c-4c92-b511-8a8d51f55c22,2025-09-15 11:15:49.664344,39e474af-3d99-4b69-95fa-a1707450e6fa,Angela Gonzales,piece,Home Goods,2,224.54,449.08,Debit Card,Amyton
+84170f63-568d-455b-86f4-fba8a5692e3d,2025-09-15 11:15:49.664438,c7046010-e6a7-4bd9-adfa-87c2259be4ab,Andrea Burke,forward,Groceries,3,247.19,741.57,Credit Card,North Ashleyborough
+7914d30f-7c5d-4540-841b-d45a61b39017,2025-09-15 11:15:49.664533,faa83866-77b2-4bbd-b9cd-339af48c945e,Laura Davis,try,Beauty,6,261.24,1567.44,Cash,Gloriaside
+31da0943-97f7-4899-8190-cca84c5c6a3c,2025-09-15 11:15:49.664632,9e43be2a-daea-4402-990a-e0cec4ad58ed,Shelby Neal,including,Beauty,10,484.02,4840.2,Online Payment,Robertsonview
+21c0642a-ae39-431b-800e-46b7f0a9930f,2025-09-15 11:15:49.664738,237270b6-3415-4b35-9f5c-86fd60156305,Luis Marquez,explain,Home Goods,3,444.79,1334.37,Debit Card,Leslieland
+6aabd63d-d397-443b-b8b7-c85d788936b7,2025-09-15 11:15:49.664831,ecf9d5d8-6d0d-434b-a768-af515f6e4245,Toni Avery,attorney,Apparel,7,428.72,3001.04,Debit Card,New Alexandrafurt
+14dc1342-c507-4347-bc1a-6068fee7433e,2025-09-15 11:15:49.664926,5811485a-5e08-4a81-99d1-cc110172c546,Philip Estrada,per,Beauty,8,188.0,1504.0,Online Payment,Raybury
+0d286eed-041e-4461-a7db-3b5672d5301a,2025-09-15 11:15:49.665030,45a34a0e-e1e3-4b8f-8382-bf645090fa06,Steven Weber,sit,Apparel,3,403.53,1210.59,Cash,Lisaton
+09e546f1-9428-432d-a9ac-60be1f3a89d3,2025-09-15 11:15:49.665123,73b56355-9b7b-4a70-822d-dfc24993b8c9,Amy Reed,outside,Beauty,1,86.11,86.11,Online Payment,West Devon
+1f6d7c82-3f82-4829-bc88-86515be74f2f,2025-09-15 11:15:49.665217,43debc2c-a59b-4743-93e7-6dc88343f688,Jonathan Johnson,final,Groceries,8,444.84,3558.72,Online Payment,Davishaven
+23e2157f-34e2-4506-ace5-cb2900b70763,2025-09-15 11:15:49.665321,f31f195c-a9c8-4f86-82a0-dc5196ececf1,Erin Ross,just,Electronics,8,184.03,1472.24,Online Payment,Mortonfort
+42c6b99b-230a-4dc3-b08d-1ff5f2515f11,2025-09-15 11:15:49.665426,d0cfb04a-eab7-4bfa-801c-bcb1de7fcdd7,Brittany Sanchez,wrong,Groceries,1,318.9,318.9,Credit Card,Port Timothyfort
+9bc8d4fb-0e83-4b3b-ba79-1e4faf0fd64a,2025-09-15 11:15:49.665521,d7abb5c4-d31f-4128-9414-3505676342c0,Scott Garcia,newspaper,Apparel,4,15.82,63.28,Online Payment,Garyport
+a190e9a6-8ea5-4b61-9877-f9d292fc199b,2025-09-15 11:15:49.665619,b9fc7df8-42c1-4165-8c57-2096e95f03a1,Daniel Miller,cost,Apparel,5,293.0,1465.0,Credit Card,Port Krystalmouth
+96a8e028-92e7-4bdb-91ea-314135f66023,2025-09-15 11:15:49.665713,66b8d0c8-c50c-49ae-8e8e-1c23f9aa41d8,Brenda Estrada,his,Groceries,6,92.2,553.2,Credit Card,Katiefurt
+827b9abf-1e02-406d-b754-ecf2b2a5bcb2,2025-09-15 11:15:49.665807,1e1d3d57-bf6f-4dae-b62e-085934f71c9e,Kristen Martin,or,Beauty,1,165.97,165.97,Credit Card,Lake Lisachester
+596d4c3e-ab77-425e-afc2-e8d0661fa583,2025-09-15 11:15:49.665902,c48afb8f-fdaa-4bf7-8a81-2106c4b84abe,Paul Garcia,back,Home Goods,1,277.2,277.2,Online Payment,Leemouth
+6b8cb8b3-2336-4e83-9779-bd08bb243d25,2025-09-15 11:15:49.666007,c97e3552-d5fc-4fcd-b9d8-c8f34764e74a,Dale Gibson,effect,Electronics,4,212.85,851.4,Credit Card,New Raymondland
+1f184869-bf2b-47e8-bba9-7856da367024,2025-09-15 11:15:49.666101,317b7ff9-d7d9-4904-8123-0b510106663a,Lori Pennington,miss,Home Goods,6,460.39,2762.34,Online Payment,Sullivanside
+81855e59-e882-4e15-bee7-348c382af522,2025-09-15 11:15:49.666207,bf3bcae7-2706-46ef-9d01-591d2203d883,Tricia Diaz,spend,Groceries,3,118.02,354.06,Debit Card,Rodriguezport
+475425e4-9b51-47d4-8ec2-2551a8ca4a91,2025-09-15 11:15:49.666312,7c96cfbe-b6c3-4e45-9436-b32b9c65550c,David Dodson,line,Beauty,7,32.91,230.37,Cash,West Leslie
+699ab6ff-3017-4bc0-9d59-892822f98053,2025-09-15 11:15:49.666405,7aa3b7b8-f3d8-495d-b15f-a1bb8b854da7,Tina Smith,evidence,Apparel,3,296.27,888.81,Cash,Keithmouth
+e72067b0-a593-4089-a8b0-6012bf8cd090,2025-09-15 11:15:49.666510,05f2c7e5-d8b7-4fad-bab0-8c24c7c624e9,Stephanie Atkinson,special,Apparel,4,455.26,1821.04,Cash,Danielbury
+1a43f42f-ab2a-43e6-bdee-2be7a2979dd9,2025-09-15 11:15:49.666635,614f21f9-e001-4e0f-9c6a-6596bc9d2f7a,Charles Pearson,camera,Home Goods,9,47.5,427.5,Debit Card,North Nathan
+7a73a0c4-bcf9-4474-89f0-f0dd43ab5dc5,2025-09-15 11:15:49.666740,319c34cf-20d8-4bf8-bac2-821526c2b1d2,Connie Humphrey,month,Beauty,5,335.52,1677.6,Cash,North Toddberg
+f58721b2-7e7c-4c47-a7f6-ff55a8002855,2025-09-15 11:15:49.666836,9585a646-08e2-48a5-9a7f-034b02f41da4,Julia Huffman,color,Home Goods,3,477.31,1431.93,Debit Card,Parkport
+4e09c850-dfe4-40ac-96ee-87fdfe55aff0,2025-09-15 11:15:49.666941,2f70a53c-cea8-413f-8b69-a41963bc5925,Krista Maddox,white,Electronics,4,379.01,1516.04,Online Payment,West Josephville
+df35f81c-e664-4456-a3cd-dcba85f46894,2025-09-15 11:15:49.667036,fd7088f7-3443-4840-bc49-887bbbbd4d1c,Austin Perry,way,Home Goods,3,252.92,758.76,Online Payment,Amberberg
+b955e238-5e86-4a72-86bd-27c560140fda,2025-09-15 11:15:49.667128,4fc1501a-7b1e-4b47-b5a7-7eacd6290e3d,Lauren Hart,state,Beauty,5,424.74,2123.7,Cash,Jacobside
+08256bd0-236f-4147-8c3e-173ce29a38a4,2025-09-15 11:15:49.667223,cd97f083-2ef6-426d-a129-dc43d07d6394,Jennifer Wood,economy,Beauty,4,474.22,1896.88,Credit Card,Michaelside
+49a05965-c8f3-469a-a85b-372e7502a0f3,2025-09-15 11:15:49.667317,5a65d358-c953-4a07-a562-db463157ff59,Aaron Nguyen,leader,Home Goods,6,93.36,560.16,Credit Card,Aprilberg
+2a3d6f60-4065-423b-835a-f93daf84b404,2025-09-15 11:15:49.667410,04747b54-9a1d-4b1c-83bc-8a8f9da54289,Monica Anderson,until,Beauty,8,277.3,2218.4,Online Payment,Port Melissa
+1971ae76-dcca-414f-b3be-a809cead0112,2025-09-15 11:15:49.667504,3a0b6140-eda7-4e05-a71e-1f9d895dc4eb,Mrs. Erica Fields MD,walk,Beauty,3,422.88,1268.64,Credit Card,Jensenville
+afad4e8f-3f98-4774-8437-892df2a2e1ac,2025-09-15 11:15:49.667635,6902ec01-f69d-4c85-a6a1-e698d3c59123,Rachel Roman,above,Beauty,4,232.34,929.36,Cash,Lake Daniel
+e36661c5-be49-420b-a6c8-c236e3c650d1,2025-09-15 11:15:49.667729,1248215f-398a-451f-baee-f5ebac210535,Mitchell Hebert,environmental,Groceries,2,328.7,657.4,Credit Card,Kellyfurt
+1da72297-2159-48a6-92d3-e758c3c8f311,2025-09-15 11:15:49.667823,9e3eb3f6-0363-41f5-a4dd-7bef7da692bd,Melissa Fuentes,senior,Electronics,4,264.68,1058.72,Debit Card,South Aaron
+e936b303-fa46-4285-9387-c9c9216602e3,2025-09-15 11:15:49.667916,95d69d35-151c-4757-8cf5-b023f23dcb76,Carol Landry,lead,Apparel,8,162.75,1302.0,Cash,Melissastad
+fc3d2294-b373-4fe0-92d6-85a21e8c8b1f,2025-09-15 11:15:49.668010,c18ddff2-0106-40e6-b0ff-db2bd0c4f6ab,Mary Cain,allow,Groceries,5,40.34,201.7,Credit Card,East David
+f2c49022-d2e7-4414-b539-0adb720d6ff4,2025-09-15 11:15:49.668104,421c5143-160b-497b-90d2-10cbf9eedc9a,William Wood,skin,Apparel,4,375.72,1502.88,Credit Card,South Susanshire
+c3a1d59a-d0dc-4334-a83c-8a9dd737da4f,2025-09-15 11:15:49.668198,f8cdfd77-420f-4505-93df-0ac47c78345d,Jonathan Mcdonald PhD,into,Electronics,7,97.34,681.38,Debit Card,West Sharon
+41678764-3671-4131-b9f1-64b641ebc170,2025-09-15 11:15:49.668293,9c2d1c1b-aa80-405d-8353-e5f2cc2d1a2a,David Howell,too,Beauty,9,47.63,428.67,Credit Card,Lake Jessicaberg
+a8c9ff95-5c38-4dc5-af47-bad91d933d93,2025-09-15 11:15:49.668387,2baa3e2e-0aaa-4b32-995b-128ed25c8c90,Nathan Maldonado,word,Apparel,6,364.6,2187.6,Credit Card,Mcdonaldport
+e2b7122a-7467-4a19-9101-58c9bf42597c,2025-09-15 11:15:49.668492,b1f9028f-d554-4bb8-9c2b-13ab51cc008a,Ashley Jones,both,Home Goods,5,375.75,1878.75,Online Payment,Hartchester
+63aaa7b8-5727-4651-aa0f-dcf5fe4ac47f,2025-09-15 11:15:49.668603,d12b1c1c-96ce-4616-bf6b-c3c9b54f39f3,Scott Holmes,expert,Groceries,9,498.44,4485.96,Cash,West Williamhaven
+d4558593-0f24-43ad-81bb-bff9468a5a78,2025-09-15 11:15:49.668696,475af6c9-d4e5-4eb3-a529-2b6c2fbd0cc9,Casey Wright,audience,Electronics,5,267.13,1335.65,Credit Card,East Debbieborough
+a0a631e4-6ca5-4448-9f84-99ebd3f11619,2025-09-15 11:15:49.668796,3a9b8216-43eb-4320-8af2-28171c72050e,Samantha Sanchez,itself,Electronics,1,212.34,212.34,Cash,Lopezberg
+d1057bb4-e903-4269-9b43-e6fa307b2559,2025-09-15 11:15:49.668931,adfbcaf4-ba5a-4193-9590-6e7da3be47b7,Christy Lawrence,stay,Groceries,9,244.52,2200.68,Cash,South Tammyside
+e8289cc4-a9b2-4804-8377-d013603dbfdf,2025-09-15 11:15:49.669029,9a66daaa-d51f-4865-bb20-251090874860,Jonathan Daugherty,business,Apparel,6,222.11,1332.66,Online Payment,South Alyssa
+702d2b5c-43ce-4f0f-8ae6-14b7255ba74a,2025-09-15 11:15:49.669122,af789d3f-50de-47ab-9e0a-c4708f7b145b,Jessica Ortiz,nation,Groceries,5,307.49,1537.45,Debit Card,North Charles
+07b60851-085e-4ee3-8be0-3acc9c72b9c3,2025-09-15 11:15:49.669216,b1a94e31-603f-49b8-b88b-a876a39f99c2,David Williams,plant,Apparel,1,451.09,451.09,Cash,Lake Oliviaburgh
+6a797705-5537-4c9a-8138-09826f6923b1,2025-09-15 11:15:49.669310,20c5d324-33e7-4c3d-83b9-2869ddfb65d8,Maureen Taylor,fast,Groceries,9,459.28,4133.52,Cash,Adamsville
+af39ce62-2a2e-4ec7-a12b-18084c55d559,2025-09-15 11:15:49.669415,3eb3cd0c-595f-4592-9532-bd6f5e976cdf,Lorraine Jacobs,front,Apparel,6,201.6,1209.6,Debit Card,Suttonmouth
+87eca0ff-3775-4514-a75a-cb8b8a4ad03f,2025-09-15 11:15:49.669521,764c808a-3475-4b4b-b1d8-a799906a244c,John Hamilton,child,Home Goods,1,123.81,123.81,Online Payment,South Natalie
+c7753a46-b781-4d6e-849d-5de89386326a,2025-09-15 11:15:49.669633,033490ae-6a0e-43a6-a268-b49550f88746,Eric Scott,others,Beauty,1,147.6,147.6,Credit Card,South Zachary
+6d4bf705-5b91-4e9c-810e-26c0e608dd1f,2025-09-15 11:15:49.669726,9a71bc69-4746-41e2-a3d7-70d92718cf01,Erik Mcconnell,education,Groceries,6,305.61,1833.66,Debit Card,North Michael
+ddb253d6-59a0-42ca-9f57-3196f0aa58e5,2025-09-15 11:15:49.669819,728aa8d9-529f-462a-9864-3dcdc517f5be,Herbert Johnson,artist,Home Goods,1,366.56,366.56,Debit Card,Paynebury
+503fe398-5699-410c-bbd2-3d56c178863b,2025-09-15 11:15:49.669923,e4bf227c-461b-4029-9c6b-0f669e23e4b9,Carrie Moore,station,Electronics,3,223.7,671.1,Debit Card,Boyerbury
+eeaf3eac-8733-4fcd-acb9-97051dfebc79,2025-09-15 11:15:49.670029,91f30e83-25ae-4992-bdc0-ddddaf3dd050,Elizabeth Christensen,good,Groceries,6,271.69,1630.14,Cash,New Melvin
+e2784213-bf6e-4cd8-84ee-5008db746672,2025-09-15 11:15:49.670123,52ea1a7c-abf4-4922-a8a8-bfdecfe21a02,Jason Bond,in,Beauty,4,118.43,473.72,Credit Card,Josephton
+8009c7e0-d852-4e5c-a282-ea4f25149dc7,2025-09-15 11:15:49.670216,d1b20f5b-0ccc-485b-9f2d-30b858a8404b,Tara Thomas,seat,Electronics,3,220.81,662.43,Credit Card,Meganton
+1488d5b3-ad8a-465e-8c03-a9c20a8dfcc9,2025-09-15 11:15:49.670311,9bb25ef7-5f79-43ad-99ff-26a0f3c3c814,Jenna Villarreal,chair,Groceries,4,458.94,1835.76,Debit Card,Brownshire
+6892b552-4682-40d3-95bd-ab15be58f7a0,2025-09-15 11:15:49.670416,4b50e1f2-7819-4399-953b-7b171bbd9c93,Justin Hart,a,Home Goods,7,398.0,2786.0,Debit Card,Sallyhaven
+9db3e09f-1529-4a1d-b395-810ab3ad8686,2025-09-15 11:15:49.670509,70f04c91-da61-4605-b437-5c1e200e845e,William Perez,herself,Groceries,1,354.82,354.82,Credit Card,New Markborough
+0dbe5384-1b64-421d-a4a1-891c9339a5fd,2025-09-15 11:15:49.670608,ffab8366-c4fc-45fb-b05e-0f5d3acb4e0a,Kim Yang,open,Home Goods,1,27.73,27.73,Credit Card,Campbellfurt
+f2c80a66-cb87-4be9-b218-bdb84d89c6da,2025-09-15 11:15:49.670714,97e7b88d-97e3-4588-bb54-7bb2c9899eb7,Raymond Smith,election,Home Goods,1,298.86,298.86,Cash,East Ericshire
+b5a9bcc4-8544-4abe-a644-cee609140653,2025-09-15 11:15:49.670813,39b6c747-01be-4f5d-9399-9b4f10774b7f,Andres Gonzalez,thing,Apparel,3,133.97,401.91,Cash,Ginaville
+3b208b2c-c65d-4068-974d-b1725cbd573c,2025-09-15 11:15:49.670907,6ae0b8b2-eac0-4ec8-995e-9e8c800029b2,Derrick Doyle,word,Apparel,4,447.39,1789.56,Online Payment,Martinezmouth
+01f47612-f297-4584-a58e-b113f3e11ab2,2025-09-15 11:15:49.671023,86340168-ec64-4ee9-994d-d05771c4db18,Brandy Vasquez,various,Groceries,10,376.42,3764.2,Online Payment,Sarahborough
+1b9dc845-528b-4bfb-9eca-ae0dfb03e0fa,2025-09-15 11:15:49.671121,4d70655a-d839-42e4-9bb4-f11c94c30748,Sabrina Mcdonald,page,Electronics,4,337.24,1348.96,Cash,Daybury
+2521e484-8660-47ba-8dbf-e1e54032b69a,2025-09-15 11:15:49.671226,e11b86a8-fa50-4372-a7ae-8f5e7c379777,Alejandro Moore,outside,Electronics,1,234.25,234.25,Debit Card,Lake Elizabeth
+dacecc70-90c6-4fce-9601-eedee39b0070,2025-09-15 11:15:49.671319,475e8dbc-23b7-4376-b756-fbf1a4af0fd2,Christine Lee,reason,Apparel,10,244.12,2441.2,Debit Card,Matthewmouth
+eaaca92c-d049-4e60-8c5e-5005acd83a81,2025-09-15 11:15:49.671413,cbc82fba-2298-41ba-bc03-32e9ac761e29,Linda Larson,center,Home Goods,1,448.16,448.16,Debit Card,Mirandaview
+b8804d6e-e5da-48f1-9429-9c7781c019f1,2025-09-15 11:15:49.671555,165ed736-5c27-4972-8703-f287ec6966d3,Omar Wilson,yeah,Home Goods,5,24.78,123.9,Debit Card,Hancockfurt
+407900df-fd95-444e-af60-36bc7b146e38,2025-09-15 11:15:49.671664,72b229be-84c5-4863-a66f-b041e127f89c,Jeremy Ross,although,Groceries,7,429.54,3006.78,Credit Card,Paulstad
+21510d25-5efd-49d1-aa6e-be6d0db33495,2025-09-15 11:15:49.671756,b2bab21a-008c-49b4-92ce-39136bcfa831,Susan Harrington,end,Home Goods,6,317.54,1905.24,Debit Card,Fisherfurt
+54a58bd9-2859-48f7-9df7-0559d3600802,2025-09-15 11:15:49.671862,ea49ff19-eb02-4edb-94d0-edcf595deaa6,Brett Davis,three,Apparel,3,487.66,1462.98,Credit Card,North Kimberly
+be0eaae2-03f5-48e0-a232-3948f1fa2a90,2025-09-15 11:15:49.671955,ac31db42-9849-40f2-b6d7-9b824a53369f,Russell English,five,Home Goods,8,428.56,3428.48,Credit Card,Lisachester
+f1f1ad35-ec6d-4c11-b165-65284eda9f77,2025-09-15 11:15:49.672047,1069ebdd-04ee-4751-b1d8-d76491da8ab5,Brett Maldonado,guy,Electronics,6,366.01,2196.06,Online Payment,Stricklandburgh
+a56bec7f-e906-45f2-87ef-acdabb6597af,2025-09-15 11:15:49.672151,7d132925-c9a0-4bd7-be41-0fa48eab8270,Destiny Sullivan,focus,Apparel,1,118.45,118.45,Credit Card,Jacquelineview
+3020b768-1e7e-4a5e-9e3a-dac94b0b85f7,2025-09-15 11:15:49.672245,6bd6d3d3-2334-4a84-bf40-1a90127d21a8,Philip Williams,mention,Groceries,6,143.69,862.14,Debit Card,Matthewland
+3b9f3c85-21e4-4e92-926d-cb6266f2d299,2025-09-15 11:15:49.672337,8dd8cdaa-4719-4a60-aa33-1ad7577c956a,Kevin Page,garden,Groceries,3,245.29,735.87,Cash,East Sharonland
+53190757-3873-48ed-83eb-d9b5f86144a3,2025-09-15 11:15:49.672431,d2fdc2cb-bc5a-43e1-bbea-161ac852cbb2,Daniel Harmon,sure,Groceries,6,279.83,1678.98,Credit Card,South Paula
+b22ec846-0aae-42f3-a442-2c022e97e954,2025-09-15 11:15:49.672523,ae998263-6ac9-4bc0-8eea-94e6f87451d8,Taylor Gilbert,reveal,Beauty,3,81.11,243.33,Credit Card,Lake Christopherport
+92e2e8c8-8c00-44bd-b935-9d6448e29e44,2025-09-15 11:15:49.672624,25e8c9c6-0965-4a3c-a415-340477efb884,Maria Richards,even,Beauty,2,132.22,264.44,Cash,Ginafurt
+1f2f5089-d490-4def-b527-e64ae789f944,2025-09-15 11:15:49.672718,36dc41d1-2f41-4728-8eeb-b18d6a4cb2ca,Michael Rodriguez,understand,Groceries,7,331.08,2317.56,Online Payment,Hansenchester
+7c3642ac-3cb8-4b93-94af-72b530203a24,2025-09-15 11:15:49.672822,8fec5ab2-0d06-49e2-b42d-bd2f2147db5d,Michael Jimenez,real,Home Goods,8,42.55,340.4,Online Payment,Barrettport
+728d841e-388d-4d4c-97cf-1dc06ddf84a6,2025-09-15 11:15:49.672926,f6ad3ffd-609c-4e3f-9ea9-19defbafc1db,Jesus Cunningham,how,Beauty,7,357.4,2501.8,Credit Card,Port Summer
+e0c51f80-ecef-4cf9-9bab-71f33bdb0379,2025-09-15 11:15:49.673020,ccbd948f-6099-43bc-a6e9-66f97055e753,Kaitlyn Morgan MD,total,Home Goods,3,282.47,847.41,Online Payment,North Kimberlyview
+44c9e438-843a-4144-b058-7c250df416f0,2025-09-15 11:15:49.673117,9d677d75-d4e8-4d22-9304-3cb0e0704a46,Brian Cook,should,Electronics,4,280.78,1123.12,Debit Card,West Ricardo
+bf4856a5-474c-4d9b-85db-40c6f0e98bf7,2025-09-15 11:15:49.673210,36760718-ff2a-48a3-bc20-192db4bb5e8c,Jennifer Clark,tonight,Apparel,5,138.21,691.05,Cash,Lake Breanna
+9dc85aca-ea28-46dc-a2df-d66706e8c271,2025-09-15 11:15:49.673304,659fefe3-4938-465c-8a5a-d48ed0d6eb90,Erin Owens,training,Home Goods,10,485.68,4856.8,Credit Card,Torresstad
+68a39118-2465-45ff-a889-caa755ab7bab,2025-09-15 11:15:49.673413,5024acb9-b5c3-4c2e-85a7-84264fbd3dbf,Heidi Melton,oil,Groceries,6,254.38,1526.28,Credit Card,Vargasstad
+062b3122-ce10-4986-810a-94c07b4f1e1a,2025-09-15 11:15:49.673518,a8bac051-6aa9-42c5-91fb-c15ba8383afb,Karina Lane,range,Electronics,10,153.68,1536.8,Credit Card,Lawsontown
+0607fc2c-cbe7-497e-81ac-9778c5505b0d,2025-09-15 11:15:49.673628,1fc2b246-88f3-4a8d-9f5c-5cb8ea8ee1da,William Chan,southern,Groceries,2,87.08,174.16,Credit Card,Shanemouth
+ab1ccda3-e384-442b-b3ba-fdce8a0bc6c3,2025-09-15 11:15:49.673721,54e5b16f-18ab-47d4-8bf5-e04b8f1b826e,Mr. Michael Smith,move,Apparel,8,257.02,2056.16,Online Payment,Rachelside
+8fc8d9f3-de0e-4623-9f79-21f9c86221b3,2025-09-15 11:15:49.673817,7a054d9c-77e0-479f-9371-580b254b8ede,Todd Hunt,town,Groceries,4,60.92,243.68,Cash,South Mauriceport
+45e1beaa-e376-4ec7-9671-9208b9f65357,2025-09-15 11:15:49.673910,64d2f0c2-b19a-4df5-8e79-989203eba3cd,Debra Campbell,ten,Groceries,5,112.58,562.9,Debit Card,Hernandezville
+08f9cea7-3859-45cb-9ad2-586ba913c93f,2025-09-15 11:15:49.674016,31e21d33-1690-45b6-9be3-90d5ca765824,Danny Smith,develop,Groceries,10,424.33,4243.3,Cash,East Scott
+eefc1c0f-a6ff-426a-b048-eae6e85d6703,2025-09-15 11:15:49.674108,331cf1c7-c4c6-4ab2-bf3b-dfdf44b6ffef,Joseph Collins,approach,Electronics,9,206.36,1857.24,Debit Card,Millerton
+eb4e3d83-ee68-48e4-90ab-c82883d31e72,2025-09-15 11:15:49.674212,644d4097-9934-4fe3-b457-ae5e5babc903,Heather Braun,sister,Apparel,6,155.94,935.64,Online Payment,North Debraburgh
+119b251e-f0d4-4c10-a7b2-5a5b45e17940,2025-09-15 11:15:49.674308,47d0929c-79bf-4433-9c44-945fcdefea70,Sean Larson,environmental,Electronics,5,421.41,2107.05,Cash,Josephmouth
+76c98506-e5eb-4a74-ba65-145c1ee677f9,2025-09-15 11:15:49.674412,1254f8c7-c2cc-46f9-a5c9-8be72c973fc1,Edwin Smith,law,Apparel,7,337.05,2359.35,Debit Card,North Anthony
+6f880189-66f8-4274-9883-b468b783bbe6,2025-09-15 11:15:49.674504,350c4446-879e-4649-8761-d668e73fdd9d,Raymond Werner,art,Beauty,3,305.17,915.51,Credit Card,West Jackiemouth
+7c4a84a3-a715-4cae-82fe-4f8dc3200c66,2025-09-15 11:15:49.674603,f82a9b0c-105b-4c66-8a83-55e73d9c1af1,Megan Cook,here,Electronics,9,185.37,1668.33,Debit Card,New Brianbury
+406b77de-27b2-4501-bc3e-ec047d864076,2025-09-15 11:15:49.674698,20472e58-6141-4d88-ba64-821b337a36cf,Shaun Smith,security,Groceries,9,478.69,4308.21,Online Payment,Mitchellchester
+0c0bba1e-5ec7-43c4-a00b-76315d95d684,2025-09-15 11:15:49.674803,a0a9fcbf-8e3e-4b85-9500-c44d8bfabca4,Suzanne Torres,history,Beauty,8,75.49,603.92,Online Payment,Lake Kathryntown
+79f88336-9fb0-48ea-95fb-3a64dc516697,2025-09-15 11:15:49.674899,7339540a-d626-4b90-a113-4264ff5d88d7,Travis Moore,guy,Beauty,8,48.2,385.6,Credit Card,East Kevintown
+e3a1db70-fda3-4364-8b65-a9b61ca416f7,2025-09-15 11:15:49.674994,0aceeac0-e0be-46d1-b6a8-e47273d56c6e,Robert Baird,system,Groceries,1,74.92,74.92,Debit Card,Port Derrickport
+0bf14fd7-1e76-41f7-9ef6-7a1f3feebc6a,2025-09-15 11:15:49.675088,aa768472-db43-4a1a-b047-06e868ceef3e,Connor Hull,power,Groceries,6,301.97,1811.82,Online Payment,Michelleburgh
+71dd5660-0e75-4640-804f-e2c06f03d6c2,2025-09-15 11:15:49.675181,81c9b3ef-57c0-49cc-8223-39276bf09711,Dana West,get,Groceries,7,412.52,2887.64,Cash,Samanthaview
+3c6ba44b-428f-4370-be7a-70e6e6242c9f,2025-09-15 11:15:49.675288,e181a363-6232-4a56-8287-64f0d9d48942,Amber Powell,realize,Electronics,8,224.09,1792.72,Cash,Justinton
+f7db6fbf-5d18-42c7-bb97-b5cd6982cac2,2025-09-15 11:15:49.675383,162ddf3b-b543-4d11-97a1-c5d7bc1ab139,Michelle Jacobson,letter,Groceries,10,44.9,449.0,Debit Card,Port Anntown
+4b300758-f48e-4e70-a9ea-cfd621eb6199,2025-09-15 11:15:49.675478,57fff472-8691-440c-89aa-aa8fff19edb8,Joseph King,poor,Home Goods,10,375.96,3759.6,Credit Card,Estradaville
+039622b5-9ae0-43b2-9589-0855774cf1ed,2025-09-15 11:15:49.675587,38a77ce5-be66-4b40-86ca-531b26c6a0bd,Cindy Collins,worry,Groceries,4,372.59,1490.36,Credit Card,Stewartland
+3f8f4e92-6b19-41b0-8e7c-90fcef7f9fdd,2025-09-15 11:15:49.675693,a820f17f-4e32-419a-b0ad-41057c46d326,Mark Lopez,bill,Electronics,3,457.53,1372.59,Debit Card,Jeffersonshire
+16516683-932d-47b5-af19-a87a3885993d,2025-09-15 11:15:49.675798,a73ae106-99c2-444a-aef2-80134b8605df,Richard Fitzgerald,mention,Electronics,2,147.77,295.54,Cash,North Matthewhaven
+bb381f0a-57aa-490a-8e74-ea0d68dc8ae9,2025-09-15 11:15:49.675892,da0f9625-fcf8-4121-8bd5-9094eac216dd,Matthew Costa,court,Beauty,10,13.05,130.5,Cash,New Michaelfurt
+770bb44b-3287-4890-bb42-c8d3d88c8bf2,2025-09-15 11:15:49.675986,27557409-861e-4ce9-8bc6-dce4660c0e4d,Ms. Jessica Davis,trip,Home Goods,9,179.44,1614.96,Online Payment,Myersburgh
+f0a73b95-a1c5-4df9-b38a-5e383b4d89ec,2025-09-15 11:15:49.676094,659bdf53-688b-4e66-ba14-e4ffd13d9256,Jared Davidson,high,Beauty,7,186.07,1302.49,Online Payment,Lake Caitlinstad
+af4ed64a-debb-4d31-b3fb-0bf1e45c93e0,2025-09-15 11:15:49.676188,8251aaea-3ab7-4a08-9657-4bbdf39ae3cc,Nicholas Hancock,third,Home Goods,7,444.57,3111.99,Online Payment,North Louis
+96a8f348-a128-4c30-a240-99b6dd426263,2025-09-15 11:15:49.676281,15d7ee00-0f34-471b-9f02-b1df86429ead,Tanya Lewis,sign,Groceries,5,93.48,467.4,Online Payment,Lake Amy
+4c5fac77-6ff5-4fa8-9a1c-7d531a1db488,2025-09-15 11:15:49.676375,da38ea16-29e2-40d2-a641-ff5e2dc9793a,Jessica Shaffer,practice,Groceries,1,120.11,120.11,Cash,East Joshua
+b0f87b94-9045-4ce4-9ee7-4a8138db9b1a,2025-09-15 11:15:49.676469,e24c581e-8425-45f0-8ed5-97b83d44b485,Geoffrey Brown,wait,Groceries,5,400.82,2004.1,Cash,North Monica
+94a269ce-e624-41f7-9501-f4f18ce52ed2,2025-09-15 11:15:49.676562,eebc64b4-fbe6-4a2f-9f1e-f7b6129653d2,Julie Gibson,class,Electronics,2,312.14,624.28,Online Payment,Port Troy
+67ab8876-2ea4-4ed0-8db0-9c519ff441e5,2025-09-15 11:15:49.676661,e976e8dd-bc25-4058-9ed1-79df766259d4,Karen Brown,carry,Beauty,3,486.87,1460.61,Cash,South Christopher
+38bb6443-6db8-4021-9c08-631059836374,2025-09-15 11:15:49.676755,11cd7dd7-7174-4a17-9e90-7095a0b162a6,Amy Norris,whether,Apparel,4,7.69,30.76,Online Payment,Georgebury
+22177687-aceb-4f15-a1c5-8502a0890897,2025-09-15 11:15:49.676849,d922cb7d-782b-41a1-ba7d-fbc720a932a8,Michael Munoz,rather,Apparel,7,256.55,1795.85,Debit Card,East Brianfort
+4e655133-1ceb-498b-924b-ac5cb5305915,2025-09-15 11:15:49.676943,276d2043-3782-409c-913d-4c6d3a57469c,Rebecca Solis,discuss,Groceries,4,339.4,1357.6,Online Payment,Davisfurt
+a48f53ac-978c-442e-85ec-861f132afb39,2025-09-15 11:15:49.677049,a1f71480-4bed-4e98-b5ce-e7459cf353e1,Becky Lopez,very,Beauty,6,62.12,372.72,Debit Card,East Heather
+9c150070-8536-4176-9bb3-10a5a85b4785,2025-09-15 11:15:49.677143,abb9536b-828e-4252-b4e4-ae77307cb2c6,Ryan Burgess,beyond,Home Goods,9,391.02,3519.18,Debit Card,Port Jamieport
+327dced2-e99a-4a91-a331-7b5f58b2fd9f,2025-09-15 11:15:49.677238,69a0b10e-6947-4e81-8d78-a51a70008ed5,Phillip Mccormick,amount,Electronics,1,81.7,81.7,Credit Card,Hensonton
+49013a4e-c956-476c-9b2d-e1d65da67649,2025-09-15 11:15:49.677342,8fdf5f8b-b6ee-4f5e-97ec-84738f16f651,Donald Nelson,account,Beauty,9,358.22,3223.98,Cash,New Patriciaberg
+4acc81bf-a440-4446-bde3-37c08d965199,2025-09-15 11:15:49.677436,303d8393-57e9-403c-a3b0-d27e8e2775df,Nicole Bailey,laugh,Groceries,4,421.69,1686.76,Debit Card,West Peterland
+673b64a6-65f6-4a2e-bcbd-c42f058d1b04,2025-09-15 11:15:49.677532,371f1fe7-2b97-493d-a697-0fdb90956f91,Morgan Smith,American,Electronics,3,377.41,1132.23,Online Payment,New Ryanbury
+ac41c544-c24a-406c-8e60-5ab2a81f4c81,2025-09-15 11:15:49.677632,6a0e14f5-9f07-4c7f-a97c-2d571b0a244f,Hannah Kerr,grow,Beauty,8,213.85,1710.8,Credit Card,East Christina
+af960e23-935e-4079-a127-e44ae9232e65,2025-09-15 11:15:49.677727,0a4dbc6d-687a-4f0d-833c-1bfbf3807081,Rhonda White,federal,Apparel,2,319.6,639.2,Debit Card,West Eric
+9f024c82-64b0-48a7-8d7f-d67c2e139d6a,2025-09-15 11:15:49.677821,158bd038-ab43-4252-be26-21299cad783b,Kimberly Church,according,Electronics,5,410.76,2053.8,Cash,North Michaelchester
+34325f88-90d9-4917-96ab-e74eadf17086,2025-09-15 11:15:49.677916,b4347db0-8759-456a-923a-03da255916c3,Robert Peterson,fall,Groceries,6,332.13,1992.78,Online Payment,New Erikside
+9f2213f3-04d3-4715-ae44-6a2d81a9ba57,2025-09-15 11:15:49.678010,e3ba2f07-1074-4f3d-a1e2-1a7568254bb5,Christy Hansen,training,Groceries,10,84.57,845.7,Online Payment,Hensonmouth
+0df987d3-a8c1-4c0a-bbc3-8e1ce66d90fc,2025-09-15 11:15:49.678115,686bd897-866f-40fc-b172-56bea7f6cb97,Kim Massey,important,Groceries,1,285.18,285.18,Credit Card,Melissaville
+34b3ff0b-7d7d-4b92-9fc8-433c0024c498,2025-09-15 11:15:49.678209,8d2af949-3e04-4e88-80c5-0d5941710d9e,Daniel Marsh,detail,Apparel,7,6.6,46.2,Online Payment,Ashleyside
+6bde2409-edaf-479f-bd32-d133cf11901b,2025-09-15 11:15:49.678303,e20ff440-5428-4388-ba36-ada00a7460e0,Perry Hernandez,rich,Electronics,5,123.39,616.95,Debit Card,Tanyamouth
+3bf349ed-d5bc-4514-bb1b-30aa343e19d2,2025-09-15 11:15:49.678395,8f3d81a3-7a2d-43a3-950c-71c0d3464e0f,Jennifer Newman,important,Electronics,7,136.38,954.66,Online Payment,Moranland
+50ab4299-e98e-4c7a-88a5-25f66886529a,2025-09-15 11:15:49.678501,3cde25ff-f074-431f-8bde-fe0d395709d1,Shelley Murphy,play,Electronics,7,381.57,2670.99,Online Payment,South Andreaport
+35d6584b-2eaf-4074-a87e-0a5887e96676,2025-09-15 11:15:49.678601,4f374dbc-f73a-4208-b824-dce83e510f1e,Erin Kelly,fly,Apparel,8,207.41,1659.28,Debit Card,South Christopher
+577b7623-5e1e-4d15-96bd-e58d32853071,2025-09-15 11:15:49.678695,3ce054fe-70e8-41fe-8fee-fa5fcfd1f188,Dawn Welch,citizen,Electronics,2,56.13,112.26,Online Payment,New Ronaldstad
+e13ac8ca-566d-45dd-bf62-c05ecaea87fc,2025-09-15 11:15:49.678791,adb28c0e-31f5-4ebc-88e8-a5fbea4e87f4,Laura Lucero,do,Groceries,9,84.76,762.84,Online Payment,Petersland
+d1b6e3e4-51c0-427e-a180-a44151a56036,2025-09-15 11:15:49.678896,cd3e3fb4-d92a-45cc-a872-e5f24b3328d6,Dennis Miller,just,Home Goods,4,150.56,602.24,Debit Card,Port Marcoburgh
+ecb8f976-3688-4037-9d94-31fadaa754ab,2025-09-15 11:15:49.678990,9c3e2561-4b8d-4c75-9621-d75e699c9706,Charles Gray,large,Apparel,9,86.45,778.05,Online Payment,South Zacharyborough
+fa56e0a6-40d5-4100-b18e-084e0c032c4d,2025-09-15 11:15:49.679084,5c5aef79-21ba-429d-8b04-7d7d221d4d9a,Tara Robbins,red,Groceries,10,319.2,3192.0,Online Payment,East Nathan
+0efc4a96-973a-4ee5-8b6a-46a4d964828d,2025-09-15 11:15:49.679179,a0aba491-e063-4125-9d93-d0f927abf8e2,Joy Jones,if,Home Goods,4,251.02,1004.08,Debit Card,Jacksonshire
+2f6887fa-9163-40e1-bc90-f70e364f2799,2025-09-15 11:15:49.679284,7886e8d7-f762-405c-81f2-35cdc143fe1f,Margaret Whitaker,field,Beauty,9,420.78,3787.02,Cash,South Dustintown
+fc1c05ee-49ad-499a-92ec-2f5c615a8537,2025-09-15 11:15:49.679380,8ba215dd-e59a-410a-bf8d-1a980d4d404a,Devon Reed,get,Electronics,4,200.22,800.88,Online Payment,North Scott
+81091b2e-2ad6-4a2e-91ec-c4aac6079050,2025-09-15 11:15:49.679472,7e786164-8bc0-4209-b497-12355b4dc6fa,Holly Ortiz,energy,Groceries,8,495.93,3967.44,Credit Card,West Carolynburgh
+5efd0685-378c-4ac5-80f8-8848c7e808cb,2025-09-15 11:15:49.679569,7f52ad30-8c01-40d3-87dd-787de6e5fd7d,Jason Watson,bed,Electronics,7,258.46,1809.22,Cash,Josephburgh
+b05881a9-ea67-48ad-a403-8ffc69ad29ee,2025-09-15 11:15:49.679667,551e151c-1678-42f1-8172-4c3423ff3c7b,Brittany Romero,great,Beauty,4,343.21,1372.84,Debit Card,Port Erin
+8a330f14-6ba2-4350-93fb-94b2d4280e81,2025-09-15 11:15:49.679761,e1f254d0-996c-461a-b3f1-eeca987f3036,Zachary Cruz,land,Electronics,6,44.6,267.6,Credit Card,East Victoriaview
+0d7d0835-7335-41b5-b988-9cb888c444c2,2025-09-15 11:15:49.679856,d01b3f36-0d6c-4f4f-b666-e9fced7be47f,Rebecca Richardson,also,Groceries,6,407.81,2446.86,Cash,Nicholsfurt
+a6659232-5830-4401-8dfa-9c1e6727f2ab,2025-09-15 11:15:49.679961,c964f0e3-362a-438e-ba6e-ae012abb4737,Patricia Doyle,possible,Groceries,9,362.24,3260.16,Cash,Rebeccaview
+0f76209e-4685-4f20-8f44-834f09288ee7,2025-09-15 11:15:49.680055,5a1540f3-3041-4bce-abcc-a0714fbe756c,Donna Reyes,more,Apparel,2,221.25,442.5,Cash,Jenniferbury
+36b52d9e-4b90-4b62-b3e1-afdb4c637f81,2025-09-15 11:15:49.680150,3b1287c4-e960-4439-a274-f62303cb925a,Lindsey Tucker,brother,Electronics,10,148.87,1488.7,Online Payment,Port Patrickmouth
+7dbeb358-8be3-4440-8a65-fdcb866ae0cc,2025-09-15 11:15:49.680246,a07fb858-b7a8-4afe-b89f-7bbebb456336,Beverly Morales,view,Apparel,6,384.76,2308.56,Debit Card,Harristown
+48aca11c-140d-4e54-918a-9d07ec15aa19,2025-09-15 11:15:49.680351,d953ba58-d60c-46e0-b7bc-c83047bd4cd1,Meghan Strickland,author,Beauty,2,430.07,860.14,Cash,South Randyport
+a9ef9fb1-e985-4e28-ba5d-0a5a63a1bcd8,2025-09-15 11:15:49.680446,73dde753-1443-4e1c-94e7-9bff976e6ef5,Christopher Rojas,magazine,Home Goods,4,236.01,944.04,Debit Card,Watsonland
+4434dc13-eea2-457e-a645-48658107c546,2025-09-15 11:15:49.680550,6512f689-79a7-465c-9e5c-57dbc561b209,Kelsey Jones,win,Beauty,1,91.38,91.38,Credit Card,West Kevinstad
+c1499b16-9fe8-4a1c-a458-ea347c718e18,2025-09-15 11:15:49.680650,78752f6e-4d08-481c-9f88-e38cd22b505d,Mary Smith,group,Home Goods,5,150.61,753.05,Credit Card,North Monicatown
+651c1ad3-7d31-4eeb-82ce-48466322224f,2025-09-15 11:15:49.680745,8fe4a611-5c23-4062-a642-7b43860291b6,Brianna Santiago,past,Apparel,3,372.72,1118.16,Credit Card,West Charleshaven
+3731256e-cdd1-45bb-bbd8-7705fe756d0a,2025-09-15 11:15:49.680840,70140c7d-3036-40ce-ad02-ae0965034d11,Allen Jackson,war,Beauty,2,48.03,96.06,Online Payment,Hectorbury
+0a8bce0a-eba9-4dda-a217-51c9a1b7a4ce,2025-09-15 11:15:49.680934,97b1928e-b090-4cae-bbf0-206c62883174,Ryan Sellers,direction,Beauty,4,150.14,600.56,Credit Card,West Karenfort
+26480110-5157-461e-8ab1-6b9eb677f5d3,2025-09-15 11:15:49.681028,42c125a3-f240-4e89-b00a-2881472e0975,Colleen Robbins,prevent,Electronics,10,256.73,2567.3,Online Payment,Briggsmouth
+51f5f73f-40e7-40ae-adc8-6729d09e0173,2025-09-15 11:15:49.681133,f2b328bd-5888-4213-babd-f344f8eb76b9,Sarah Gregory,up,Apparel,5,221.38,1106.9,Online Payment,Mistyberg
+a5fdda97-50ad-473c-bba8-b8c44ae6fae2,2025-09-15 11:15:49.681228,0831f3e7-bf57-461c-ad23-e94a650696c3,Cameron Bennett,hundred,Beauty,7,393.74,2756.18,Online Payment,Jessechester
+ad41fa93-50ad-45e8-8868-4e678545f975,2025-09-15 11:15:49.681322,23d287a4-12ef-4a80-8d80-bfd08bce2c92,Phillip Diaz,seat,Home Goods,8,263.49,2107.92,Online Payment,South Kevin
+536421c0-d74a-4804-9666-9ecdff736826,2025-09-15 11:15:49.681414,91441e33-ece6-42d0-b9c5-f44821fe1c70,Brianna Le,company,Electronics,2,201.29,402.58,Online Payment,Dillonberg
+d0b1f02c-2340-4b7a-95c2-f9ebf0db6500,2025-09-15 11:15:49.681519,a798f516-2cb0-40fd-b12e-3c2c567955e5,William Blevins,walk,Beauty,3,368.33,1104.99,Credit Card,West Danaborough
+e2b7d4dd-1cc7-494d-b7e2-090e026349b7,2025-09-15 11:15:49.681618,a4437268-1a6d-4db8-a11c-ae4ad5654c63,Thomas Gray,yes,Groceries,3,363.32,1089.96,Credit Card,South Chad
+9d25c3d5-cde4-4c84-94c6-e53e34be1367,2025-09-15 11:15:49.681711,c3d1bf79-5cae-437b-915e-5f8f908a9fef,Robert Gomez,get,Beauty,10,487.67,4876.7,Online Payment,Johnsonmouth
+ed7902ec-a11d-4c76-b43a-3361dc1f006b,2025-09-15 11:15:49.681816,dcbf3b33-3b78-4fc8-8d02-646ae60bdd8a,Elizabeth Jackson,meeting,Home Goods,6,274.53,1647.18,Debit Card,Gomezport
+af5a8520-7d54-4ca5-a1c8-afda517e7c67,2025-09-15 11:15:49.681922,c0004e86-65cd-4e99-a787-8cb784294d2b,Jennifer Turner,boy,Beauty,8,290.41,2323.28,Debit Card,East Manuel
+d7a6cca5-ffaa-4b71-9124-5007a466fd83,2025-09-15 11:15:49.682022,2f8e1810-c67f-4c52-8e3e-5b56fe665ae2,Jeffrey Chandler,democratic,Apparel,10,394.07,3940.7,Cash,Edwardfort
+f3435a96-4aed-417e-b4ef-ac3d1b9a349d,2025-09-15 11:15:49.682132,c906f056-c6fe-4a36-afc2-43bcd76c488b,Alexandra Chandler,firm,Beauty,3,397.59,1192.77,Debit Card,Josemouth
+7595c567-0b35-4c9f-abc5-89b13f584a74,2025-09-15 11:15:49.682226,3220a1b6-6543-41a1-b35a-6ba858f456dd,Jessica Salinas,night,Beauty,9,13.1,117.9,Credit Card,Louistown
+3e226f20-79a4-48c3-b952-4ed026714db0,2025-09-15 11:15:49.682320,ac3122d1-c31e-4d1f-8735-1c46f5313d63,Dennis Collins,capital,Home Goods,10,432.33,4323.3,Online Payment,Petersport
+e9be9a17-6c1d-42eb-b66b-3878de61d2da,2025-09-15 11:15:49.682424,7cf4b00a-67f3-462e-ae63-24ad49fef1af,John Mills,try,Apparel,8,326.58,2612.64,Cash,Leefort
+b9aff2a1-68f6-4dcd-b21e-2b396fd6a85a,2025-09-15 11:15:49.682529,c56d4a6a-d1e5-46a7-b43a-1fb5614f635e,Amanda Snow,owner,Beauty,4,31.36,125.44,Online Payment,Markberg
+150afdfb-f959-4dca-9e08-2b1ecc9403c6,2025-09-15 11:15:49.682629,3c58435a-b880-46dc-8a20-c9a420b01911,Ryan Charles,relate,Home Goods,10,393.18,3931.8,Debit Card,Port Henrymouth
+6ba2d242-5a00-4396-a10a-921477e74771,2025-09-15 11:15:49.682723,04404d9d-e36a-4b5d-8a9d-5e5a53b92eeb,Michael Edwards,tough,Groceries,10,476.88,4768.8,Cash,South Melissa
+8e756bae-25f6-49ba-a0c6-89c841ddddf5,2025-09-15 11:15:49.682816,3c27f8fc-e091-4710-a787-9d3ca1c7ff2b,Daniel Ramirez,charge,Apparel,8,150.74,1205.92,Credit Card,Moorefurt
+ee10e9ba-96a4-4484-969b-8fc35a0ff5e9,2025-09-15 11:15:49.682921,c97ec751-32bf-4aec-bc31-c90fcf1e6636,Lori Dean,walk,Apparel,1,93.65,93.65,Credit Card,Lauratown
+6d95ce66-d9e4-4762-b71e-59461854e29f,2025-09-15 11:15:49.683015,3a5eb1e4-4158-4de4-b4ea-95b5a386bdfe,Jordan Miller,data,Home Goods,8,180.57,1444.56,Credit Card,West Derek
+875af8ab-da32-406c-9049-79fbb2c0a14c,2025-09-15 11:15:49.683108,ebcba5aa-e2b3-4379-bd3b-661c824e708c,Jordan Hall,exactly,Beauty,9,335.47,3019.23,Debit Card,Stephanieville
+0f2cd232-de5b-498e-adcb-55efa49d8596,2025-09-15 11:15:49.683202,39451141-17fa-4087-8578-14a70f4c5ba9,Rose Howard,huge,Apparel,3,466.39,1399.17,Online Payment,Lake Olivia
+79188edf-16ce-4dd9-ba2a-5cb70d004e67,2025-09-15 11:15:49.683295,1872d5c7-e93e-4f42-921f-5e80078dfc17,Susan Garcia,western,Groceries,1,499.94,499.94,Cash,South Jessica
+0266f8f1-6924-4a15-92b1-64d81e369745,2025-09-15 11:15:49.683398,c3e9a04f-8495-4809-8c5a-223c00a11733,Shawn Oneal,number,Beauty,9,263.58,2372.22,Credit Card,East Elaine
+1d811f28-65ae-4b90-b49f-0f714a2806dc,2025-09-15 11:15:49.683491,b2a6bce2-25f8-45c6-846d-c97b3261da05,Dylan Jordan,professional,Electronics,7,93.94,657.58,Debit Card,Williamston
+35145201-d8f0-4e38-94e6-3c016390bb6d,2025-09-15 11:15:49.683600,76a4bc01-56c3-493b-8290-dd6e6f238d01,Gabrielle Morales,want,Beauty,10,192.63,1926.3,Online Payment,North Adam
+d741d672-cd4c-44eb-b8e0-dc75a498118f,2025-09-15 11:15:49.683694,58238975-4640-47b4-852a-5c4c8854fe98,Teresa Andersen,baby,Home Goods,10,458.94,4589.4,Cash,West Michaelmouth
+e77d2876-f544-488f-b5f3-b58928554f96,2025-09-15 11:15:49.683790,8b058094-19a4-4aff-b47e-5be182ac5550,David Turner,million,Beauty,9,172.5,1552.5,Cash,Colemanhaven
+8a7f76f4-21c2-45cf-a7af-572d24f5e9af,2025-09-15 11:15:49.683895,50ff9d10-3a46-4d65-99dd-5f32938f0c45,Scott Greer,worker,Groceries,6,50.75,304.5,Credit Card,Williamsville
+1cdccbb5-7d76-4b73-80d1-038274cf25fb,2025-09-15 11:15:49.683999,8247cfc3-a778-49b1-944a-2e55ce93a8ab,Hannah Smith,collection,Apparel,9,44.07,396.63,Cash,Jamesborough
+0004cb24-9ee2-4476-a0d4-c62b3b7268ce,2025-09-15 11:15:49.684094,2e71a41d-7882-4232-9ba5-14e090a058de,Timothy Potter,window,Home Goods,3,231.35,694.05,Online Payment,Pamelaview
+3d868bc9-d77e-4e78-b2e0-a027a6e8dda9,2025-09-15 11:15:49.684187,a62a4747-76a5-4377-92f1-92ad71bab0ad,Tasha Johnson,far,Groceries,10,138.47,1384.7,Debit Card,Williamsfurt
+adda47b0-5a0d-413f-9753-3c50a42cd62a,2025-09-15 11:15:49.684292,1eb569b8-1d34-4264-ab85-e07a812816de,William Allen,old,Apparel,4,424.17,1696.68,Debit Card,Chanmouth
+f3e5f5c3-f978-42f1-82c1-867c0092d64e,2025-09-15 11:15:49.684397,3d3d0f78-bfc9-4f3a-86c8-e8007b8e757e,Brittney Kerr,cup,Apparel,5,101.08,505.4,Cash,Garciachester
+3557983d-d411-4f9f-a4d9-a7603b817c55,2025-09-15 11:15:49.684502,a8e30fbe-f360-403c-a6eb-9c8e52ca7211,Elizabeth Jensen,message,Home Goods,6,478.37,2870.22,Debit Card,Justinstad
+08e4151c-0212-47ab-a362-5aad5cfc6c7c,2025-09-15 11:15:49.684602,22c321f9-92ff-42ee-9806-1d49ee1f9521,Donald Shelton,suggest,Home Goods,8,145.35,1162.8,Debit Card,Lake Heather
+e140332a-5a2e-4ee4-bb89-9804c27ebbf4,2025-09-15 11:15:49.684695,1b34b05d-709b-4fe8-904e-31451db10e3d,Sandra Hill,network,Beauty,5,66.28,331.4,Debit Card,Lake Pennyshire
+dfffee73-15ab-46bc-bbf2-f9d86607d2fa,2025-09-15 11:15:49.684791,dd9f7213-03ca-458b-9337-e9928927493c,Anna Thompson,now,Beauty,7,258.67,1810.69,Credit Card,Michaelside
+2a79c6a3-93fa-4a0e-a9f3-85f43dc91778,2025-09-15 11:15:49.684885,cde8965c-d690-473e-9a11-123107d442fe,Abigail Franklin,own,Beauty,9,348.81,3139.29,Debit Card,East James
+94bc5ae3-673d-4abd-b74b-9c2b31ec1cfe,2025-09-15 11:15:49.684979,aac95ef8-a1b9-45e7-bb2a-af6067a60fc2,William Hamilton,loss,Beauty,9,150.51,1354.59,Credit Card,West Amandaburgh
+c3d5b83d-cbf0-4666-b40d-ef40d6799a7a,2025-09-15 11:15:49.685074,373dcfbb-aed0-4173-97ad-6946246beffe,Julie Stewart,son,Apparel,10,94.43,944.3,Cash,West Justinside
+e955658f-ca34-4e0a-8acc-865a848dfb90,2025-09-15 11:15:49.685170,9b489472-e113-4359-9e05-8f39938ed28d,Judy Romero,along,Groceries,2,175.01,350.02,Credit Card,Valerieville
+28c9a4cd-ec52-4779-a050-a4a00945aa95,2025-09-15 11:15:49.685264,3a0c7480-f2cb-4c62-9233-db81e048b06a,Brad Jacobs,success,Home Goods,8,125.27,1002.16,Online Payment,Rachelton
+30cd5bba-ebc1-4c66-94ac-c42a98a3fe7b,2025-09-15 11:15:49.685357,6a52641d-65bf-4a00-a88a-d7d6b1cde995,John Jordan Jr.,beat,Groceries,4,168.09,672.36,Cash,South Damon
+33b4417e-93ce-464b-a6d2-5034f4b5efd6,2025-09-15 11:15:49.685452,4cf94cc7-bd8c-4b50-8ddf-a0a26e46f7ba,Justin Franklin,smile,Electronics,5,246.99,1234.95,Credit Card,Markburgh
+e4f6894c-e37f-4c79-9ade-05f89b1d979b,2025-09-15 11:15:49.685546,5981df7b-9b29-4d19-a523-f6b3c1f6a4e8,Cassandra Reed,official,Beauty,10,259.08,2590.8,Cash,West Robertmouth
+c0ec316c-a3dd-4ef5-98f1-feed6823b16f,2025-09-15 11:15:49.685646,e0a49b84-5bd1-4f8d-91cd-3605f0e0601d,Kevin Drake,third,Beauty,9,381.47,3433.23,Credit Card,New Daniel
+a8f4b37e-5dd5-4395-92c6-7b8364524dd5,2025-09-15 11:15:49.685740,d1ef921d-a5a3-48b3-9c15-1d736d39e673,Mr. Thomas Dalton II,east,Home Goods,6,71.16,426.96,Cash,Kendrafort
+0321479f-94de-4d98-97f1-7ee197f0172a,2025-09-15 11:15:49.685838,4248034f-77b4-4a05-885a-1b298adda36e,Derrick Edwards,cell,Beauty,4,337.99,1351.96,Credit Card,New Shawn
+15618108-3a4d-4dff-aef7-bd09c44d3a76,2025-09-15 11:15:49.685931,be59e14f-5a86-4594-8a00-a9e235779a32,Ashley Lopez,small,Apparel,1,424.83,424.83,Credit Card,New Karen
+8b86e180-ca5e-4c55-9f73-68e5869bbc78,2025-09-15 11:15:49.686025,51aa01a8-5de9-4595-b8dd-56077cb7b293,Michael Brown,include,Electronics,3,433.13,1299.39,Credit Card,North Tinastad
+3b3002bf-3377-4201-8c9c-94cb5824cc8b,2025-09-15 11:15:49.686119,8bd94490-314a-4ed6-bfa4-b550abff747f,Michelle Rollins,method,Groceries,8,415.95,3327.6,Debit Card,Lake Marymouth
+05f5017a-81d9-4f41-a3ae-340214231338,2025-09-15 11:15:49.686215,2b33460b-1f04-4906-a3b1-ebadb9753328,Dr. Taylor Wong,carry,Apparel,5,266.49,1332.45,Cash,East Melissaland
+76ab7fd8-e9c5-49e9-90e1-2ba2104659ae,2025-09-15 11:15:49.686312,e616f3c3-66fe-4881-b45b-7051abdb9bb9,Anne Villarreal,buy,Home Goods,6,241.59,1449.54,Cash,Annland
+c0b3d848-c153-4aea-845e-513b7904a675,2025-09-15 11:15:49.686407,e813f521-5341-43d5-93bf-e8713471b36e,Sarah Cunningham,her,Beauty,2,476.89,953.78,Cash,Dawnfurt
+37adab89-961e-4ae7-9878-87af8e9b35a1,2025-09-15 11:15:49.686501,9ba8203f-8209-4628-8ca7-6c5f2640cfe6,Kelly Riley,general,Home Goods,9,144.11,1296.99,Online Payment,West Ronaldtown
+a692c55b-5915-4ce2-9403-af44799cae56,2025-09-15 11:15:49.686602,59a7df56-3eec-4b28-847a-8c3181b6c3ca,Rita Bowman,road,Beauty,10,345.25,3452.5,Debit Card,West Gregory
+9939cb89-d47c-4ac1-93d9-15855168e109,2025-09-15 11:15:49.686696,3f0e5dab-d987-47a6-9c8e-becbc8e9eb09,Michael Briggs,nor,Home Goods,3,362.87,1088.61,Cash,Huffview
+179f44af-8f15-45a1-a52f-c18e1534f925,2025-09-15 11:15:49.686801,602f121b-e848-4d84-a363-78870be1f9eb,Robin Gibson,decide,Beauty,8,203.73,1629.84,Credit Card,Munozland
+786c8a37-77f4-49cb-9f27-2f27edd9d41b,2025-09-15 11:15:49.686908,b5ff740b-d310-4bac-b826-6851c27c409d,Nicholas Sosa,fish,Electronics,4,466.24,1864.96,Credit Card,North Amber
+83b052bf-a7fb-4b32-88e1-a164c7ceb2eb,2025-09-15 11:15:49.687001,caf3ce6d-3457-4fd6-aded-46f81f23d5a9,Sarah Estrada,by,Beauty,6,204.19,1225.14,Cash,Port Cassidyfurt
+6083f617-e5ed-4ee3-a8be-880d96f16bdd,2025-09-15 11:15:49.687096,c8910255-7c27-414f-bdb7-69a1fee42500,Julia Cowan,authority,Beauty,10,166.64,1666.4,Cash,Nunezchester
+863dd83f-df41-43f4-8b94-3839048d34d9,2025-09-15 11:15:49.687202,90e7a26d-1b7a-4ad2-b50d-cd424a4805d3,Denise Miller,two,Beauty,9,18.89,170.01,Credit Card,North Melissaborough
+52fa4873-3084-410b-b9b9-891562b5af09,2025-09-15 11:15:49.687298,4a75f564-50f7-43cf-849f-892e91635a11,Lisa Rogers,us,Apparel,7,422.76,2959.32,Debit Card,East Michael
+ecf13f3b-6c4e-4679-95e4-1be40cacfcb8,2025-09-15 11:15:49.687392,5bd409be-4b81-454d-97af-df95eebbf97f,Christine Miller,offer,Home Goods,8,68.56,548.48,Credit Card,Booneton
+4bdcbb1b-3d6e-4822-8d6a-5edb02a82e14,2025-09-15 11:15:49.687498,57032432-d934-45e1-9428-8a9efa259d54,Alexander Montgomery,report,Apparel,5,236.24,1181.2,Online Payment,Fordberg
+2bc77484-7e94-44f4-b5b2-b1aab124dc23,2025-09-15 11:15:49.687607,3194747f-e1e9-4f58-b3bd-9ace55d44fb7,Erika Stephens,gas,Beauty,4,447.39,1789.56,Online Payment,Lake Justin
+3f50e77e-5973-470a-a26a-7fd14f8c734a,2025-09-15 11:15:49.687701,94da2117-69e0-4fb9-beef-520a8d315b6e,Tommy Potts,involve,Home Goods,2,185.09,370.18,Cash,Brockborough
+f30ecd0e-12d2-4fc6-95d9-b0c117d104cc,2025-09-15 11:15:49.687806,0fe5f96c-aafb-4498-94e3-74ba82d48d31,Victoria Thompson,key,Electronics,7,347.99,2435.93,Credit Card,Odommouth
+4f077571-2400-4870-84c9-41e5c9fbbb58,2025-09-15 11:15:49.687912,c0ed6ace-4566-4e8f-91bd-a0a60fdee75f,Linda Parks,wind,Electronics,5,387.89,1939.45,Cash,Waltonbury
+40b7e105-0d01-49d2-b91d-f6fe6c977738,2025-09-15 11:15:49.688017,5909c333-2473-4807-b3e6-2662b01ecb71,Christopher Cherry,outside,Apparel,6,307.86,1847.16,Debit Card,Underwoodton
+6541ee28-9289-48f0-b03f-9e57d9c7e8b2,2025-09-15 11:15:49.688122,c47a27cd-6897-41c1-b740-ff0ead790371,Daniel Lucas III,enter,Home Goods,1,431.43,431.43,Debit Card,New Antonio
+6c01bc92-2285-4553-ac36-983f230a07b7,2025-09-15 11:15:49.688217,8ba41aab-9f7e-4d3b-bd0b-238720c125ec,Denise Wilkerson,organization,Beauty,1,232.89,232.89,Online Payment,Wagnermouth
+11992a0a-1eb8-4069-adfa-7ebace8fae4c,2025-09-15 11:15:49.688322,7639cf51-a930-498b-b4d7-22834940bc3b,Jennifer Gomez,cold,Home Goods,5,422.63,2113.15,Debit Card,Medinafurt
+ec2aff52-01c7-440f-b8e3-7039e71f1ef1,2025-09-15 11:15:49.688428,33689cac-47b8-4306-ab78-df400426adfa,Aaron Butler,say,Home Goods,10,166.82,1668.2,Cash,Port Gina
+885b7602-0d16-4920-828b-fca510e5aed7,2025-09-15 11:15:49.688521,f4cc03b2-1c35-407b-a3b4-e4237c1f425f,Hannah Hernandez,term,Apparel,10,162.71,1627.1,Online Payment,North Robertstad
+62ba3770-dad0-43c5-9740-a46350ffb7d3,2025-09-15 11:15:49.688642,3acdfd40-1e46-4abb-b9d9-1e2bd1239d10,Dana Ryan,dream,Electronics,7,330.15,2311.05,Online Payment,South Robert
+b9ef81c8-c502-40bd-9894-27ba5fd01dc3,2025-09-15 11:15:49.688750,1eeacf5d-95b5-4c22-a8c3-59e532ad84e4,Scott Bryant,billion,Beauty,6,137.67,826.02,Online Payment,Thomasville
+44e9175b-a627-4dd0-8ba2-455e94e44be9,2025-09-15 11:15:49.688845,cfb43346-2d31-42af-ab4b-94b43112d670,Tyler Hernandez,risk,Electronics,5,168.88,844.4,Cash,West Rebeccatown
+6869d3ed-4ed7-44de-9083-e21e136ffe06,2025-09-15 11:15:49.688942,768fc011-e518-4ca1-8672-0e7f411f9c38,Lauren Juarez,star,Apparel,8,381.02,3048.16,Debit Card,Cassandraberg
+bb272e35-15a8-4045-a53e-caa1a31e33d0,2025-09-15 11:15:49.689040,2b0d0eae-a31a-480f-8cea-e6c3b2f0a4f3,Stacey Stone,energy,Apparel,8,259.78,2078.24,Debit Card,East Timothy
+0304e927-f883-4e4e-8cdb-0390501d75f6,2025-09-15 11:15:49.689148,51bdb2b5-abf6-475f-8aa2-461ae777afd4,Kurt Cummings,thus,Groceries,9,236.76,2130.84,Cash,Shariton
+2c9b0954-4f56-40e7-848b-f64080504116,2025-09-15 11:15:49.689258,3e43494e-4a58-4032-8199-4a0e330db6a0,Brian Hester,price,Beauty,10,249.83,2498.3,Debit Card,Thompsonton
+817fe34e-fc38-4d39-8d7e-33f472f8ec45,2025-09-15 11:15:49.689366,34802bba-9221-49ce-8a00-fb09ef5e797a,Lauren Hill,team,Groceries,4,357.1,1428.4,Online Payment,Rodriguezmouth
+6db68695-b7eb-46eb-a709-937d2fc9753c,2025-09-15 11:15:49.689474,ddab157b-531a-4b41-aa2b-2fc5f3a406a3,Harry Franco,toward,Electronics,9,181.06,1629.54,Credit Card,Lake Steven
+345b806d-741e-4a33-af6a-14fd8792fe61,2025-09-15 11:15:49.689567,9c9da790-38bc-42c2-8c1b-b36ce5ac6a6d,Karen Harvey,style,Apparel,2,368.15,736.3,Credit Card,Grayside
+d9197e4a-c856-4d81-89ba-f7c524ac7bcd,2025-09-15 11:15:49.689678,28a67785-5fa7-4c79-ba89-a3691b4bcdee,Carol Banks,effort,Home Goods,1,377.79,377.79,Credit Card,Nicholasland
+41b9400c-6ec1-4b9b-bfde-9a9d9fbc1ff7,2025-09-15 11:15:49.689772,3482d706-061e-4c94-89e3-271f15548a2a,Alan Schroeder,movie,Groceries,10,340.99,3409.9,Debit Card,Huntstad
+197c2b12-2e4e-4d5e-be98-84e1b02956e3,2025-09-15 11:15:49.689877,f4ff4608-b889-41cf-a793-956bc078e5da,Robert Allen,million,Home Goods,2,174.52,349.04,Online Payment,Brownville
+83bcaf03-9a23-4023-91de-fb3d9edc8da7,2025-09-15 11:15:49.689981,3b53ca92-ee90-4822-a426-1d77c47bfe33,Christopher Gutierrez,treatment,Electronics,7,321.48,2250.36,Online Payment,South Melodyhaven
+768b4091-389a-484f-bb95-312a8d1f4977,2025-09-15 11:15:49.690075,f70fa05e-8432-4133-acd8-498f4e8d071f,Renee Watkins,staff,Home Goods,3,307.39,922.17,Cash,Lake Michael
+3fdd65d1-3328-4c51-acf5-4f0c22d24cff,2025-09-15 11:15:49.690169,0ed3bbd6-b874-4cac-89a7-a47c3be896df,Joshua Schroeder,arrive,Beauty,4,226.56,906.24,Debit Card,Port Stevenberg
+c5dd6ed7-8124-4cb1-bc60-a6ef941f8311,2025-09-15 11:15:49.690264,8f89dec6-eab7-41be-a0b9-ff3595c2467d,Russell Gomez,past,Beauty,1,325.42,325.42,Online Payment,Webstermouth
+97d8300d-f530-4c78-9bbc-8692aa7f99a4,2025-09-15 11:15:49.690369,5449c5ab-ac5e-442f-b9ce-fa742c2595ac,Rebecca Bradford,add,Home Goods,1,363.77,363.77,Cash,West Michaelshire
+af30e9c8-06ba-4572-bae7-4828b1200a38,2025-09-15 11:15:49.690464,246f17a0-ebf8-48e1-b701-0e8de3c7abfe,Martha Smith,training,Apparel,10,17.57,175.7,Credit Card,Smithmouth
+a28a4a25-1433-4296-b25b-6cc8f7382627,2025-09-15 11:15:49.690570,fc2a9f6a-641d-420c-b051-bddfc5df0677,Donna Myers,side,Beauty,4,450.74,1802.96,Online Payment,Cruzborough
+66009230-eb37-48a7-af67-32efe0542f54,2025-09-15 11:15:49.690681,b51ff1d4-f514-4592-a788-66709506b61f,Keith Brown,candidate,Beauty,1,494.29,494.29,Credit Card,Patriciahaven
+cf527926-1448-4907-b82a-2147ad9d27a5,2025-09-15 11:15:49.690774,fe1e9563-a264-4909-aab5-5d5b5f4f811d,Jeremy Owens,instead,Electronics,4,365.79,1463.16,Cash,North Douglasview
+d8a74fed-4056-4107-8de0-ec40dbcf173e,2025-09-15 11:15:49.690868,2f6729f5-1eb8-442e-977a-d0f842b27d58,Dana Scott,us,Electronics,6,194.95,1169.7,Cash,West Miguel
+0dc4642d-0852-4861-bc16-fca0e53fceb5,2025-09-15 11:15:49.690962,08bec922-9a62-4e57-9345-727a5b1f9957,Karen Brown,south,Home Goods,1,394.01,394.01,Credit Card,Richardbury
+d9854885-46b3-4315-b7e7-181c98758e96,2025-09-15 11:15:49.691057,b9fdba2c-2d46-4e9a-8162-9de53ccd8bd9,David Reynolds,many,Apparel,3,290.84,872.52,Credit Card,Kevinhaven
+43db30ba-bc38-4c52-a430-b9130eab2a62,2025-09-15 11:15:49.691151,0d0b5021-f19d-4c46-97ea-fc88f44a45b3,Joy Hart,total,Groceries,2,81.87,163.74,Credit Card,South Williamside
+1b1dc5bd-821b-4e43-8eb7-831cb0ab2046,2025-09-15 11:15:49.691246,31b40cef-5524-4754-b712-06832a71d1dc,Elijah Gomez,within,Home Goods,3,64.87,194.61,Debit Card,Devonberg
+c3c47769-58e7-4655-97a4-c8d1199e3688,2025-09-15 11:15:49.691339,6a142ed2-a1ad-43e0-ba48-10ba364719c3,Deanna Sanchez,third,Apparel,7,482.7,3378.9,Debit Card,Johnshire
+92c7101a-bdfd-453b-a6e1-f13e1b8efd80,2025-09-15 11:15:49.691433,6b9f54b9-bc66-43d0-8870-cf8677d9b92a,James Perez,consumer,Groceries,9,88.66,797.94,Online Payment,Lake Isabelfort
+e480cfd5-48d8-4994-be11-0c38a521a773,2025-09-15 11:15:49.691557,20b70094-796b-4e1e-8b20-ab43605f7eb4,Betty Mathis,one,Beauty,8,170.3,1362.4,Cash,Michaelburgh
+faa86a64-e8eb-4b4c-b56a-7947a9d20363,2025-09-15 11:15:49.691658,39bdb858-5426-4e5a-95dc-8bb4b463b18d,Lauren Brown,hospital,Electronics,4,437.09,1748.36,Credit Card,West Neilside
+51b30fb5-50b9-4fce-94e5-225f4643ad01,2025-09-15 11:15:49.691754,49b460b4-e115-4ebb-8992-aff0c370fd43,Samuel Ray,energy,Home Goods,2,388.52,777.04,Online Payment,Jeffreytown
+6eb70388-daf1-4331-86cc-e9d32ef8f719,2025-09-15 11:15:49.691847,e3db21d7-1a8d-44f8-86e3-163ad7e1332c,Leonard Sanford,spring,Groceries,10,166.61,1666.1,Credit Card,Williambury
+dac1b270-44e3-4ca6-b087-6abd237cd768,2025-09-15 11:15:49.691941,20eceabd-cf71-457f-8996-5365a9bc150d,Martha Ashley,gas,Electronics,10,82.52,825.2,Credit Card,Jameschester
+59a95570-0c3f-4621-9144-df8afbcd2521,2025-09-15 11:15:49.692035,9c6895a3-79db-4388-9c32-339684146ea9,Steven Roberson,computer,Beauty,8,154.35,1234.8,Cash,West Malikfort
+8ed3dcbb-ee3b-436f-840b-424ced3b3165,2025-09-15 11:15:49.692131,f8aee90d-0a7d-41f8-8538-e62d3abcb00e,Alex Davis,large,Groceries,5,478.53,2392.65,Online Payment,Mathisbury
+bd26a9aa-fe42-40c9-bd58-b3b8310bce9f,2025-09-15 11:15:49.692235,ecb96ea7-0056-4ac1-944e-5e04e8b5754e,Amy Lambert,consider,Groceries,2,332.38,664.76,Debit Card,Gomezbury
+2c18def9-fc61-4a13-8a2f-e9d15fb3919b,2025-09-15 11:15:49.692350,82189228-0ee5-4c94-a6b5-54c3e530e287,Dr. Dennis Hernandez,become,Electronics,5,255.06,1275.3,Online Payment,East Alanfurt
+e97d03bb-ee83-48a0-9be4-7765d87cdfd4,2025-09-15 11:15:49.692453,fc243c44-bb18-48c1-8263-8429e621b0a7,Matthew Ramos,order,Home Goods,10,42.0,420.0,Online Payment,West Robert
+795ecd95-9990-4da2-8ceb-03c55f652f68,2025-09-15 11:15:49.692546,b64bcb27-7e8b-4798-a78a-16362a2d5c3d,Arthur Williams,only,Beauty,5,53.24,266.2,Credit Card,West Sharonbury
+00f75f1d-7f57-4b84-b53d-ff57d7c02144,2025-09-15 11:15:49.692646,13d231b3-b9db-4289-ad14-f2479be47ef8,Samantha Smith,want,Groceries,7,97.95,685.65,Debit Card,Morganmouth
+73cbf592-bebe-47e2-9458-8c27ad2ba609,2025-09-15 11:15:49.692760,a35a5b28-fb61-45e5-b74d-a7de0297c354,Nicole Holland,member,Beauty,5,421.69,2108.45,Debit Card,Dominiqueside
+4014c5c8-0936-4185-908d-587b0ab71bf2,2025-09-15 11:15:49.692860,d1ad670d-8072-44e8-a146-a7d5a6275e1f,Beverly Stewart,weight,Home Goods,5,159.78,798.9,Cash,Kellyport
+e762d494-a0af-46a6-88a3-605433a15a87,2025-09-15 11:15:49.692964,40b66f32-0cbf-4415-b773-4b9ed1979863,Richard Wright,win,Home Goods,5,125.58,627.9,Online Payment,Rogersburgh
+7c6daf39-2cae-4849-a6a9-72b44a24f485,2025-09-15 11:15:49.693093,4ab9c77c-63d4-437b-bbf2-65b4dd966005,Emily Richmond,because,Electronics,2,188.41,376.82,Online Payment,South Charles
+23e4b439-7cb1-4503-87ab-489a2e032ee8,2025-09-15 11:15:49.693281,0d9a77aa-3a0a-4922-9503-95606c07ec48,Gary Cox,partner,Apparel,2,288.46,576.92,Online Payment,North Morgan
+8acf9f1e-c7a1-4fa1-b4e0-16986abc1472,2025-09-15 11:15:49.693467,0262055e-157d-497e-adc7-d1941525e29d,Samantha Terrell,establish,Apparel,9,80.37,723.33,Online Payment,Hugheshaven
+6c21a238-98e5-4b1b-a1ba-91b5e61d0841,2025-09-15 11:15:49.693662,e102731e-6fd0-4f55-afab-f62407ff4b29,Michael Brady,show,Groceries,6,196.54,1179.24,Debit Card,Sanchezchester
+1972b6f6-6482-46eb-9d9c-daf42edc3afe,2025-09-15 11:15:49.693797,0a3bc837-79d0-4cd8-b57d-168fa398acc5,Nancy Davis,serious,Home Goods,7,297.46,2082.22,Credit Card,Barajasbury
+035d48e3-6247-4a95-9e6b-954631a87b7e,2025-09-15 11:15:49.693904,7ba62cfe-9e42-48f2-bd0e-509c2928374e,Luke Barry,book,Home Goods,2,170.86,341.72,Credit Card,Russellberg
+8c05fddd-6b36-43f8-80fa-712e17eeb0da,2025-09-15 11:15:49.694009,76aa8aa7-e15a-4e9f-97e2-f07e5fef174d,Kathryn Chang,write,Beauty,9,486.28,4376.52,Cash,Isabelview
+c4500fc3-a12f-4fb9-805d-75bd5602e57c,2025-09-15 11:15:49.694104,26032828-92cd-41f1-b5a1-75fcfd34a337,Ryan Mcgrath,page,Beauty,1,457.61,457.61,Debit Card,Mejiabury
+77010ef3-b4cd-4db6-b10d-b505aa65548e,2025-09-15 11:15:49.694209,1e6ba157-aaf3-4913-9b81-ded9d22c6cc6,Jeffrey Nicholson,attorney,Electronics,9,432.21,3889.89,Debit Card,Hamiltonburgh
+93616cf9-beec-43be-9bf0-05129710d9ec,2025-09-15 11:15:49.694313,999b6cfe-2ee2-4ad5-8564-0011eb330bee,Heather Blackwell,into,Beauty,4,67.8,271.2,Online Payment,Singhmouth
+3a8a1e17-66ba-45d4-b569-0563b8fd2c50,2025-09-15 11:15:49.694419,4694a303-5d00-4a6c-a3c5-942f2981c7a4,Benjamin Mccormick,military,Electronics,5,417.84,2089.2,Credit Card,Lake Laurentown
+9f3d5ab5-59a9-49b9-b202-8c75b5fe07c0,2025-09-15 11:15:49.694513,ba61e9eb-60f8-4793-bfef-62a2d5acd34d,Margaret Martinez,stop,Home Goods,7,288.0,2016.0,Online Payment,Brucefort
+f9f7f9e6-49c2-4c22-8a53-edad4f97f03d,2025-09-15 11:15:49.694623,910ede62-d753-48bd-97bc-6094fa81b726,John Castaneda,option,Groceries,10,241.62,2416.2,Debit Card,Harrischester
+727b2ca8-06b1-4887-a3cc-b9998d344678,2025-09-15 11:15:49.694728,bc9c661e-528f-4d74-834a-16bc3a1932fa,Geoffrey Dunlap,across,Beauty,9,342.12,3079.08,Cash,Andersonmouth
+32112241-c7ce-41af-b8c5-728f3a1bf9eb,2025-09-15 11:15:49.694832,332d4185-ec37-40d6-8d52-34a59e40106c,Amanda Payne,similar,Groceries,7,340.55,2383.85,Debit Card,South Davidborough
+549d004b-9b5a-4029-aa10-869131c9de05,2025-09-15 11:15:49.694928,d7a38142-5139-4746-b31a-8b6922f36a2d,Janet Berger,magazine,Electronics,5,499.24,2496.2,Debit Card,Port Stevenberg
+c1117d07-cde1-44d5-88dc-b0f603a4ea96,2025-09-15 11:15:49.695024,a297bdb5-2da8-4062-b6e3-7c4b2f9b1097,Jasmine Boyer,necessary,Beauty,9,252.49,2272.41,Online Payment,Conleyside
+ccffa2af-4e98-4a71-aab6-c161b53c8256,2025-09-15 11:15:49.695130,f4fdd627-6619-47eb-bad5-5960efa6ac3d,John Sullivan,college,Electronics,7,261.67,1831.69,Debit Card,New Kathleenfort
+f5d713ac-638d-44b9-9602-b4cfe98ba98b,2025-09-15 11:15:49.695224,51d6c249-c64f-41aa-ba2b-ffb1122779ca,Matthew Dunn,somebody,Beauty,3,386.01,1158.03,Credit Card,Maddenfort
+7f2636b9-f909-4cee-bab3-e2f17c26d3e6,2025-09-15 11:15:49.695329,75d0cd9b-a231-4a84-a9f9-5bd0d9bb64f6,Megan Campbell,allow,Electronics,5,154.72,773.6,Online Payment,West Amanda
+b9ccd61b-cf2f-4743-abb3-5249c63275d2,2025-09-15 11:15:49.695423,fb2eff71-6b6a-4f25-b4af-62640b658c71,Ariana Brown,mouth,Electronics,2,384.75,769.5,Online Payment,Campbellton
+f3178268-cab2-4709-9d76-6d75e62fd65c,2025-09-15 11:15:49.695529,ceba122b-8d3c-41ed-beed-1f265c0274dc,Bruce Whitaker,knowledge,Apparel,3,31.91,95.73,Cash,East Bradleymouth
+dbc455cc-f39c-49ce-87e4-a9836ddb7852,2025-09-15 11:15:49.695628,0b31edc0-b33d-4428-94fe-897279264d6e,Jasmine Wells,throughout,Groceries,3,258.3,774.9,Online Payment,West Ethan
+21c1b369-ae9c-4c7c-aa88-c6b63029ea7f,2025-09-15 11:15:49.695723,146d7d7e-4d4a-45ec-ad6c-b224f0f3614d,Charles Vang,other,Groceries,1,8.04,8.04,Debit Card,Loweport
+5cb4f726-3feb-46bd-85e7-a8816f7ecdc0,2025-09-15 11:15:49.695828,79d81a0a-12d6-40a7-a3c1-3ad67ec5517e,Trevor Arnold,subject,Home Goods,3,190.37,571.11,Credit Card,Allenville
+24cc3954-9535-4ed0-850b-850d5dfb1122,2025-09-15 11:15:49.695932,125bc2f5-5e56-4112-b0ec-c09eaa973b28,Sarah Oliver,personal,Beauty,4,443.89,1775.56,Cash,Port Debbieborough
+6d71d2c8-d2c2-4470-a3b8-fd7822c9777a,2025-09-15 11:15:49.696028,56e8090f-8835-43a8-a648-e454fca434e1,Robert Smith,whom,Electronics,1,382.83,382.83,Cash,West Michaelview
+625e3737-4d68-4712-8dfe-ad7ddbd889cf,2025-09-15 11:15:49.696122,fa44e2c2-b6a5-43eb-b960-a36230613b2c,Alyssa Johnson,increase,Groceries,2,219.45,438.9,Debit Card,Lake Stephanie
+bcd16a1c-0868-4a5d-ae48-1bcd5ef2eeb3,2025-09-15 11:15:49.696217,f1a4179f-68db-49bf-998c-fd7305a435fd,Robin Mendez,financial,Beauty,1,451.42,451.42,Debit Card,South Lynnfort
+504eab4f-b5d5-48c2-a8bc-34517e71d922,2025-09-15 11:15:49.696313,62042109-9b87-4c7c-842e-ef1b0e42a31f,Kelly Reed,open,Home Goods,1,226.91,226.91,Cash,Campbellland
+8801c240-b5cc-46a3-8068-33a07be3a8fc,2025-09-15 11:15:49.696419,6418673c-f0fc-499b-9dd5-ce49c1a3418e,Sarah Collins MD,would,Groceries,1,311.53,311.53,Debit Card,North Samanthashire
+9d2d7f58-7427-4c51-8f1d-7a81dc1bcc9a,2025-09-15 11:15:49.696522,688cfdee-2a5f-4a0d-bdd7-ce426e2b5ae0,Linda Moore,blue,Groceries,8,320.87,2566.96,Cash,East Kimborough
+eeadaaa7-3827-46ef-8bff-d72c808e0285,2025-09-15 11:15:49.696622,0a5b8d29-1cda-43ae-9943-0de2e21500b0,Lori Cruz,action,Apparel,7,16.68,116.76,Debit Card,Jamesside
+8272c6e8-902b-4c7d-94b8-469957d9ac16,2025-09-15 11:15:49.696717,6280321b-6ce8-48ba-8320-f40c43091bef,William Murray,assume,Beauty,3,252.62,757.86,Online Payment,Adrianhaven
+12575bc3-aebc-4bfe-80e1-332958d61a83,2025-09-15 11:15:49.696810,4bd84088-4d87-48f7-8d08-3358fe761e94,Lisa Harvey,Congress,Beauty,8,343.41,2747.28,Cash,Tiffanyfort
+50fd5b59-0bb8-4c66-90fe-59952f6115c2,2025-09-15 11:15:49.696904,ee9318f5-3b27-47d2-9373-782bb0e1bf10,Brad Young,protect,Electronics,8,369.1,2952.8,Debit Card,Lake Devin
+e3613586-64cc-4151-9672-0d9ae570429c,2025-09-15 11:15:49.696997,416d69e2-4585-4d76-9bf4-91cc93628beb,James Flores,case,Home Goods,8,469.02,3752.16,Online Payment,Owenburgh
+a6372ec4-df68-4e51-ab58-723b834e67c5,2025-09-15 11:15:49.697109,5af32db2-f75c-4761-bcf9-5f3f6867ce51,Gregory Williams,parent,Electronics,1,303.24,303.24,Credit Card,Port Amber
+f6f50eaf-022b-490f-812a-206f8f73479f,2025-09-15 11:15:49.697211,35620f30-b595-4e0d-9c97-5739a45c343e,Jeffrey Carr,word,Home Goods,8,303.58,2428.64,Online Payment,Richardfort
+4e5a4565-ecc7-4769-ac8d-c8467ecb4ae1,2025-09-15 11:15:49.697305,36d7a2bb-8af8-42c2-b616-2eb112966bdf,William Foster,board,Home Goods,9,460.54,4144.86,Debit Card,Port Emily
+cfa9b7cd-a9ec-4f5e-8eb4-d834aee64901,2025-09-15 11:15:49.697412,c9af3e6d-8807-49b5-a338-5c8e01f6b043,Michael Gonzales,southern,Home Goods,8,334.16,2673.28,Online Payment,Brettshire
+6c16d06c-332b-4218-8594-99bf616a1242,2025-09-15 11:15:49.697523,f8d2028b-caf5-467c-85ba-59b8dc0cd950,Shelby Buchanan DDS,magazine,Electronics,4,42.32,169.28,Online Payment,Henryport
+1c47e0f3-fa8a-403f-9420-2301109e516b,2025-09-15 11:15:49.697651,9609e13b-add3-4af7-b8bf-350dcf425305,Katelyn Maynard,manage,Electronics,6,388.72,2332.32,Cash,Barnetttown
+16bc9f7e-9bed-47a5-98bb-70c338252e60,2025-09-15 11:15:49.697759,8187def3-3e8f-452f-be4d-d92a96a4a50e,Patrick Turner,trade,Groceries,8,429.94,3439.52,Cash,Jayfurt
+fa25dcdf-5af4-48a4-904a-bb2c2c242643,2025-09-15 11:15:49.697853,b9de38d5-a29e-4c6c-a6ad-9c0a716798cd,Alyssa Garcia,identify,Electronics,8,463.7,3709.6,Debit Card,Lake Reginastad
+072f57a2-2f0a-488e-a19a-d967d7327207,2025-09-15 11:15:49.697949,98b7f6b8-8fc1-474a-8e1e-67b1f4addc55,Sharon Mathews,special,Electronics,8,273.18,2185.44,Debit Card,North Emily
+5ea30d30-4705-4b85-b461-997a74e53409,2025-09-15 11:15:49.698043,f2b9f77c-939e-442f-b315-81ef96dd6eb5,David Miller,box,Apparel,8,352.33,2818.64,Debit Card,West Jeffrey
+7b3a7d4a-aa13-4204-9e37-a5bbdbb1c9b8,2025-09-15 11:15:49.698136,9c351a2b-6cd1-4528-83ec-28dd0d09a5f4,Michelle Case,big,Groceries,8,203.0,1624.0,Debit Card,Sheltonmouth
+1bf45bb6-0afb-4acd-8085-26817e8f01c2,2025-09-15 11:15:49.698242,58084338-c88d-450e-be35-4ea50bbee47a,Brittany Hopkins,capital,Electronics,3,205.0,615.0,Debit Card,North Tommyview
+f6655177-f71b-45aa-b92d-9223183e3307,2025-09-15 11:15:49.698338,8922405f-2f3c-42a7-80e1-e17a9102955d,Jade Fritz,manager,Beauty,5,45.4,227.0,Debit Card,Torreston
+4cce66ca-0bd2-46d7-8609-c863c5e2f626,2025-09-15 11:15:49.698444,9499446d-b7cc-4f27-9e5b-24c86e5f2a12,Zachary Cole,really,Home Goods,3,257.46,772.38,Online Payment,Peggyshire
+60854ee7-2f79-411a-b44d-690de9d65137,2025-09-15 11:15:49.698538,df38ba52-d77c-464c-be70-ab6172513154,Vanessa Morris,kind,Home Goods,3,377.53,1132.59,Cash,New Chad
+4e108440-c9ca-4113-ad2d-07d47b8c7e73,2025-09-15 11:15:49.698637,443e2726-7726-4baa-9f53-9e82b90065a0,Shelley Hernandez,brother,Home Goods,8,408.14,3265.12,Credit Card,Roberttown
+4b48c51d-9318-4438-af22-66bf23ab6bc5,2025-09-15 11:15:49.698731,da445384-7b89-42ec-8473-738bd63b0fae,Robert Pratt,or,Home Goods,10,177.88,1778.8,Debit Card,Ponceberg
+a97662de-25fa-408f-8ff9-a8f60035b5d0,2025-09-15 11:15:49.698836,dba1f439-f8ea-427c-a206-3d6f1ac4f2b7,Andrew Marquez,whether,Beauty,6,427.76,2566.56,Credit Card,South Robertville
+49b71b3d-5c52-40ea-b866-d1f24fa51c23,2025-09-15 11:15:49.698930,ec921e61-0e66-467e-9c28-9e7467d480e0,Keith Gordon,particularly,Groceries,7,135.86,951.02,Debit Card,Katherineland
+f489b879-24f6-4507-95ad-efc8d24b55d0,2025-09-15 11:15:49.699025,4526a35d-fcd2-46f0-9fc9-277e7df96570,Penny Williams,commercial,Groceries,1,380.64,380.64,Cash,East Jose
+ed51cba6-e463-4d67-8d10-16f1bfb2342e,2025-09-15 11:15:49.699119,28270adf-ce13-4147-a66e-c7875a819b23,Lori Lee,decide,Apparel,9,476.96,4292.64,Debit Card,South Stephen
+dcd9ddd5-8a18-4d7b-a2b6-68567d65b1a2,2025-09-15 11:15:49.699213,2ca9e326-07b2-44f0-8a14-a02ebdd81f6a,Christian West,party,Groceries,8,408.91,3271.28,Debit Card,Marychester
+80c35487-a256-4372-9ab1-9e8c6650720f,2025-09-15 11:15:49.699308,d86dc832-1322-479d-b7b7-1607a9f56b84,Terrance Rice,voice,Apparel,5,127.03,635.15,Debit Card,New William
+2857f94b-5099-44a6-a1cb-419e5f9d7711,2025-09-15 11:15:49.699405,5c94af4c-9a70-476f-8c9a-1543d89b98cd,Terry Crawford,color,Apparel,7,453.54,3174.78,Debit Card,Bradleymouth
+5a0e0e71-6363-4ffa-bc1c-c0f8bdd86d79,2025-09-15 11:15:49.699499,99069743-6df7-4c90-abfb-46a4b3078a30,Aaron Woods,under,Electronics,7,336.67,2356.69,Cash,Birdfurt
+7031ca9e-cd3d-407d-bb90-a31e6e6f1147,2025-09-15 11:15:49.699608,72d9ac87-5a18-4adb-a5b1-08163f3817fc,Candice Stewart,positive,Beauty,6,179.57,1077.42,Credit Card,Taylorborough
+65547c02-ac9c-404b-bb84-7e25dcaba13e,2025-09-15 11:15:49.699714,af162250-dd86-47e6-8934-cfa756da53a3,Scott Martin,hospital,Electronics,8,496.4,3971.2,Credit Card,Deborahmouth
+2556f526-2930-4d59-8c15-1f6efc1c6afc,2025-09-15 11:15:49.699807,adb9ae6b-ee91-498b-b878-5d8d0d45787a,Dawn Raymond,threat,Groceries,9,150.06,1350.54,Online Payment,Lake Jennifer
+2da1b5a4-4635-4752-81cf-a4137224560f,2025-09-15 11:15:49.699901,997cd16c-6e08-48cc-8095-4fe90386a31c,Robert Ryan,sort,Home Goods,9,112.78,1015.02,Credit Card,New Erica
+f599ff2a-70fc-4d1c-94fc-49ae4cedb266,2025-09-15 11:15:49.699995,353980ac-9c6a-416b-bf20-dc188ebd059f,Paul Lewis,across,Electronics,9,458.95,4130.55,Online Payment,Port Jade
+7fa0fa3b-8cd9-4db8-829e-dc72c814607a,2025-09-15 11:15:49.700088,ff7ae6d9-e03b-4a93-b722-16eb30230bc2,Amanda Morris,side,Home Goods,7,156.95,1098.65,Online Payment,North Samanthahaven
+63cbbe9e-10f2-46e3-b823-647f907ff0a2,2025-09-15 11:15:49.700184,dba935f4-cb12-4a80-9987-c3f9fee5051c,Adam Carrillo,else,Apparel,2,418.91,837.82,Online Payment,Leeshire
+d171432a-bed3-4279-b574-cad39b65a3a1,2025-09-15 11:15:49.700276,ce00bdd7-41fe-4d27-86fc-ea2a82818495,Laura Gray,analysis,Beauty,4,274.64,1098.56,Debit Card,Jenniferside
+5be91226-fad5-4798-a00d-60f92fdc5a4c,2025-09-15 11:15:49.700371,c8fd59d4-470e-4608-8dbc-e241c5e6277d,Joseph Steele,administration,Electronics,5,459.2,2296.0,Debit Card,Riverafort
+3cc0951b-496e-4c63-a617-3a9ae1364ec8,2025-09-15 11:15:49.700476,cb7cf38c-ebfb-4356-8b86-5137b0546ec7,Harold Gonzalez,single,Groceries,5,33.99,169.95,Cash,West Johnfurt
+923ffa12-872c-4bce-bf17-77285ab84b14,2025-09-15 11:15:49.700571,8e041580-826e-42c7-9415-0f56b7bd7e58,Tyler Lamb,no,Apparel,9,89.19,802.71,Credit Card,Stokesstad
+d8ec0620-be14-44aa-a723-48691bf65c0e,2025-09-15 11:15:49.700741,1bd5d442-e785-4893-adc4-eb533edc644f,Laura Underwood,window,Electronics,10,385.47,3854.7,Debit Card,West Jenniferside
+076a46a0-adfc-4a20-8f33-92302e477ef8,2025-09-15 11:15:49.700907,8aeeed00-e423-43fe-b409-07464c31d92e,Kimberly Lee,leg,Apparel,10,162.88,1628.8,Credit Card,East Stephaniebury
+c566e74d-06d6-4bfb-8d2c-44f852efd559,2025-09-15 11:15:49.701073,c23e3168-a47f-4110-b41d-c1f5a8a26620,Lonnie Morgan,middle,Electronics,4,123.2,492.8,Debit Card,New Bailey
+2bdd6ca3-6dd0-4831-b2de-93be3b006660,2025-09-15 11:15:49.701242,30401e22-15e7-4f7b-9b83-20477b41bad5,Jackie Ford,anyone,Beauty,10,264.89,2648.9,Debit Card,West Jennifermouth
+eccd62e0-63a5-4c0e-8213-808872092641,2025-09-15 11:15:49.701403,c51be6e4-1892-4e4d-9ed9-7d87f9de213c,Connor Mccormick,seven,Home Goods,7,346.88,2428.16,Cash,Joshuaburgh
+6b9f9fc7-71e6-4520-869d-241f72587079,2025-09-15 11:15:49.701562,0e046e8d-1f4e-4364-89de-1ef3c2ff9cec,Jerome Koch,quickly,Home Goods,5,373.99,1869.95,Debit Card,New Jasonmouth
+37fde42f-4fcf-465a-91f2-cb394c90540b,2025-09-15 11:15:49.701727,7db267d4-e4bb-4ea6-98a9-74f4e021b915,Kevin Fernandez,yard,Beauty,5,55.63,278.15,Debit Card,West Sandramouth
+f2cec760-0854-49d0-8f5d-bd4859226129,2025-09-15 11:15:49.701859,eeab493a-7af0-4fb4-9ba9-d8258c5e6073,Karen Francis,throughout,Apparel,2,180.95,361.9,Debit Card,Sanchezfort
+0809bd8f-b1a7-4884-860f-8d7778c0c76b,2025-09-15 11:15:49.702021,1193b128-3e4a-420d-82fd-6533e2f75561,Kenneth Young,else,Electronics,5,465.9,2329.5,Credit Card,Port Jessicaburgh
+af086fcd-9031-4584-bd2c-8d1fabdbe4e4,2025-09-15 11:15:49.702172,dea644bd-6982-4e66-a428-2214471116f0,Jason Roth,new,Groceries,9,384.16,3457.44,Credit Card,Hartton
+10007007-5208-4410-9f73-96aa45096627,2025-09-15 11:15:49.702337,d8253b1d-ce5a-46ec-90e5-8b7b5ff46fc2,Tracey Kane,myself,Electronics,2,392.8,785.6,Online Payment,Stokesport
+2fca56eb-b14d-4713-aa8f-6c50af37bc40,2025-09-15 11:15:49.702494,7a7ddabe-1247-4918-a050-39af58b98158,Eric Walker,three,Beauty,8,71.8,574.4,Cash,Adamfurt
+c107d0cf-fa83-4333-83cc-4071faae461e,2025-09-15 11:15:49.702653,9abd0f21-3524-4368-b193-432d589a896f,Jennifer Mcdaniel,could,Apparel,1,11.85,11.85,Debit Card,Jacobstad
+2206c4ab-5dc8-4e12-8a82-3b949f2ccbfc,2025-09-15 11:15:49.702799,f70d6c61-e58b-4d17-ab91-4827adc251e2,Dr. Kevin Welch,administration,Electronics,9,447.44,4026.96,Cash,Brennanstad
+02a194cb-54ac-43e0-a433-d4f1a72e78f6,2025-09-15 11:15:49.702944,24371c0d-9f27-4248-a990-0bfb7dbcfd9e,Timothy Munoz,lay,Home Goods,2,430.83,861.66,Debit Card,Gonzalestown
+2cba07a3-fe2d-4598-8716-fe5ba97e44d3,2025-09-15 11:15:49.703100,0748c5b3-ec8f-404e-8e82-e0434737c31f,Theresa Moore,change,Groceries,9,211.78,1906.02,Debit Card,Deanborough
+89bea7be-6124-449a-9c55-63ec3f45d9b4,2025-09-15 11:15:49.703225,11edae45-5e5b-43ad-9793-39d06b344fba,Michael Smith,he,Apparel,10,49.16,491.6,Cash,Williamside
+38f18277-98e9-4d2a-b554-c13c8bc3c10c,2025-09-15 11:15:49.703362,c075dca5-f44c-4768-ae81-e2ad4008e0b6,Kathy Scott,pick,Beauty,5,275.92,1379.6,Cash,Joneshaven
+cc4e0e7c-c9db-49d3-97a6-341eb9a75df4,2025-09-15 11:15:49.703502,be7dfa83-9046-4c5b-80ac-06984ee6072c,Heidi Young,computer,Apparel,9,103.55,931.95,Credit Card,Jeremymouth
+63ce3e11-d963-47b9-a84c-704eb76cf3b6,2025-09-15 11:15:49.703643,b9ef8251-b73e-49e5-89d8-b76e9b1a0f01,Tina Morris,agreement,Electronics,10,158.33,1583.3,Credit Card,South Christopherhaven
+80e8627f-c5de-4794-acce-70980faf11d2,2025-09-15 11:15:49.703779,ffcf1780-3239-4c4b-873a-4b538ec932f3,Michelle Allen,happy,Electronics,5,38.89,194.45,Debit Card,Daughertyfort
+a1d44723-5af3-4098-a6fa-b4ea5f2d62ad,2025-09-15 11:15:49.703918,85082c31-fff5-40a1-a8f7-96b9353bba93,Daniel Bridges,anyone,Beauty,3,296.08,888.24,Debit Card,Lopezland
+7a3d3713-17d8-4c66-9a84-7706b18e6945,2025-09-15 11:15:49.704064,40cd6e54-293d-4a35-893c-e0dcb79dd737,Laura Weber,worry,Home Goods,7,292.96,2050.72,Cash,Russellfort
+cd969c93-d588-4850-8b9e-dd7d1f5b8f45,2025-09-15 11:15:49.704186,4c2e7661-22a5-4b2d-8e07-aed0fb5c1fef,Angela Johnson,agreement,Beauty,3,368.8,1106.4,Debit Card,West Stephenburgh
+9c6af986-5c45-4e6a-82be-7fe393061bdc,2025-09-15 11:15:49.704316,814b0cfe-7f96-4dd8-9222-fbed8f50991d,John Munoz,face,Electronics,1,343.68,343.68,Credit Card,East Christopher
+63016a5a-b479-42f8-a3fd-5a267ee8fd38,2025-09-15 11:15:49.704460,a587c912-80a4-4937-b730-a47b6109ddd2,Robert Hardy,mean,Beauty,4,480.08,1920.32,Online Payment,East Jasonside
+9f7006d9-a6fd-48b7-8a56-a2eb5fd33bf3,2025-09-15 11:15:49.704623,f0fa5669-c638-483f-98f4-dd4cb01ed6ac,Jonathan Gibson,child,Apparel,6,480.26,2881.56,Credit Card,South Melissaland
+bf0367ec-8621-4e82-b862-bd492c06ea8d,2025-09-15 11:15:49.704752,d09e2763-4f74-486c-88f9-7a17c85f955f,David Smith,their,Electronics,2,255.91,511.82,Credit Card,Hardystad
+e4deb3bd-1347-4046-8f12-b4931ca231b3,2025-09-15 11:15:49.704886,f5d639dc-72a3-4488-bf89-f09d1fa7b8a8,Jennifer Mccarty,each,Apparel,4,334.51,1338.04,Online Payment,Anamouth
+c24de469-4cf0-4829-bd4b-5e7f04f8b664,2025-09-15 11:15:49.704998,69c3e9c8-145f-475b-8483-12364b0446e1,Ronald Miller,if,Electronics,4,332.79,1331.16,Online Payment,Guerreroside
+3d2d99f9-59cf-4b8b-bda0-277be2d52075,2025-09-15 11:15:49.705117,e24fa5f6-23a5-4d11-b325-56c8f0a7f5ad,Rebecca Stevens,oil,Apparel,8,104.87,838.96,Online Payment,New Kevin
+142e952c-e529-4949-bf41-09f88c19c38e,2025-09-15 11:15:49.705228,10dd1b2d-380f-4354-92f1-8b214b8d1a90,Kathryn Jones,happen,Beauty,9,429.79,3868.11,Debit Card,Flemingtown
+8ce8e657-da85-49c6-b53f-c132adcdc59d,2025-09-15 11:15:49.705352,c5a91a44-4b9b-4ded-be24-d0223d8c2203,Danny Dyer,operation,Groceries,9,145.32,1307.88,Debit Card,Johnsonview
+044a4152-c407-47b0-8a73-c61035d931f9,2025-09-15 11:15:49.705492,81f18f64-46d2-4d79-9b5d-505f599c2e15,Felicia Parker DVM,couple,Home Goods,5,180.65,903.25,Debit Card,South Robert
+15e4e6e8-3c5e-43e0-bb9a-1844a7b9c198,2025-09-15 11:15:49.705621,75c167ef-7eac-4670-bad5-d5ca9edff629,Tara Morgan,reflect,Groceries,7,379.15,2654.05,Online Payment,Jonesburgh
+b80199a0-abd0-42d9-bd9d-daace5979a71,2025-09-15 11:15:49.705784,a15511dd-cb6f-4fff-8ab7-74185e2ef552,Kathleen Henderson,artist,Apparel,3,233.47,700.41,Online Payment,West Danielborough
+599e65d6-ec5a-42d3-bf60-3a7ae5043da0,2025-09-15 11:15:49.705908,539a9a5d-cc17-4d2e-8e5b-374149c940f4,Mrs. Tracy Johnson MD,now,Groceries,6,275.95,1655.7,Cash,New Adamport
+215560e4-9639-4d95-ad85-5682b0456685,2025-09-15 11:15:49.706081,7506c551-567d-452b-b5a2-644141b4b8c8,Gerald Mclean,church,Groceries,1,100.97,100.97,Credit Card,Markland
+a4f4b0be-b787-4f7d-a8bd-3c568fad1a6e,2025-09-15 11:15:49.706234,b29db48c-efb7-448b-ba28-f94f06914f74,George Gutierrez,power,Electronics,10,141.72,1417.2,Cash,Dunnland
+762fd305-5308-487d-9d79-02f3cd61f093,2025-09-15 11:15:49.706399,0f9ad00b-b408-4ff9-8de3-52566d25c8ca,James Lyons,industry,Apparel,10,165.67,1656.7,Credit Card,South Steven
+676ed401-530f-4f10-8a8b-7cad54649ae8,2025-09-15 11:15:49.706530,2d207a7f-fcd2-4b6d-b26f-d197ce340bac,Marvin Campbell,where,Electronics,5,444.74,2223.7,Debit Card,North Charlesmouth
+050bc44a-530e-426f-9fb3-7844c39cdc62,2025-09-15 11:15:49.706663,2175e94b-98fd-405e-8def-b195c7999ea0,Michelle Mccoy,hope,Electronics,6,184.59,1107.54,Online Payment,Lake Ritamouth
+9f1f360f-90cb-4264-a0dc-62eddf0500e2,2025-09-15 11:15:49.706786,d85d305e-a620-410f-814e-eb0b093e3dd9,Tyler Villanueva,hospital,Groceries,9,122.13,1099.17,Online Payment,South James
+21f7bb43-a925-4560-bcc2-a6f97decc69d,2025-09-15 11:15:49.706915,be69922f-bad5-410d-8546-2d93157cfdda,Tammie Hernandez,because,Home Goods,8,53.28,426.24,Debit Card,South Tiffany
+6f805351-1236-4435-9867-00172240487a,2025-09-15 11:15:49.707053,e96512ff-4252-41c4-9936-d31a1e519b2b,Christina Contreras,age,Beauty,4,128.63,514.52,Online Payment,Virginiamouth
+5aae7a27-0171-4089-863a-5b7bee527bd3,2025-09-15 11:15:49.707209,136ea5cd-8ebe-42b6-9204-f3ebd34ab810,Susan Green,eight,Electronics,6,386.37,2318.22,Credit Card,West Mary
+20b8f391-73fa-4d63-af98-74d94119beb6,2025-09-15 11:15:49.707361,87ff0d4f-c0b1-44a2-adaa-4ea39e4606c7,Shannon Jackson,which,Electronics,6,459.13,2754.78,Cash,West Lisa
+8df838bc-9a06-48b3-90fd-fa48fec4f667,2025-09-15 11:15:49.707515,c33ef7c1-cfc0-42e4-ae09-2e9a360132a0,Christina Rodriguez,kid,Electronics,4,330.21,1320.84,Online Payment,Calebmouth
+49b62978-43dd-4cd5-93d7-fc9d1e800718,2025-09-15 11:15:49.707666,4f7bb93c-9d70-4864-b0dc-375cf36f5dda,Anthony Hansen,Mr,Beauty,2,295.76,591.52,Online Payment,Cameronview
+c02cf40f-1004-4f50-b539-716a345dd625,2025-09-15 11:15:49.707794,e314a8cc-c734-4d28-bd9d-791db26c6540,Alan Villa,realize,Home Goods,2,302.8,605.6,Cash,Sandraton
+94278073-7c09-443c-9acf-a8c815cb5559,2025-09-15 11:15:49.707929,2e6a7ef9-64e0-454b-af67-5142fcc41d22,Gregory Cherry,exist,Apparel,5,445.99,2229.95,Credit Card,Brownton
+66d1f46e-23a8-4f85-b01d-cd94a8594144,2025-09-15 11:15:49.708087,27ee4ba3-b58b-4a16-9570-0c842793c945,Benjamin Giles,year,Home Goods,6,494.97,2969.82,Online Payment,Davidbury
+52710ebd-1a5c-437a-b555-a44b39499b5a,2025-09-15 11:15:49.708217,f23a4843-cbdd-44f9-99b9-b0dc1bc484e0,Gregory Mitchell,stuff,Home Goods,4,314.57,1258.28,Credit Card,South Kevin
+b3d8c1dd-9ce3-410a-bf80-373ddb043e59,2025-09-15 11:15:49.708334,07647b62-8cd9-4e85-b213-1c6b5de125d0,Carol Luna,spend,Apparel,1,295.2,295.2,Cash,New Jacobland
+4f4ab36e-f9d7-4c1e-950a-791d3d168d70,2025-09-15 11:15:49.708462,7f885dae-c157-4c85-8b6d-a122a9252921,Brittany Owens,quickly,Groceries,10,192.59,1925.9,Online Payment,Virginiashire
+1b8e56ee-b235-4d4d-8529-8261cabe54df,2025-09-15 11:15:49.708605,31ad2adf-0c19-4594-89b5-725235cafc42,Joseph Gutierrez,finish,Electronics,2,5.55,11.1,Online Payment,Sarahchester
+cb711147-91f4-4922-85c7-b0d56a610551,2025-09-15 11:15:49.708727,b287e385-7e99-4b50-9d5c-fb59c3c445b3,Debbie Morales,politics,Home Goods,6,192.42,1154.52,Cash,Juliehaven
+a5fda52f-d13a-4c80-abbe-81619f7ab0b2,2025-09-15 11:15:49.708859,8035e65a-b3e7-49eb-961c-cc1e590ffaf6,Christopher Martinez,field,Home Goods,10,132.84,1328.4,Online Payment,Lunafort
+32a08b47-6d26-407f-bf3c-40322c02d66e,2025-09-15 11:15:49.709010,34efc9cb-891e-4712-a979-ec05028512a2,Carolyn Johnson,far,Home Goods,2,209.3,418.6,Credit Card,Charlesborough
+2b67f71e-5ef4-4ca9-b05f-d1c3becee797,2025-09-15 11:15:49.709146,50f181c8-d858-441a-beef-e6c4e5426443,Jose Pruitt,natural,Apparel,2,157.05,314.1,Debit Card,Port Andrewport
+1421bbed-a1e0-46e4-a77e-87927dd0889c,2025-09-15 11:15:49.709268,efe2b71c-06bf-4542-b59a-af7d0c180a9f,Christie Flores,cost,Beauty,9,212.69,1914.21,Credit Card,South Howard
+154b34a5-acfb-4515-bab2-fee902c27aa5,2025-09-15 11:15:49.709395,ce36e6ee-ad54-4023-82e5-4c8c23d81c02,Joseph Massey,want,Groceries,4,232.54,930.16,Cash,Lovestad
+5e3aeac7-5c72-4960-9659-d1c09b800262,2025-09-15 11:15:49.709539,be4c8fd2-09c0-48af-9d24-2249f2ff2869,Lauren Williams,able,Home Goods,6,79.1,474.6,Debit Card,Port Alicialand
+1959921f-1483-4e7c-835a-dc14e1ebf6bb,2025-09-15 11:15:49.709674,2d7c4208-40f6-459b-a76d-393652f507a4,Jeanne Cherry,option,Home Goods,9,252.8,2275.2,Credit Card,Dianeville
+18907d46-be6f-488a-9203-b10695348990,2025-09-15 11:15:49.709808,68cd8577-d426-4ca9-b958-781ff59fe7ee,Ashley Moore,candidate,Home Goods,9,310.04,2790.36,Online Payment,Wrightport
+dc39cf54-6fc3-410a-aef9-9ee1617efeb6,2025-09-15 11:15:49.709951,4daa3dc7-4ab0-437f-a421-c9738516c92c,Jordan Davis,white,Groceries,3,34.16,102.48,Credit Card,Port Ginaberg
+d2268e1c-42da-4d39-b99e-608a6b9d9ad0,2025-09-15 11:15:49.710078,23e175f0-ca2b-40c6-a2b5-581ab65a6efc,Christine Wilson,individual,Beauty,7,44.79,313.53,Credit Card,South Stephanie
+f10b8dfc-d0f9-451c-9767-2ca4290457be,2025-09-15 11:15:49.710207,c5a1f6ee-2fb5-4574-93f0-85b2bf7f35e2,Samantha Thomas,nation,Groceries,2,362.45,724.9,Online Payment,East Samanthaview
+d4ec2fcd-7109-4d7f-b76f-6d125ed87de3,2025-09-15 11:15:49.710339,cccc3196-834b-4041-876f-0fce054af878,Thomas Bryant,explain,Groceries,8,437.97,3503.76,Credit Card,Jamestown
+2e777c61-da5d-456c-bc75-10a4afbb44fd,2025-09-15 11:15:49.710461,130bf5d3-5671-4826-9028-a71b241205c5,Michelle Burns,own,Electronics,10,353.17,3531.7,Online Payment,Lake Davidton
+32175c42-16a4-46e4-90bb-2ce3f887a50f,2025-09-15 11:15:49.710596,9ab3cc4a-0fef-4009-a090-42ce85beb35b,Ashley Campbell,hot,Electronics,10,196.87,1968.7,Debit Card,West Charles
+23f04573-4850-4f67-abb2-7f0b9ba3306b,2025-09-15 11:15:49.710717,93f5c12e-cbf8-4143-b788-514c2453373e,Brittany Franklin,gas,Apparel,4,200.82,803.28,Debit Card,Mendozafort
+4f3dec05-69c6-4e16-a0ea-c80dc48fc64d,2025-09-15 11:15:49.710877,924e1001-0bb5-4baf-aa69-70e5f273ddfa,Heidi Flores,health,Home Goods,1,277.58,277.58,Debit Card,Katherinemouth
+11202952-c691-428b-9cdc-484e8486110f,2025-09-15 11:15:49.711032,e49bd3ee-4f46-4c1a-94aa-45983834b1d5,Madison Lewis,quite,Apparel,2,97.39,194.78,Cash,Jacobfurt
+6d64a61c-691d-44f2-9f28-763024600285,2025-09-15 11:15:49.711180,f620222d-e0c2-40b3-bf6c-efa5f183e083,Eric Kelly,young,Groceries,6,23.64,141.84,Credit Card,New Ryanbury
+08094d9e-8833-4fdf-8677-f4dc8259151d,2025-09-15 11:15:49.711335,b70308ab-43d2-4902-8db8-e921a972cbd3,Kevin Byrd,walk,Home Goods,2,51.67,103.34,Credit Card,Jonathanborough
+ca6ac548-cc62-48e7-aa86-5d7bdcc5cf15,2025-09-15 11:15:49.711489,378cf9e3-7678-4d33-9305-4d10aa0942c4,Jose Wallace,thus,Groceries,6,472.47,2834.82,Debit Card,Atkinshaven
+f4c3b9ad-d1dd-4ece-904c-c678df21e2ff,2025-09-15 11:15:49.711666,cc9d245e-f4cd-4cad-a799-b78ce5eb815e,Vernon Mccann,medical,Home Goods,1,216.72,216.72,Debit Card,Lambertmouth
+a3ae6365-7b19-41d9-961a-8c93421ab4d2,2025-09-15 11:15:49.711830,a39ce339-81f8-43cc-8b56-d5596e5a8eb6,Michelle Brown,like,Electronics,10,302.85,3028.5,Debit Card,South Lisaton
+f69c9e1b-1464-45f7-8026-c561aeecb1b2,2025-09-15 11:15:49.711988,9f8b4057-9ee4-4e13-a625-3b5cf8a3fd38,Elizabeth Barrett,education,Home Goods,2,164.76,329.52,Cash,Port Johnside
+85c7b3ab-fc3d-4b63-8b98-b145ded2bf82,2025-09-15 11:15:49.712140,7c3f47a9-d054-48fb-bc11-cd1c1abdfcb9,Robert Hill,shake,Apparel,3,28.41,85.23,Debit Card,North Jenniferside
+8890fc8d-afc1-403f-8403-4cc8bdf4867a,2025-09-15 11:15:49.712277,d649ebb4-cb95-43bf-a471-aeb307a816b5,Thomas Hayden,simple,Groceries,10,289.45,2894.5,Cash,New Susan
+5642022c-e2ec-46cc-8568-71bfdbabce77,2025-09-15 11:15:49.712392,d9a55a6e-f49c-41d5-a2ea-afc2bb375234,Christopher White,woman,Beauty,3,86.77,260.31,Online Payment,South Anthony
+07972616-f8e0-45d6-9f7a-72f097e48f4d,2025-09-15 11:15:49.712511,57818a62-b8f9-4429-8404-eb7dc67f2e8c,Judith Marshall,project,Groceries,3,186.02,558.06,Credit Card,East Marthamouth
+cab074db-85cf-4f2f-bcd9-f74d0db4ca0c,2025-09-15 11:15:49.712651,44328894-03b3-40e4-8046-9a9c53846250,Lisa Turner,great,Apparel,3,252.8,758.4,Debit Card,West Billyborough
+1cf0c5c8-30dd-4989-9185-c178b009f69c,2025-09-15 11:15:49.712762,ffc518c5-21f4-4f94-940f-b9c8e525e8f0,Emily Reyes,already,Home Goods,7,380.42,2662.94,Online Payment,Monicaside
+453c9a25-0322-46b3-9f2e-255e6e8e6673,2025-09-15 11:15:49.712868,c74a418f-b9d1-4205-a582-881d68663c12,John Kent,history,Groceries,3,401.31,1203.93,Cash,Port Anitaburgh
+1cf53a5e-a8f7-4476-b66f-7b33d43535e1,2025-09-15 11:15:49.712980,e49a75f1-8141-4532-9fbd-6943c425fa1d,Joseph Ellison,once,Groceries,6,52.99,317.94,Cash,Marioside
+1c9c541a-908f-4c9b-967b-84107cd3b78a,2025-09-15 11:15:49.713099,86855b53-a774-4132-bba4-1803185710cf,Kyle Myers,next,Beauty,5,146.17,730.85,Cash,Port Cynthia
+c3b13186-4aee-4ce6-bc04-7240c947f1d3,2025-09-15 11:15:49.713215,356f6975-7121-40d6-bd51-dcea0fee9600,Mark Evans,health,Electronics,2,345.06,690.12,Debit Card,Harperberg
+69a70e7c-86be-4ba5-9bf7-1304da5dc177,2025-09-15 11:15:49.713346,4436e1c0-f5cf-49d3-ae38-c4a6d09f51ab,Nancy Jenkins,wife,Apparel,5,254.77,1273.85,Credit Card,South Clinton
+6dde3b2e-b0d4-4123-b438-36d89cd4e516,2025-09-15 11:15:49.713481,95552183-0db5-4c7c-8ff6-e019abfc89b4,Bryan Gonzalez,owner,Groceries,3,93.01,279.03,Credit Card,South Seth
+d0ae2d3e-d5bf-4d12-8bb6-45d25627bb8f,2025-09-15 11:15:49.713632,f2cc01fd-da7c-4158-96c7-045c4c208dfd,Gregory Fernandez,traditional,Beauty,6,448.64,2691.84,Credit Card,Stewartburgh
+1809d5cc-9fd7-4404-ac18-76fd5950456d,2025-09-15 11:15:49.713780,998b320c-2558-4699-8611-63a64506e586,Heather Barker,assume,Electronics,7,118.09,826.63,Online Payment,Craigfort
+3b6db54d-f5d1-4f92-9aab-d214e170322a,2025-09-15 11:15:49.713913,f0b43898-d485-438d-b1d3-0003425d0f29,Michael Brown,road,Electronics,4,417.0,1668.0,Cash,East Amandaside
+5bab7c37-08fb-492a-85d7-2a279147b4a3,2025-09-15 11:15:49.714048,09a7d272-9749-4060-be67-defd73042caa,Madison Meyer,practice,Apparel,6,49.53,297.18,Online Payment,Port Madisonchester
+ef6069d8-eb98-4720-b9d2-dbc2fb93feec,2025-09-15 11:15:49.714186,de4354f7-cda8-4681-88d7-ab941a021204,Mitchell Wyatt,Congress,Beauty,9,157.09,1413.81,Online Payment,North Robertburgh
+c9725951-9dd1-4544-937a-7839c181757f,2025-09-15 11:15:49.714308,676b289f-d077-476b-a8c4-a34109ec5bfc,Julian Atkinson MD,partner,Groceries,7,238.42,1668.94,Credit Card,Jaredburgh
+77429087-328f-47ef-bcc9-c37d0eb5b607,2025-09-15 11:15:49.714439,7e769136-5b3b-41c3-9cfe-fe3d012ca8d3,Patty Orozco,begin,Home Goods,1,253.25,253.25,Credit Card,East Ryan
+09026342-ae25-4473-a51a-bfae0028fbab,2025-09-15 11:15:49.714586,95ea9427-9a60-4d90-a423-dea85150a7d7,Amanda Brown,friend,Electronics,8,227.24,1817.92,Credit Card,Palmerbury
+0b23a339-469d-4548-923a-6630c429b01e,2025-09-15 11:15:49.714737,0b0c0578-1eb3-4f80-8e3e-3b27a4e1e2b6,Peter Williams,summer,Beauty,2,435.5,871.0,Credit Card,East Benjaminborough
+3984f6ec-3777-4ea2-b182-fac31e0ffb69,2025-09-15 11:15:49.714880,e0f78a2c-712c-4c66-9151-4795ea55ef63,Ashley Wilson,rich,Home Goods,7,210.32,1472.24,Cash,New James
+4f0c2adb-103a-480a-b7e4-f4c97f79ad85,2025-09-15 11:15:49.715017,8e097234-9803-4063-b42b-c30754e6fb85,Frank Nguyen,race,Home Goods,10,326.12,3261.2,Online Payment,Kimberlystad
+68c77004-13d9-487e-886f-b1c6fc128627,2025-09-15 11:15:49.715142,7152c388-0ee1-45fa-8da7-7bc89ee800b6,Brianna Richardson,show,Beauty,4,29.32,117.28,Cash,Port Laurie
+2cc3a531-9e58-49a5-849b-21a41bd47951,2025-09-15 11:15:49.715275,2382811c-a207-412a-a8f9-17c5d7fa2a91,Darrell Manning,available,Home Goods,10,273.09,2730.9,Credit Card,East Amandamouth
+f1805b43-4eea-4494-af82-e5be7f5ca555,2025-09-15 11:15:49.715396,b37ebac3-72af-4edb-b361-444305fd9d1f,Shelby Kramer,rest,Home Goods,7,380.64,2664.48,Debit Card,Jeremymouth
+dbc5e845-3cb3-45c6-9b94-9405f7d99593,2025-09-15 11:15:49.715514,a69766ea-f225-4299-8ab2-ba0ec3ab82f2,Michael Roberson,take,Apparel,2,105.34,210.68,Online Payment,West Amymouth
+3fb0521a-82f2-4cdf-b66e-16b9aee3797e,2025-09-15 11:15:49.715655,0a2ae472-7b32-4c75-9895-7c1d1d97922d,John Singh,political,Beauty,2,407.13,814.26,Online Payment,South Brandonview
+4decba00-5908-4c00-9cba-db4c934ef725,2025-09-15 11:15:49.715792,1d2e13bc-0f2a-4c0e-8b33-c1ddbf389b51,Katrina Pugh,street,Electronics,7,172.75,1209.25,Debit Card,Finleyton
+94ef4940-3ceb-4d2f-9eaf-1e326ad89d19,2025-09-15 11:15:49.715926,36ac3b68-9963-42af-815b-2602b482d8b7,Mary Bolton,stage,Beauty,5,45.07,225.35,Debit Card,Karenchester
+6da68436-ae79-442f-a402-8088f8d52d01,2025-09-15 11:15:49.716047,3d75030a-552e-4ba4-88c1-07bc43e65917,James Harris,consumer,Apparel,7,19.41,135.87,Credit Card,Colemanfort
+d443b995-65b7-45c6-88e8-e664b341dbaa,2025-09-15 11:15:49.716185,b9324f8f-1d97-4853-a589-ff32eebfd03e,Anna Stone,effort,Beauty,2,174.63,349.26,Credit Card,Austinton
+9614eaf3-c87c-4d01-b630-6060a47af7e6,2025-09-15 11:15:49.716320,2c0d2b34-b4f4-4dae-8aab-7f4cb1753817,Andrea Rodriguez,talk,Groceries,3,279.21,837.63,Credit Card,Kirkland
+18e8bd11-316b-45ed-8d49-3bd12890f7e3,2025-09-15 11:15:49.716445,33d08d16-6596-4179-98ca-aebdc58dd360,Daniel Daniel,less,Groceries,1,82.29,82.29,Online Payment,Anthonymouth
+d20b543d-f760-4512-853f-15fb47681a92,2025-09-15 11:15:49.716561,49f42fdc-4352-43f6-9a47-303cc5bd81ab,Hannah Pittman,glass,Home Goods,6,459.59,2757.54,Debit Card,Luisfort
+7210bdcc-9e4f-45a4-8062-2f2cff3434d1,2025-09-15 11:15:49.716708,da1b3783-9e62-4896-aed4-5de7d9c4d5ae,Holly Smith,special,Home Goods,7,8.48,59.36,Debit Card,West Tiffany
+a643f748-23f4-46b1-8c5e-22f24b828c6e,2025-09-15 11:15:49.716809,bfcc38f3-ad05-4097-b89d-048873f3c208,Luis Chavez,well,Apparel,7,113.49,794.43,Credit Card,Holmesville
+930f69be-aff7-492c-84f2-2bbf630db2a0,2025-09-15 11:15:49.716923,54c8595d-20ed-4d0c-bcdf-11d10939bb02,Lisa Smith,employee,Home Goods,2,292.87,585.74,Cash,Robinsonview
+f742c84e-f0e1-42a4-b5ee-5ccc2ac0cb07,2025-09-15 11:15:49.717043,c532c1a8-e0bd-4b55-ac59-edb1d69b80bf,Cindy Haley,we,Electronics,1,234.09,234.09,Cash,East Vanessa
+9f6554a9-b8dc-43c2-96cd-a917a83598c3,2025-09-15 11:15:49.717142,609764f1-848c-409c-8676-6fc260957cac,Rachel Campbell,full,Home Goods,8,260.69,2085.52,Credit Card,North Janet
+ae2e410d-a260-4804-bb6b-97c08eebbb12,2025-09-15 11:15:49.717247,ee5a8d1b-f345-4cd0-9b22-7521272f674e,Gina Miller,chance,Electronics,1,188.77,188.77,Online Payment,Lisafort
+2b4c0c6b-24a9-40e8-b7b4-0dd37956db58,2025-09-15 11:15:49.717359,32910ed4-7af5-4588-afb4-d1cd1a4a233b,Caitlin Miller,message,Apparel,2,361.56,723.12,Cash,Lake Lynn
+b028cea9-fdc5-4773-b0b3-bbd1a617aade,2025-09-15 11:15:49.717476,37a82a8b-1c88-47c4-b69b-330b357872e5,Destiny Ibarra,without,Beauty,9,100.76,906.84,Debit Card,East Benjamin
+c3d5b42d-9159-4048-8e00-9a02846b7a7c,2025-09-15 11:15:49.717588,62e1a0d0-eade-4e79-a7fd-ddf763152700,Angela Huang,use,Apparel,7,270.57,1893.99,Credit Card,Morganberg
+a810b29c-fc7f-4263-85d8-ffb61275bc9b,2025-09-15 11:15:49.717763,8083cbc5-4a0a-43c4-b28b-b81e91393010,John Aguilar,rule,Apparel,5,37.64,188.2,Debit Card,Thomasmouth
+1d971947-eed4-491b-87d8-4f26c2998537,2025-09-15 11:15:49.717903,8e339964-618b-40f5-a714-b77a764248dc,Randall Mendoza,agreement,Groceries,10,52.68,526.8,Debit Card,South Stephen
+c99d9a60-5030-428b-bc0a-c754d6e23070,2025-09-15 11:15:49.718128,66c4dc02-c353-4ea3-b04b-0982473dfe39,Nathan Fox,you,Groceries,9,8.04,72.36,Online Payment,East Carlmouth
+0649bab1-bc77-4f77-b71e-6da288127429,2025-09-15 11:15:49.718450,62ef0ac9-fb44-4ff9-98e1-c7a6d4dd2ff7,Brandon Williams,inside,Beauty,8,362.36,2898.88,Credit Card,South Josephville
+f8efc30d-31ca-46b4-a785-8fd4d739f759,2025-09-15 11:15:49.718669,e28ab2b8-c2a9-43f3-80b7-4a92efaa5484,Benjamin Herrera,prevent,Apparel,9,78.83,709.47,Debit Card,Cindybury
+42d88f91-8d8e-4021-b51f-e3993a3b727a,2025-09-15 11:15:49.718873,c2040e2b-5785-4409-b831-6dcaa54a1b14,Joshua Burgess,here,Apparel,2,335.07,670.14,Cash,Port Carolbury
+38457221-7c43-4244-9a7d-9819ecbc3887,2025-09-15 11:15:49.719077,959ab0dc-e7bb-4135-9624-fcd63d39cbc7,Dylan Hamilton,plan,Apparel,8,236.09,1888.72,Credit Card,Kimberlyburgh
+5ca92a8f-07ea-43a7-84e5-c1365cf01473,2025-09-15 11:15:49.719249,ab0b1549-0d7c-4780-bfea-651901b39545,Philip Morton,risk,Groceries,10,323.62,3236.2,Cash,Bradleyland
+83d0823b-ef99-423f-aead-daf737e74d23,2025-09-15 11:15:49.719411,d37a1903-974a-4eab-94a8-b74cad3760e6,Aaron Hammond,house,Electronics,8,99.9,799.2,Debit Card,Lake Derek
+ffe53b9f-9308-44d9-b76f-6eab9e28ce5a,2025-09-15 11:15:49.719531,1d22badb-803c-4dbd-84d5-25069fef0a71,Angela Romero,decide,Home Goods,3,308.22,924.66,Cash,North Aaron
+28e46262-5ea5-4467-9bf0-069a43d677ae,2025-09-15 11:15:49.719677,11777775-aa96-4625-bbfd-d7b8337b9a09,Sharon Cross,play,Apparel,5,316.5,1582.5,Online Payment,Lake Timothystad
+b07e46bf-e94b-4242-99d6-2af335873722,2025-09-15 11:15:49.719812,caa18e1b-d0c6-44b4-8571-3d39029d7177,Jennifer Lee,together,Electronics,2,487.57,975.14,Credit Card,South Amy
+7941211c-61e9-4f5e-805c-f6ee56998fb6,2025-09-15 11:15:49.719937,4aee7d4d-0bea-4cfe-b3e7-be402b01d949,Holly Lee,under,Electronics,2,494.33,988.66,Debit Card,East Vanessa
+c0fa91d9-ca2b-4e19-8a1f-82792d986808,2025-09-15 11:15:49.720056,dc810d37-6131-4105-a939-9267cd8bf747,Elizabeth Guerra,her,Home Goods,6,221.67,1330.02,Debit Card,Chadside
+a23db900-80ed-426d-816c-ad35d77d5dca,2025-09-15 11:15:49.720173,47ab435d-55de-4092-97b0-86c93cf30e06,Curtis Williams,behavior,Beauty,6,434.1,2604.6,Online Payment,Murphyberg
+7070c728-8d96-4a16-9eda-94043826d25b,2025-09-15 11:15:49.720314,7f81ec39-2a5a-4c9b-8e95-6a79855c100d,Monica Ballard,according,Home Goods,5,135.85,679.25,Debit Card,South Josephville
+ea4d6c65-a6ff-4d1d-8b6d-aaa779f0f176,2025-09-15 11:15:49.720434,0f4c0e87-b604-4f52-a739-e08644ee4443,Kevin Oliver,early,Groceries,1,350.87,350.87,Cash,West Shelleytown
+46c280b2-e14f-45ba-8022-ad7d0acec367,2025-09-15 11:15:49.720561,33f7bd22-230c-4236-99ff-a51b234e8997,Antonio Cook,past,Beauty,10,493.6,4936.0,Online Payment,Seanstad
+5543c787-048b-4970-97d6-a20cecdcbe4d,2025-09-15 11:15:49.720690,c8cf652a-e6f5-4ca2-b354-b9457ddec5b2,Valerie Shields,interesting,Home Goods,6,7.41,44.46,Cash,Barnestown
+42b4389d-df96-4faf-ab9c-59aa844da60e,2025-09-15 11:15:49.720829,7e4a0015-b8f5-4b71-9ed4-b54e6fb12779,Zachary Drake,hundred,Apparel,7,341.43,2390.01,Debit Card,New Calebshire
+cfececca-910c-4f05-859a-0b0eb14de7a2,2025-09-15 11:15:49.720953,a4b3f1ed-8514-4ffa-ab6f-7ffbe1d37099,Tiffany Bentley,place,Beauty,3,207.64,622.92,Debit Card,South Margaret
+2fc34445-e023-4e09-a8dd-26b57b3fe105,2025-09-15 11:15:49.721074,b15be622-2e85-4c69-a84c-c77e2297f001,Jo Fisher,interest,Apparel,2,107.83,215.66,Cash,West Anna
+84e1875e-4633-435a-a9f4-843dc071cb0d,2025-09-15 11:15:49.721200,10937687-3217-4157-9cac-04f9f88a21c7,Andres Meyer,hotel,Electronics,6,157.9,947.4,Online Payment,Kingside
+4eec8a7e-d42a-4ef1-a4e4-a4fe9aaa8a23,2025-09-15 11:15:49.721336,1d1894e3-43e8-4e63-8674-96badc38a960,Amber Murray,rise,Groceries,9,213.63,1922.67,Online Payment,North Aliciatown
+71c68aa2-6de3-41ae-8193-c1e38fcd9eba,2025-09-15 11:15:49.721473,0a4124f4-088f-44ce-9b58-5a897bd582d3,Dustin Mitchell,hard,Home Goods,1,232.75,232.75,Credit Card,Woodardland
+fcc976f9-b7c7-4cc4-ba5d-735461971b89,2025-09-15 11:15:49.721616,8b25be40-76e3-411f-9e6c-a83c9addfd62,Elizabeth Clark,able,Home Goods,10,326.37,3263.7,Credit Card,Johnfort
+bce6009f-a280-46f5-83be-5f1b58ef0ad0,2025-09-15 11:15:49.721742,e4964984-0ca7-4ba3-baa0-bba1e4c3ccf8,Cameron Espinoza,generation,Electronics,9,405.06,3645.54,Debit Card,Phillipsside
+2ba422d0-c895-471e-ab75-0940dc382dee,2025-09-15 11:15:49.721956,fc45ed0a-6f5d-4ab6-81f6-deffdd28c543,Melanie Kent,civil,Home Goods,4,20.72,82.88,Cash,Donaldstad
+611a5c3e-e4fe-4438-88df-0632217d2206,2025-09-15 11:15:49.722080,a4f31f5d-b49f-4cdc-8b62-0fa970aae46c,Anna Harper,wish,Groceries,8,116.06,928.48,Cash,South Andre
+989804b9-a1fd-4ddb-bc38-c05270e3af53,2025-09-15 11:15:49.722205,3895757d-8f1b-42ea-ac6c-e2ef594da846,Jonathan Wolfe,until,Apparel,2,483.08,966.16,Debit Card,North Brittany
+10b3f0de-136b-465e-971d-cb2cf5f4e956,2025-09-15 11:15:49.722338,0c340bfe-f6d6-4609-bb03-02b87d5d7190,Peggy Kaufman,establish,Apparel,4,287.92,1151.68,Debit Card,Scottfurt
+f96affab-4658-41db-a614-5c27700bcf97,2025-09-15 11:15:49.722473,2ae4836f-bcd5-4774-9303-a1f895551340,Francis West,door,Home Goods,1,289.3,289.3,Debit Card,West Robertoborough
+dafc5d7d-aee0-45a2-97b2-a72588d06f73,2025-09-15 11:15:49.722614,16d5bd14-3fd6-416b-8b46-4220af92f3d3,Heather Patton,black,Apparel,6,389.19,2335.14,Online Payment,North Sherihaven
+7ff55b85-4081-4507-857c-f0476958d69b,2025-09-15 11:15:49.722753,c3e66ec0-016e-42d9-92bc-57c3fb486624,Tamara Robinson,resource,Home Goods,5,139.24,696.2,Credit Card,Amandaport
+0f61a4d4-93fa-4f24-8222-b42f1b4178ec,2025-09-15 11:15:49.722877,8ca6f6e1-45d8-40b0-99c1-4a8c5880338d,Jessica Schmidt,between,Groceries,8,329.11,2632.88,Debit Card,Alexanderside
+47e2cedd-2529-45a9-ba9f-a278ea40b6e5,2025-09-15 11:15:49.723013,182e7ee7-4498-468a-ad4e-44169fcf63f1,Jimmy Douglas,five,Electronics,7,433.05,3031.35,Online Payment,Byrdberg
+bcd78836-ce12-43be-9867-632381c8d357,2025-09-15 11:15:49.723152,e1dd418c-d2c1-42cb-b49e-8cde28daf47a,Kimberly Jones,make,Beauty,6,61.74,370.44,Credit Card,Port Lacey
+2a85abc7-9b8e-4e0e-b2e6-af841c77563f,2025-09-15 11:15:49.723282,cf181541-bf9c-4a1c-bffe-c390b7a1cf8d,John Martinez,down,Electronics,9,493.55,4441.95,Online Payment,East Alyssatown
+fd5279a2-f229-4681-96a8-0b867f06f503,2025-09-15 11:15:49.723406,cae283f8-1408-4aa7-8c35-8f41b2258fb5,Cody Barnes,office,Electronics,4,416.45,1665.8,Online Payment,Amberton
+57149337-5aa7-4130-9ee1-70b721e77906,2025-09-15 11:15:49.723602,bad7562e-d2e8-44c5-8dd6-06f59eb0df02,Tiffany Martinez,why,Groceries,9,430.9,3878.1,Online Payment,Williamschester
+304b7cc3-ad26-499c-9b29-70bc2a3de759,2025-09-15 11:15:49.723747,ae48d170-a828-4178-81f2-58294b5cb721,Rebecca Warren,Republican,Groceries,10,28.28,282.8,Cash,Biancaberg
+f3236e8d-d42d-4019-8638-9c66c0040dcd,2025-09-15 11:15:49.723861,3232e30b-1b0d-4678-b97c-9a4f98183ba0,Sarah Johnson,carry,Beauty,5,27.7,138.5,Online Payment,New Valerie
+35fe0859-7811-4b93-acde-bc26e8998061,2025-09-15 11:15:49.723990,9f704173-6659-4c5b-9f09-6364d63867d2,Jill Santos,use,Home Goods,5,248.2,1241.0,Credit Card,North Randy
+e5adb7c7-b427-47f7-a7c2-ba8c48eca48c,2025-09-15 11:15:49.724115,0770c316-07b5-4f07-95b1-0121de9813a4,Julian Morris,recent,Groceries,5,164.63,823.15,Online Payment,West Jeffreystad
+2ed75699-25d6-4555-aef8-fb447285c75b,2025-09-15 11:15:49.724298,05967971-a64e-4f8a-b955-bbc20e3eaee2,William Jackson,sell,Home Goods,6,336.42,2018.52,Online Payment,Joshuaport
+e9e476fc-3b31-4e38-b11b-34aa73d7e20e,2025-09-15 11:15:49.724495,3e20b8ef-cee0-4788-82d3-5c189edf76eb,Anita Harrison,everything,Home Goods,9,234.88,2113.92,Cash,West Wendybury
+833cf5d2-7294-46a4-ac52-e00de8d3fb63,2025-09-15 11:15:49.724738,5578e0e4-5c3a-4d5f-8f64-7329ca89f0ae,Andrew King,court,Electronics,5,262.37,1311.85,Credit Card,Hernandeztown
+f54c8043-39df-4544-b78b-6aaf8174e5eb,2025-09-15 11:15:49.724881,c92ba241-c8f8-4ef9-a0fd-8f8453cacbda,Theresa Martin,mention,Groceries,10,16.49,164.9,Credit Card,Dorseyville
+f7a635a6-dde8-4ea3-b715-c848dc85e8a4,2025-09-15 11:15:49.725026,c506c903-8c0a-4060-991b-e10c92557abd,Michael Warner,home,Beauty,6,331.82,1990.92,Credit Card,Cheryltown
+5bfe47e2-669b-4b76-a602-d2d9c432adc9,2025-09-15 11:15:49.725137,1ec74597-c032-448c-9f53-1e60006011fe,Nancy Mitchell,hour,Beauty,7,401.36,2809.52,Debit Card,Cabreraport
+2ba79c07-17ac-4901-aa60-0a4b31a43323,2025-09-15 11:15:49.725267,d0537396-5789-4bc3-805d-65c0948de08e,Christina Odonnell,time,Home Goods,4,217.75,871.0,Credit Card,Frankport
+1c465add-efae-4597-aab4-c2c746e9829e,2025-09-15 11:15:49.725388,88f904f3-bde3-4d42-bb49-68d7103b1d58,Glen Marshall,owner,Apparel,2,81.16,162.32,Credit Card,Cooperchester
+58a1ba1f-1af6-4e91-b790-10d67b4900c1,2025-09-15 11:15:49.725520,6868de83-a7ca-4557-baac-b1a425735573,Lauren Stephens,trade,Electronics,2,337.36,674.72,Credit Card,Briannahaven
+fb185fc6-3412-4e1b-8998-2799f52bb91e,2025-09-15 11:15:49.725634,14e4499b-7da4-4b12-a438-9b559bcf9723,Michael Tucker,garden,Apparel,8,126.66,1013.28,Debit Card,Port Daniel
+19d959a1-2ce4-4706-b42a-2ad3d1306e76,2025-09-15 11:15:49.725749,5734843a-bc5b-4681-8e0e-b08a61b1bc8e,Tammy Hill,hard,Electronics,5,72.91,364.55,Cash,Kevinmouth
+1a8d46ab-c311-4127-a4bc-cb2ac8966ab4,2025-09-15 11:15:49.725861,6f780a1a-41a1-49aa-b1ae-ce1338e7f614,Kelsey Alexander,dark,Electronics,2,489.1,978.2,Debit Card,New Scott
+82cd5560-cea9-4908-b19c-79d11957d2db,2025-09-15 11:15:49.726015,6c9fa833-43ca-4953-8a7a-d89fbbfcc0af,Jessica Thomas,look,Electronics,3,232.3,696.9,Credit Card,Kingborough
+06180e1c-a05b-4c2b-a842-3b6d12c37b04,2025-09-15 11:15:49.726189,f6d3fb61-2d6a-4dbc-9063-80ac69c55bb8,Tammy Wiley,produce,Apparel,3,338.27,1014.81,Debit Card,New Aprilfort
+cdee5f72-6d06-4017-96a0-b494cbc2018b,2025-09-15 11:15:49.726333,c47a049f-392f-4f30-a202-4a87fee5eb58,Michael Anderson,room,Electronics,4,31.26,125.04,Credit Card,Jonesfort
+59de4bc9-f196-457e-8dfb-a2ad0ed0e81b,2025-09-15 11:15:49.726487,b11da8ba-f53d-4d68-a58b-92e19b13f2b3,Heather Meyer,people,Groceries,7,160.14,1120.98,Online Payment,Port Billyburgh
+fb60312d-b681-40d1-bc30-53623bb8eaaa,2025-09-15 11:15:49.726645,6d701b6a-52b0-46d7-8c95-a188b03c5f66,Christopher Drake,man,Home Goods,8,427.84,3422.72,Cash,Lake Amandamouth
+82c9e8de-beb3-479a-8bb7-e526f25385b6,2025-09-15 11:15:49.726777,ffb45e8b-3995-41cc-a145-157e7329dc39,Melvin Russell,field,Electronics,6,453.76,2722.56,Credit Card,Michelefurt
+53cabd71-d4bb-4d09-9c68-3b0d8e2dfddf,2025-09-15 11:15:49.726903,cff2f7e5-1c75-4376-9002-1d057e8b8988,April Petty,together,Beauty,9,35.54,319.86,Debit Card,Reevesstad
+e0f04381-a80a-4d58-ba1f-d4aae6eb3053,2025-09-15 11:15:49.727042,a44324b9-d7c9-4452-bf17-ba9df68dc9b0,Julie Garcia,great,Home Goods,1,195.56,195.56,Online Payment,Garnerfurt
+51d9cb47-0f5f-42b4-b737-5785a3820b1b,2025-09-15 11:15:49.727186,d6864054-15f3-41fa-8800-6dd9276f4222,Joshua Reynolds,too,Groceries,8,211.81,1694.48,Credit Card,Jonathanhaven
+86eea35f-5443-4588-b201-b53bc2c1ef47,2025-09-15 11:15:49.727322,2f83a02d-c555-4979-97e7-b6d6da8c69ef,Austin Scott,smile,Home Goods,5,439.07,2195.35,Cash,West Jaclynburgh
+fc82984c-b083-4bca-8d1e-974f29dac463,2025-09-15 11:15:49.727461,83d0cf80-70c4-4d5d-bf4d-02d0612c2a73,Rick Beard,fund,Home Goods,4,46.3,185.2,Credit Card,Kevintown
+734c54f2-c42e-4a80-97dc-73c7165f9547,2025-09-15 11:15:49.727625,e464468a-aae0-48c5-abe0-1c22f610886d,Rebekah Williams,message,Home Goods,10,408.86,4088.6,Credit Card,Morrisstad
+ca709a8e-1b3e-40e4-935c-f3e357348703,2025-09-15 11:15:49.727759,21d9ccbc-810c-4cd7-8163-fc37a0644612,Gregory Ryan,remain,Apparel,8,193.31,1546.48,Debit Card,Ryanland
+8b5fa921-5852-4311-af16-490f87e013ed,2025-09-15 11:15:49.727896,714d7826-c908-44b7-b609-3ea64214cc77,Robert Evans,machine,Beauty,5,214.72,1073.6,Debit Card,South Jefferyview
+c0cda5ca-f919-4b52-8b08-2e17322f0b7b,2025-09-15 11:15:49.728035,305e0be4-64f2-4168-9b2d-440e8190f01e,Katherine Barton,interest,Home Goods,6,314.33,1885.98,Cash,North Jasonton
+21b71928-f8c2-4c7d-9125-8ecc2757785b,2025-09-15 11:15:49.728158,46c87055-63d6-4701-8265-a42d8dfea95d,Cynthia Bates,whose,Electronics,2,238.89,477.78,Debit Card,North Amberberg
+ec9f1c95-ce11-455d-b6cd-b4e2825aa59a,2025-09-15 11:15:49.728282,51fdb1e1-b1cb-4d75-b3c3-e6a4145108db,Carla Harper,late,Electronics,10,113.68,1136.8,Online Payment,Hillfurt
+142b3a2b-d9bc-426e-8d3a-db28d80351d2,2025-09-15 11:15:49.728429,30001c41-ff42-4395-ac33-28643d105c9b,Megan Figueroa,six,Beauty,10,412.24,4122.4,Online Payment,Simshaven
+b6d0fcee-730a-4121-a4bc-9b3b5bf5a0ac,2025-09-15 11:15:49.728594,6fd29fe3-c2fd-4ec0-9121-3f71380c06d9,Brianna Solis,present,Electronics,6,471.13,2826.78,Debit Card,South Brianview
+8a3344d0-8d29-4ed7-a7fa-a2611405d6bd,2025-09-15 11:15:49.728727,94dd61b0-30ee-424f-9627-57834a996e93,Mary Wiley,reach,Beauty,7,71.83,502.81,Online Payment,South Lisa
+1dfe4cb4-c879-40b5-be8f-c9ccb69cae6e,2025-09-15 11:15:49.728854,29190398-832b-4584-9ac1-ed33f9a5b786,Wesley Payne,hundred,Apparel,7,181.8,1272.6,Credit Card,Everettbury
+b4120793-e1a4-40d9-be34-9cf1665899d3,2025-09-15 11:15:49.728981,55bcbe40-30ba-4da5-b8f7-a6ea3061b720,Carlos Jones,vote,Home Goods,1,427.05,427.05,Debit Card,South Jamesview
+3e9da258-be20-4d75-814c-4d95c8f4511a,2025-09-15 11:15:49.729098,5ffb2b96-351c-44b7-aa8a-fcd95015df49,Jennifer Atkins,I,Home Goods,6,47.26,283.56,Cash,South Loganburgh
+9cadcbcb-1326-49db-bbdf-7d34fd8def64,2025-09-15 11:15:49.729217,46903efd-ddad-4af2-b2c4-255ef3c481bd,Kimberly Carpenter,grow,Beauty,9,82.49,742.41,Debit Card,Maryside
+0dcbd6af-55c4-4011-b5b0-a8a3bf9595dc,2025-09-15 11:15:49.729340,493a3322-c166-4c62-8db2-3731f898ea9d,Anita Conrad,wrong,Home Goods,1,104.59,104.59,Credit Card,Mariafort
+9e51ac5d-5573-4285-b0c9-54f7e1898a2b,2025-09-15 11:15:49.729469,0f868e8a-867a-4ee7-916b-1394323459a2,Karen Buckley,threat,Apparel,2,399.47,798.94,Online Payment,Aliciabury
+10e3d9b3-0324-42f4-807b-549428c47ecb,2025-09-15 11:15:49.731566,54957ced-c287-46fc-8183-971c055430be,Jim Ramirez,pressure,Home Goods,7,124.38,870.66,Online Payment,Hannahview
+8fd88450-602e-469d-a7c5-40d08acca0a8,2025-09-15 11:15:49.731707,a1ac1a72-6423-4626-84a2-704f71873464,Curtis Reese,while,Electronics,7,120.28,841.96,Debit Card,Toddfurt
+f2181302-7b38-46c3-96e9-f4887fe78c1c,2025-09-15 11:15:49.731822,4f04d8db-371a-41b2-a37b-3e189b2e4afd,Bridget Marsh,yard,Electronics,7,119.72,838.04,Credit Card,North Jerry
+74a2bfd4-d0bb-4041-bc80-c37accddbd5f,2025-09-15 11:15:49.731942,58237e50-634d-46df-b4f6-5a3a051b6886,Jill Allen,community,Apparel,4,240.04,960.16,Cash,Courtneyland
+10b95bb3-dc72-4b25-8498-04a2218fae52,2025-09-15 11:15:49.732064,1d49355a-44c0-4492-8f26-ea7f08d9b64e,Christopher Massey,work,Beauty,10,489.92,4899.2,Debit Card,Campbellland
+d6eea9ab-99d3-41f4-9848-1a0ba0dfa43e,2025-09-15 11:15:49.732200,ba7b7877-320b-4f00-9593-f777df12331e,Nicholas Taylor,Mr,Groceries,5,44.16,220.8,Debit Card,Terriville
+085227f6-e13c-457c-a720-dc8e5ed0e5d7,2025-09-15 11:15:49.732331,62edc44b-2e33-4cac-9bfb-465bd5346760,Amber Baker,military,Electronics,4,35.74,142.96,Cash,Lake Stephanieburgh
+fbc84e9f-052e-44d7-835f-5f9c95056e14,2025-09-15 11:15:49.732458,992b7896-9da0-41d8-8d41-0fc17466b9d7,Anthony Griffin,door,Groceries,5,78.41,392.05,Debit Card,East Nicolestad
+6e94f04a-5e80-43b6-ae5e-9cea79373fcf,2025-09-15 11:15:49.732591,5246c0fc-6968-4ddc-ac14-86c159631471,Patricia Lewis,marriage,Electronics,5,328.14,1640.7,Online Payment,East Kurtview
+407bcc9d-abf2-4a43-8c7a-aa82786f2086,2025-09-15 11:15:49.732726,462ea90d-46b2-44ec-a275-afd0be7dc10f,Claudia Shelton,research,Beauty,6,248.79,1492.74,Online Payment,Chelseaton
+98e9e83f-06ce-43e6-9254-44e90c5effac,2025-09-15 11:15:49.732846,dc323a16-d48c-40e9-8c12-a64002ee92f9,Elizabeth Garcia,general,Electronics,7,179.96,1259.72,Credit Card,East Jacobview
+d3069a68-9e85-4a81-b27d-93b31d3bf8d9,2025-09-15 11:15:49.732972,e43b2ce3-b240-4e9b-8158-696f0c40ecba,Anthony Rice,point,Beauty,5,134.92,674.6,Cash,West Jillianburgh
+2a6cd982-dbfe-49c3-a91b-e39f95eebc07,2025-09-15 11:15:49.733082,ad139c48-f18b-4b53-b05a-a60a6641dd34,Kathleen Johnson,ever,Beauty,4,465.98,1863.92,Cash,East Stephanietown
+f7e91346-8517-4e16-a2aa-dc1e3b19a997,2025-09-15 11:15:49.733204,66e4759c-feec-4f2e-93cf-2bdbf831a37f,Kimberly Garner,wrong,Electronics,7,184.83,1293.81,Cash,Foleyborough
+443e4dcf-c8af-4f19-a82c-0280684d2fb6,2025-09-15 11:15:49.733331,d5aef972-4faa-43d3-a9b3-f7e802009b73,Richard Martin,benefit,Groceries,7,363.35,2543.45,Credit Card,Port Jacobmouth

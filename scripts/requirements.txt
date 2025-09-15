@@ -1,0 +1,5 @@
+faker
+boto3
+great_expectations
+apache-airflow-providers-amazon
+apache-airflow-providers-snowflake
